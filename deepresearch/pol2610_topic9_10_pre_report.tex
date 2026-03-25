@@ -1,0 +1,516 @@
+\documentclass[a4paper]{article}
+
+\usepackage[fontset=fandol]{ctex}
+\usepackage{amsmath, amssymb}
+\usepackage{graphicx}
+\usepackage[margin=2.2cm]{geometry}
+\usepackage[most]{tcolorbox}
+\usepackage{etoolbox}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{xurl}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{enumitem}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue!50!black,
+    urlcolor=blue!60!black,
+    citecolor=blue!50!black
+}
+
+\newtcolorbox{findingbox}[1]{
+    enhanced,
+    colback=green!5!white,
+    colframe=green!45!black,
+    colbacktitle=green!45!black,
+    coltitle=white,
+    fonttitle=\bfseries,
+    title=#1,
+    sharp corners
+}
+
+\newtcolorbox{evidencebox}[1]{
+    enhanced,
+    colback=blue!4!white,
+    colframe=blue!65!black,
+    colbacktitle=blue!65!black,
+    coltitle=white,
+    fonttitle=\bfseries,
+    title=#1,
+    sharp corners
+}
+
+\newtcolorbox{riskbox}[1]{
+    enhanced,
+    colback=red!4!white,
+    colframe=red!70!black,
+    colbacktitle=red!70!black,
+    coltitle=white,
+    fonttitle=\bfseries,
+    title=#1,
+    sharp corners
+}
+
+\newtcolorbox{methodbox}[1]{
+    enhanced,
+    colback=yellow!9!white,
+    colframe=yellow!60!black,
+    colbacktitle=yellow!60!black,
+    coltitle=black,
+    fonttitle=\bfseries,
+    title=#1,
+    sharp corners
+}
+
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\setlist[itemize]{leftmargin=1.6em}
+\setlist[enumerate]{leftmargin=1.8em}
+
+\newcommand{\reporttitle}{POL2610 第9/10章 pre 选题研究}
+\newcommand{\reportsubtitle}{基于 syllabus、全部课程 PDF、MinerU 解析与联网检索的 presentation topic 建议}
+\newcommand{\reportauthors}{Codex}
+\newcommand{\reportdate}{2026-03-25}
+\newcommand{\researchquestion}{如果 pre 聚焦 Topic 9/10 ``China and Northeast Asia''，哪些题目最适合在课堂上讲，并且最容易做出有论点、有材料、有当代性的 presentation？}
+\newcommand{\reportscope}{阅读课程 syllabus 与本仓库全部 8 份 PDF 的 MinerU 解析文本；补充 2024--2025 年官方与权威公开来源；默认 pre 时长约 12--15 分钟。}
+\newcommand{\reportaudience}{POL2610 学生本人，用于尽快确定 pre 题目并直接搭建讲稿结构。}
+\newcommand{\sourcewindow}{本地课程材料 + 2026-03-25 前可获取的公开网页资料（重点为 2024--2025 年东北亚最新动态）。}
+
+\begin{document}
+
+\begin{titlepage}
+\centering
+{\Large 深度研究报告\par}
+\vspace{1.0cm}
+{\huge\bfseries \reporttitle\par}
+\vspace{0.5cm}
+{\Large \reportsubtitle\par}
+\vspace{0.9cm}
+{\large \reportauthors\par}
+\vspace{0.2cm}
+{\large \reportdate\par}
+\vspace{1.0cm}
+
+\begin{tcolorbox}[width=0.94\textwidth, colback=black!2!white, colframe=black!60, sharp corners]
+\textbf{核心问题}：\researchquestion\par
+\textbf{研究范围}：\reportscope\par
+\textbf{目标读者}：\reportaudience\par
+\textbf{证据窗口}：\sourcewindow\par
+\end{tcolorbox}
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+\section{执行摘要}
+
+\begin{findingbox}{一句话结论}
+如果你的目标是在第 9/10 章做一个\textbf{最稳妥、最容易形成清晰主线、又最符合课程重心}的 pre，我最推荐的题目是：\textbf{``中国为何在朝鲜半岛长期坚持稳定优先，而不是把无核化放在第一位？''}
+\end{findingbox}
+
+这份报告在完整阅读 syllabus 与本地全部 PDF 后，结合 2024--2025 年东北亚最新官方资料，得到三个最值得优先考虑的题目：
+
+\begin{enumerate}
+\item \textbf{最稳妥}：\textbf{中国为何在朝鲜半岛坚持``稳定优先''？}  
+优点是题目足够聚焦，能把中国对朝、对韩、对美日韩同盟的逻辑串成一条线，而且课程材料最集中。
+\item \textbf{最出彩}：\textbf{东北亚正在形成``双三边''结构吗？中日韩合作与美日韩威慑制度化并行意味着什么？}  
+优点是非常当代，能把课程阅读和 2024--2025 年最新官方文件真正接起来。
+\item \textbf{最适合中日线}：\textbf{为什么经贸相互依赖没有阻止中日安全竞争升级？}  
+优点是理论感强，适合把历史记忆、东海争端、经济联系和安全困境放在同一框架里讲。
+\end{enumerate}
+
+\begin{evidencebox}{核心判断依据}
+\begin{itemize}
+\item syllabus 明确把第 9/10 章定义为 \textit{China and Northeast Asia}，重点是区域冲突、邻国关系与中国的区域地位。
+\item 本地 8 份 PDF 实际上分成两大阅读簇：\textbf{中日/东海}与\textbf{朝鲜半岛/核威慑}；再加一篇宏观框架文献讨论东北亚所处的``不确定时代''。
+\item 2024--2025 年的官方资料显示，东北亚的制度图景出现明显分化：一边是\textbf{中日韩合作的恢复}，另一边是\textbf{美日韩威慑与安全合作的制度化}。
+\end{itemize}
+\end{evidencebox}
+
+\section{研究范围与方法}
+
+\begin{methodbox}{工作方法}
+\begin{itemize}
+\item 本报告完整阅读了仓库中的 syllabus 与全部 PDF 的 MinerU 解析文本，而不是只抽第 9/10 章相关文献。
+\item 之所以仍把分析重点放在中日线和朝鲜半岛线，是因为 syllabus 自己就把 Topic 9/10 的关键问题聚焦在这两条线上。
+\item 对于``现在是否还值得讲''这类问题，我补充了 2024--2025 年的官方网页和权威数据库，避免只用旧阅读判断现实 relevance。
+\end{itemize}
+\end{methodbox}
+
+为了让题目选择更可操作，我把候选题按四个维度加权评分：
+
+$$
+S = 0.35F + 0.25N + 0.20A + 0.20M
+$$
+
+\begin{itemize}
+\item $S$：综合得分，满分 5 分
+\item $F$：与课程第 9/10 章的贴合度（fit）
+\item $N$：当代性与新鲜度（novelty / current relevance）
+\item $A$：是否容易形成清晰论点与反论点（arguability）
+\item $M$：材料可得性与 presentation 可操作性（material readiness）
+\end{itemize}
+
+\begin{evidencebox}{证据库存}
+\begin{itemize}
+\item 本地核心材料：syllabus + 8 份 PDF 对应的 9 份主要 MinerU 文本节点
+\item 网页补充：10 份官方或权威来源，覆盖中日韩三边合作、美日韩威慑合作、东海危机管控、DPRK 核问题与区域安全环境
+\item 证据截止日期：2026-03-25
+\end{itemize}
+\end{evidencebox}
+
+\section{课程材料阅读地图}
+
+\subsection{syllabus 实际告诉我们的是什么}
+
+syllabus 在 Topic 9/10 里提出的问题并不只是``中国和东北亚有哪些关系''，而是更具体地问三件事：
+
+\begin{enumerate}
+\item \textbf{为什么东北亚对中国特别重要}：这会自然把你引向朝鲜半岛、东海、日美同盟、核威慑。
+\item \textbf{区域冲突如何塑造中国的区域地位}：这意味着题目最好不要只做纯历史叙述，而要有``冲突如何反过来改变中国策略''的分析。
+\item \textbf{中国如何在邻国、同盟和大国竞争之间定位自己}：这使得最好的题目往往是``中国的排序逻辑是什么''，而不是简单描述事件。
+\end{enumerate}
+
+\subsection{全部本地 PDF 的用途分层}
+
+\begin{longtable}{p{2.0cm}p{4.6cm}p{7.0cm}}
+\toprule
+\textbf{来源} & \textbf{核心内容} & \textbf{对选题的价值} \\
+\midrule
+\endhead
+L2 & 从朝贡体系和地缘缓冲角度理解 Korea-China 历史关系。 & 提供历史纵深，适合用来解释中国为什么总把朝鲜半岛看成安全缓冲地带，而不是普通邻国。 \\
+L3 & Sutter 对中日、中韩、中朝关系的系统综述。 & 是第 9/10 章最像``总索引''的材料，几乎任何东北亚题目都能从这里起步。 \\
+L4 & 从中国视角解释朝鲜半岛的重要性、均势与稳定逻辑。 & 是``稳定优先''题目的核心基础文献。 \\
+L5 & 中日关系在冷战后为何恶化、为何又尝试修复。 & 适合做中日关系、战略互疑、战略互利、关系修复机制等题目。 \\
+L6 & 钓鱼岛/尖阁列岛争端的法律论证。 & 适合把题目做成``主权/法理/海洋划界''导向，但 presentation 会偏法律。 \\
+L7 & 东海争端从合作机会到谈判僵局的过程分析。 & 特别适合做``为什么功能性合作失败''、``为什么互利没有压住对抗''这类题。 \\
+L8 & 功能主义与朝鲜统一，强调 IO/NGO 的中介作用。 & 如果你想让 pre 有理论味，而不是纯现实主义，可以用来设计一个更学术的题目。 \\
+L9 & 美日、美韩同盟下的扩展威慑、核咨询机制与可信度问题。 & 对核威慑、同盟、制度化 cooperation 题目非常关键。 \\
+L10 & 东亚进入``不确定时代''，经济与安全日益纠缠。 & 最适合做宏观框架：为什么互赖和竞争能同时增强。 \\
+\bottomrule
+\end{longtable}
+
+\begin{findingbox}{课程材料的真实结构}
+这批 PDF 并不是平均分布在所有东北亚议题上，而是高度集中在三条线：
+\begin{itemize}
+\item \textbf{朝鲜半岛与中国的安全排序}
+\item \textbf{中日关系、东海争端与历史记忆}
+\item \textbf{核威慑、同盟机制与区域秩序竞争}
+\end{itemize}
+因此，最合适的 pre 题目也应当从这三条线中生长出来。
+\end{findingbox}
+
+\section{联网检索得到的当代背景}
+
+\subsection{中日韩合作回来了，但更像``修复性恢复''而非深度一体化}
+
+2024 年 5 月 27 日发布的\textit{Joint Declaration for the 9th Summit}显示，中日韩三国在多年停摆后重新启动 summit level cooperation，并把合作重点放在\textbf{人文交流、可持续发展、经贸、公共卫生与老龄社会、科技与数字化、灾害救援与安全}六个领域。这说明中日韩合作并没有消失，但其优先级被重新压回到\textbf{低政治、功能性、可见成效较强}的议题上。%
+\footnote{来源：Japan Ministry of Foreign Affairs, \url{https://www.mofa.go.jp/files/100675321.pdf}.}
+
+到 2025 年 3 月 22 日，第十一届中日韩外长会进一步确认三国仍希望推进下一次峰会，并把准备工作聚焦在三组关键词上：\textbf{更好理解彼此、保护民生、共同应对代际与跨国挑战}。这意味着三边合作仍在，但明显回避了最尖锐的战略矛盾。%
+\footnote{来源：Japan Ministry of Foreign Affairs, \url{https://www.mofa.go.jp/press/release/pressite_000001_01107.html}.}
+
+\subsection{与此同时，美日韩威慑合作持续制度化}
+
+与中日韩合作重回功能主义轨道形成对照的是，美日韩安全合作在 2024--2025 年继续制度化。2025 年 9 月 22 日，美日韩外长会联合声明再次确认美国对日本和韩国的防务承诺与扩展威慑承诺，且明确把合作对象扩展到更广泛的印太安全秩序。%
+\footnote{来源：Japan Ministry of Foreign Affairs, \url{https://www.mofa.go.jp/mofaj/files/100908422.pdf}.}
+
+这意味着东北亚正在出现一种值得讲的结构性现象：\textbf{一套偏经济与功能合作的中日韩机制，与一套偏威慑和同盟协调的美日韩机制并行存在}。这正是第 9/10 章最有现实感、也最能体现课程主题的切口之一。
+
+\subsection{朝鲜半岛问题仍然被``核威慑 + 稳定管理''主导}
+
+2025 年 1 月 10 日第四次美韩 NCG 联合声明明确表示，NCG 是一个\textbf{持续性的双边咨询机制}，其目标是强化扩展威慑，并进一步推进\textbf{信息共享、咨询机制、联合规划与执行、常规-核整合训练}。%
+\footnote{来源：U.S. Department of Defense, \url{https://www.defense.gov/News/Releases/Release/Article/4026575/joint-press-statement-on-the-fourth-nuclear-consultative-group-meeting/}.}
+
+与此同时，IAEA 在 DPRK chronology 页面中持续把 2025 年 3 月和 6 月的 Board of Governors 表述为对朝鲜核问题的持续关切。SIPRI 2025 则指出，到 2025 年初，全球核武库现代化继续推进，朝鲜被列为九个核武国家之一，估计拥有约 50 枚核武器库存。%
+\footnote{来源：IAEA, \url{https://www.iaea.org/newscenter/focus/dprk/chronology-of-key-events}; SIPRI, \url{https://www.sipri.org/yearbook/2025/06}.}
+
+这说明今天讲朝鲜半岛，已经不能只讲统一或危机，还要讲\textbf{中国如何在稳定、无核化、反同盟包围之间排序}。
+
+\subsection{东海问题依然没有走出``竞争中管控''}
+
+2024 年 7 月 28 日的美日延伸威慑部长级联合声明，把中国核力量扩张、朝鲜核导计划和俄朝军事合作放在同一恶化环境中讨论，说明日本安全叙事已把东北亚多个威胁源合并看待。%
+\footnote{来源：U.S. Department of Defense, \url{https://www.defense.gov/News/Releases/Release/Article/3852173/joint-statement-of-the-us-japan-ministerial-meeting-on-extended-deterrence/}.}
+
+另一方面，日本防卫省在 2025 年 11 月 1 日日中防长会谈通稿中强调中国在东海、尖阁诸岛周边以及与俄罗斯协同活动上的关切，同时又重申需要可靠运行中日防务热线。%
+\footnote{来源：Japan Ministry of Defense, \url{https://www.mod.go.jp/en/article/2025/11/99126bd82db36de189cb360a5833c04b38e06e53.html}.}
+
+这意味着东海问题的现实形态并不是``冲突或合作二选一''，而更接近于：\textbf{竞争在升级，但双方也在同时加码危机管控机制}。这给中日线题目提供了很好的现实入口。
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[x=1.8cm, y=1cm]
+\draw[->, thick] (0,0) -- (6.5,0);
+\draw[thick] (0,0.08) -- (0,-0.08);
+\node[align=center, font=\small] at (0,-0.75) {2024-05\\中日韩峰会};
+\draw[thick] (1.4,0.08) -- (1.4,-0.08);
+\node[align=center, font=\small] at (1.4,-0.75) {2024-07\\美日延伸威慑};
+\draw[thick] (2.6,0.08) -- (2.6,-0.08);
+\node[align=center, font=\small] at (2.6,-0.75) {2025-01\\第4次NCG};
+\draw[thick] (3.7,0.08) -- (3.7,-0.08);
+\node[align=center, font=\small] at (3.7,-0.75) {2025-03\\中日韩外长会};
+\draw[thick] (5.0,0.08) -- (5.0,-0.08);
+\node[align=center, font=\small] at (5.0,-0.75) {2025-09\\美日韩外长会};
+\draw[thick] (6.1,0.08) -- (6.1,-0.08);
+\node[align=center, font=\small] at (6.1,-0.75) {2025-11\\日中防长会};
+\node[align=center, fill=blue!8, draw=blue!50!black, rounded corners, inner sep=4pt] at (1.85,1.0) {中日韩合作\\功能性恢复};
+\node[align=center, fill=red!8, draw=red!60!black, rounded corners, inner sep=4pt] at (4.6,1.05) {美日韩威慑\\制度化推进};
+\node[align=center, fill=yellow!10, draw=black!60, rounded corners, inner sep=4pt] at (6.1,1.95) {中日竞争\\并行危机管控};
+\draw[->, thick, blue!60!black] (1.85,0.65) -- (1.85,0.1);
+\draw[->, thick, red!60!black] (4.6,0.7) -- (4.6,0.1);
+\draw[->, thick, black!70] (6.1,1.6) -- (6.1,0.1);
+\end{tikzpicture}
+\caption{2024--2025 年东北亚制度图景的三条并行线索。来源：作者根据 W1--W7 自绘。}
+\end{figure}
+
+\section{候选 pre 题目长名单与评分}
+
+\subsection{候选题目}
+
+\begin{enumerate}
+\item \textbf{中国为何在朝鲜半岛坚持``稳定优先''，而不是把无核化放在第一位？}
+\item \textbf{东北亚是否正在形成``双三边''结构：中日韩合作与美日韩威慑制度化并行意味着什么？}
+\item \textbf{为什么经贸相互依赖没有阻止中日安全竞争升级？}
+\item \textbf{东海争端为何长期停留在``法理对立 + 危机管控''，却难以进入真正的政治解决？}
+\item \textbf{功能主义还能解释朝鲜半岛合作与统一前景吗？}
+\end{enumerate}
+
+\subsection{评分表}
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabularx}{\textwidth}{p{0.8cm}Yccccp{1.2cm}}
+\toprule
+\textbf{ID} & \textbf{题目} & \textbf{$F$} & \textbf{$N$} & \textbf{$A$} & \textbf{$M$} & \textbf{$S$} \\
+\midrule
+T1 & 中国为何在朝鲜半岛坚持``稳定优先''？ & 5.0 & 4.5 & 5.0 & 5.0 & 4.88 \\
+T2 & 东北亚``双三边''结构：中日韩 vs 美日韩 & 4.5 & 5.0 & 4.5 & 4.5 & 4.63 \\
+T3 & 经贸相互依赖为何没有压住中日安全竞争？ & 4.5 & 4.5 & 4.5 & 4.5 & 4.50 \\
+T4 & 东海争端为何停留在危机管控而非政治解决？ & 4.5 & 4.0 & 4.5 & 4.0 & 4.28 \\
+T5 & 功能主义还能解释朝鲜半岛合作吗？ & 3.8 & 3.8 & 4.2 & 4.0 & 3.94 \\
+\bottomrule
+\end{tabularx}
+\caption{候选题目加权评分。来源：作者根据本地课程材料与网页证据综合判断。}
+\end{table}
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    width=0.95\textwidth,
+    height=7cm,
+    ybar,
+    bar width=14pt,
+    ymin=0,
+    ymax=5,
+    ylabel={综合得分},
+    symbolic x coords={T1,T2,T3,T4,T5},
+    xtick=data,
+    nodes near coords,
+    nodes near coords align={vertical},
+    enlarge x limits=0.15,
+    grid=major,
+    grid style={dashed,gray!30},
+    ylabel style={font=\small},
+    tick label style={font=\small},
+]
+\addplot[fill=blue!45] coordinates {(T1,4.88) (T2,4.63) (T3,4.50) (T4,4.28) (T5,3.94)};
+\end{axis}
+\end{tikzpicture}
+\caption{候选 pre 题目综合评分。来源：作者根据 $S = 0.35F + 0.25N + 0.20A + 0.20M$ 计算。}
+\end{figure}
+
+\subsection{为什么排名会是这样}
+
+\begin{itemize}
+\item \textbf{T1 排第一}，因为它最符合课程把中国置于东北亚关系中心的要求，也最容易把旧阅读与最新现实连接起来。
+\item \textbf{T2 排第二}，因为它的现实感最强，能体现你不仅读了课程文献，还看到了 2024--2025 年东北亚制度结构的变化。
+\item \textbf{T3 排第三}，因为它有很好的理论张力，尤其适合把经济相互依赖与安全困境并置起来讲。
+\item \textbf{T4} 也不错，但如果讲太多法律论证，presentation 容易变成事实堆砌，论点反而不够集中。
+\item \textbf{T5} 学术味最足，但如果课堂 pre 更看重``区域外交/现实政策''而非单纯理论争论，它就没有 T1--T3 那么稳。
+\end{itemize}
+
+\section{重点推荐题目与可直接使用的讲法}
+
+\subsection{推荐一：最稳妥}
+
+\begin{findingbox}{推荐题目 1}
+\textbf{中国为何在朝鲜半岛坚持``稳定优先''，而不是把无核化放在第一位？}
+\end{findingbox}
+
+\textbf{核心论点：}  
+中国在朝鲜半岛上的首要目标长期不是抽象的``无核化''，而是\textbf{防止战争、政权崩溃与同盟格局朝不利于中国的方向突变}；无核化始终重要，但通常被放在稳定之后。
+
+\textbf{为什么特别适合做 pre：}
+\begin{itemize}
+\item 非常符合 syllabus 对``中国在区域冲突中的地位''这一要求。
+\item 本地文献链非常完整：L2、L3、L4、L8、L9 能从历史、战略、理论、同盟四个面向支撑它。
+\item 最新资料也很强：W4、W8、W9 能证明今天这个问题不但没过时，反而更尖锐。
+\end{itemize}
+
+\textbf{可以直接照着讲的 6 页结构：}
+\begin{enumerate}
+\item 问题提出：为什么中国总说要无核化，但又经常反对过度施压朝鲜？
+\item 历史逻辑：朝鲜半岛为何是中国安全缓冲地带（L2, L4）
+\item 冷战后逻辑：稳定、影响力、对韩关系、对朝杠杆如何并存（L3）
+\item 今天的变化：DPRK 核问题升级，美韩 NCG 与扩展威慑制度化（W4, W8, W9）
+\item 论证核心：中国不是不在乎无核化，而是把它置于稳定约束之下
+\item 结论：这是否意味着中国在朝鲜问题上只能做``危机管理者''，而难以做``问题解决者''？
+\end{enumerate}
+
+\textbf{最适合放进讲稿的反论点：}  
+有人会说：如果朝鲜持续扩核，长期看反而更不稳定，所以中国应该把无核化排在第一位。  
+\textbf{回应方式：} 中国当然知道扩核有长期风险，但其政策逻辑往往是``先避免短期失控，再处理长期风险''；这就是稳定优先。
+
+\subsection{推荐二：最出彩}
+
+\begin{findingbox}{推荐题目 2}
+\textbf{东北亚是否正在形成``双三边''结构：中日韩合作与美日韩威慑制度化并行意味着什么？}
+\end{findingbox}
+
+\textbf{核心论点：}  
+东北亚当前并不是单一制度秩序，而是两套并行结构同时推进：\textbf{中日韩合作被压缩到功能主义与民生合作层面，而美日韩合作则在威慑、情报、训练与核咨询上持续制度化}。这说明区域秩序不是简单分裂，而是\textbf{分层化}。
+
+\textbf{为什么值得讲：}
+\begin{itemize}
+\item 非常新，能明显体现你有做额外 research。
+\item 能把 L9、L10 的宏观框架和 W1--W5 的最新官方文件直接结合。
+\item 适合课堂讨论，因为它天然带一个问题：这种结构是稳定器，还是分裂加速器？
+\end{itemize}
+
+\textbf{6 页结构建议：}
+\begin{enumerate}
+\item 定义什么叫``双三边''：中日韩 vs 美日韩
+\item 2024 中日韩峰会恢复合作，重点为何偏功能性（W1）
+\item 2025 中日韩外长会：合作继续，但聚焦民生与未来导向（W2）
+\item 2024--2025 美日、美韩与美日韩威慑制度化（W3, W4, W5）
+\item 解释：为什么同一地区会同时出现合作恢复与安全加固
+\item 结论：这是否意味着东北亚进入``经济合作无法替代安全分化''的新阶段？
+\end{enumerate}
+
+\textbf{风险：}
+\begin{itemize}
+\item 这个题目最有新意，但需要你在讲的时候一直把焦点拉回``中国的区域外交''，避免变成泛泛的区域秩序描述。
+\item 建议把论文题目中的主语写成``中国面对的东北亚双三边结构''，这样更贴课程。
+\end{itemize}
+
+\subsection{推荐三：最适合中日线}
+
+\begin{findingbox}{推荐题目 3}
+\textbf{为什么经贸相互依赖没有阻止中日安全竞争升级？}
+\end{findingbox}
+
+\textbf{核心论点：}  
+中日之间不是没有合作，而是\textbf{经济互赖与安全互疑同步上升}；在历史记忆、东海主权争议、同盟结构和民族主义共同作用下，互赖没有自动转化为安全信任。
+
+\textbf{为什么这个题目也很好：}
+\begin{itemize}
+\item 非常适合把 L5、L6、L7、L10 串起来。
+\item 它有明显的理论性，可以借 Goh 的 economic-security nexus 框架。
+\item 能避免把中日关系讲成单纯事件史，而是讲``为什么互利没有带来缓和''。
+\end{itemize}
+
+\textbf{可用结构：}
+\begin{enumerate}
+\item 常见直觉：经贸互赖应该降低冲突
+\item 课程文献显示：中日在历史、领土、战略上长期互疑（L3, L5）
+\item 东海争端说明合作机会为何反复落空（L6, L7）
+\item 当代背景：竞争升级同时又强调热线与危机管控（W6, W7, W10）
+\item 结论：互赖能增加成本，但不能自动解决主权与威慑问题
+\item 延伸：这是否说明东北亚比欧洲更不适合``互赖和平论''？
+\end{enumerate}
+
+\section{如果你今天就要定题，我会怎么选}
+
+\begin{findingbox}{决策建议}
+\begin{itemize}
+\item 如果你想要\textbf{最稳、最省力、最容易讲清楚}：选 \textbf{推荐一（朝鲜半岛稳定优先）}。
+\item 如果你想要\textbf{更有新意、更像自己做过研究}：选 \textbf{推荐二（双三边结构）}。
+\item 如果你更喜欢\textbf{中日关系、历史记忆、东海问题}：选 \textbf{推荐三（互赖为何未能缓和竞争）}。
+\end{itemize}
+\end{findingbox}
+
+如果是我来替你做一个课堂 pre，我会优先用\textbf{推荐一}。原因不是它最花哨，而是它最符合课程老师可能关心的几个标准：
+
+\begin{enumerate}
+\item 它的主语始终是\textbf{中国}，不会跑题。
+\item 它既有历史线，也有现实政策线，还能带一点理论。
+\item 它天然有争议点，容易引发讨论，而不是只做材料综述。
+\item 它最容易在 12--15 分钟内收束。
+\end{enumerate}
+
+\section{结论与后续问题}
+
+\subsection{较为确定的判断}
+
+\begin{itemize}
+\item 第 9/10 章最强的材料支撑点确实集中在\textbf{朝鲜半岛}与\textbf{中日/东海}两条线上。
+\item 2024--2025 年最新公开资料表明，东北亚并没有走向单一秩序，而是在合作恢复与威慑制度化之间同时前进。
+\item 对于课堂 pre 而言，一个好题目需要的不只是``有材料''，还要有\textbf{可论证的核心判断}。
+\end{itemize}
+
+\subsection{大概率成立但仍需你按课堂风格微调的判断}
+
+\begin{itemize}
+\item 如果老师更喜欢 China-centered policy analysis，推荐一会明显优于其他题目。
+\item 如果老师鼓励把课程与最新局势连接，推荐二会更容易显得有原创性。
+\item 如果课堂更看重理论与经典 IR debate，推荐三也许会比推荐二更受欢迎。
+\end{itemize}
+
+\subsection{仍然未知的部分}
+
+\begin{itemize}
+\item 我不知道你们课堂 pre 的严格时长和老师偏好，所以报告默认按 12--15 分钟、分析型而非纯综述型 presentation 设计。
+\item 我也不知道你更想讲中日还是朝鲜半岛，所以我把``最稳妥''和``最出彩''区分开了，而不是只给一个唯一答案。
+\end{itemize}
+
+\appendix
+
+\section{来源清单}
+\small
+\begin{longtable}{p{1.0cm}p{1.6cm}p{4.2cm}p{2.2cm}p{6.0cm}}
+\toprule
+\textbf{ID} & \textbf{模态} & \textbf{标题} & \textbf{日期} & \textbf{链接或路径} \\
+\midrule
+\endhead
+L1 & syllabus & China's Regional Diplomacy syllabus & 2026 & \texttt{/home/fanghaotian/Desktop/src/POL2610/syllabus.md} \\
+L2 & local PDF & Korea and the Chinese Tributary System & local copy & \texttt{/home/fanghaotian/Desktop/src/POL2610/mineru/9780312299583\_2.pdf/full.md} \\
+L3 & local PDF & Relations with Japan and Korea & 2012 & \texttt{/home/fanghaotian/Desktop/src/POL2610/mineru/Chapter 7 .../full.md} \\
+L4 & local PDF & China and the Korean Peninsula: A Chinese View & 1987 & \texttt{/home/fanghaotian/Desktop/src/POL2610/mineru/China and the Korean Peninsula A Chinese View.pdf/full.md} \\
+L5 & local PDF & China-Japan relations at a new juncture & 2009 & \texttt{/home/fanghaotian/Desktop/src/POL2610/mineru/China--Japan relations at a new juncture.pdf/full.md} \\
+L6 & local PDF & Tiaoyu/Senkaku dispute update & 2005 & \texttt{/home/fanghaotian/Desktop/src/POL2610/mineru/CC The Territorial Dispute over the Tiaoyu islands.pdf/full.md} \\
+L7 & local PDF & East China Sea negotiation stalemate & 2009 & \texttt{/home/fanghaotian/Desktop/src/POL2610/mineru/Territorial Conflicts in the East China Sea .../full.md} \\
+L8 & local PDF & Functionalist Approach to Korean Unification & 2015 & \texttt{/home/fanghaotian/Desktop/src/POL2610/mineru/Revisiting the Functionalist Approach to Korean Unification.pdf/full.md} \\
+L9 & local PDF & US Nuclear Weapons and US Alliances in North-East Asia & 2021 & \texttt{/home/fanghaotian/Desktop/src/POL2610/mineru/US Nuclear Weapons and US Alliances in North-East Asia.pdf/full.md} \\
+L10 & local PDF & The Asia Pacific's ``Age of Uncertainty'' & 2020 & \texttt{/home/fanghaotian/Desktop/src/POL2610/mineru/THE ASIA PACIFIC'S ``AGE OF UNCERTAINTY'' GREAT POWER COMPETITION.pdf/full.md} \\
+W1 & web/PDF & Joint Declaration for the 9th Summit & 2024-05-27 & \url{https://www.mofa.go.jp/files/100675321.pdf} \\
+W2 & web & The Eleventh Japan-China-ROK Trilateral Foreign Ministers' Meeting & 2025-03-22 & \url{https://www.mofa.go.jp/press/release/pressite_000001_01107.html} \\
+W3 & web & U.S.-Japan Ministerial Meeting on Extended Deterrence & 2024-07-28 & \url{https://www.defense.gov/News/Releases/Release/Article/3852173/joint-statement-of-the-us-japan-ministerial-meeting-on-extended-deterrence/} \\
+W4 & web & Fourth Nuclear Consultative Group Meeting & 2025-01-10 & \url{https://www.defense.gov/News/Releases/Release/Article/4026575/joint-press-statement-on-the-fourth-nuclear-consultative-group-meeting/} \\
+W5 & web/PDF & U.S.-Japan-ROK trilateral joint statement in New York City & 2025-09-22 & \url{https://www.mofa.go.jp/mofaj/files/100908422.pdf} \\
+W6 & web & Japan-China Defense Ministerial Meeting & 2025-11-01 & \url{https://www.mod.go.jp/en/article/2025/11/99126bd82db36de189cb360a5833c04b38e06e53.html} \\
+W7 & web & Establishment of the Hotline Between Japan-China Defense Authorities & 2023-03-31 & \url{https://www.mod.go.jp/en/article/2023/03/dd1ddd1e633fe6b16f982cf5fd6762ec152934e7.html} \\
+W8 & web & IAEA and DPRK: Chronology of Key Events & updated & \url{https://www.iaea.org/newscenter/focus/dprk/chronology-of-key-events} \\
+W9 & web & SIPRI Yearbook 2025: World nuclear forces & 2025 & \url{https://www.sipri.org/yearbook/2025/06} \\
+W10 & web/PDF & 2025 Defense of Japan Pamphlet & 2025 & \url{https://www.mod.go.jp/j/press/wp/wp2025/pdf/DOJ2025_Digest_EN.pdf} \\
+\bottomrule
+\end{longtable}
+
+\section{交付文件}
+
+\begin{itemize}
+\item 本报告 \texttt{.tex}：\texttt{/home/fanghaotian/Desktop/src/POL2610/deepresearch/pol2610\_topic9\_10\_pre\_report.tex}
+\item 证据清单：\texttt{/home/fanghaotian/Desktop/src/POL2610/deepresearch/source-ledger.md}
+\item 编译后的 PDF：同目录下生成
+\end{itemize}
+
+\end{document}
