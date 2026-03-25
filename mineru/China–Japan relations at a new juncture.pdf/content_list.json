@@ -1,0 +1,1540 @@
+[
+    {
+        "type": "text",
+        "text": "Chapter Title: China–Japan relations at a new juncture ",
+        "text_level": 1,
+        "bbox": [
+            57,
+            126,
+            610,
+            143
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chapter Author(s): Zhang Tuosheng ",
+        "bbox": [
+            60,
+            149,
+            411,
+            166
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Book Title: Rising China ",
+        "bbox": [
+            58,
+            185,
+            302,
+            202
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Book Subtitle: Power and Reassurance ",
+        "bbox": [
+            57,
+            209,
+            431,
+            224
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Book Editor(s): RON HUISKEN ",
+        "bbox": [
+            60,
+            231,
+            356,
+            247
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Published by: ANU Press ",
+        "bbox": [
+            60,
+            253,
+            305,
+            270
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Stable URL: http://www.jstor.com/stable/j.ctt24hbzb.8 ",
+        "bbox": [
+            57,
+            281,
+            606,
+            298
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from \u0000112.118.185.216 on Sat, 18 Jul 2020 10:58:01 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            356,
+            935,
+            638,
+            963
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "ANU E PRESS ",
+        "bbox": [
+            65,
+            40,
+            189,
+            97
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "JSTOR ",
+        "bbox": [
+            60,
+            833,
+            146,
+            913
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "ANU Press is collaborating with JSTOR to digitize, preserve and extend access to Rising China ",
+        "bbox": [
+            147,
+            834,
+            862,
+            848
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "C030 This content is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives4.0 International License (CC BY-NC-ND 4.0). To view a copy of this license, visit BY NC ND https://creativecommons.org/licenses/by-nc-nd/4.0/. ",
+        "bbox": [
+            105,
+            391,
+            929,
+            425
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            62,
+            391,
+            211,
+            427
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "Your use of the JSTOR archive indicates your acceptance of the Terms $\\&$ Conditions of Use, available at https://about.jstor.org/terms ",
+        "bbox": [
+            57,
+            363,
+            842,
+            386
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org. ",
+        "bbox": [
+            57,
+            323,
+            926,
+            356
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chapter 3 ",
+        "text_level": 1,
+        "bbox": [
+            397,
+            113,
+            582,
+            141
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "China–Japan relations at a new juncture ",
+        "text_level": 1,
+        "bbox": [
+            194,
+            161,
+            783,
+            219
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Zhang Tuosheng ",
+        "bbox": [
+            387,
+            240,
+            590,
+            260
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "China–Japan relations now stand at a new juncture after more than a decade of turbulence and nearly two years of recovery since the end of the Cold War. Whether China and Japan—two major powers in East Asia—will be able to establish a comprehensive strategic relationship of mutual benefit and realise long-term friendship and cooperation in the new conditions will affect not only the destinies of the two countries but the future of the region and the world at large. ",
+        "bbox": [
+            134,
+            303,
+            843,
+            426
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "I ",
+        "text_level": 1,
+        "bbox": [
+            132,
+            439,
+            146,
+            454
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "China and Japan resumed diplomatic relations in 1972. Remarkable progress was made in the next two decades. Despite some friction from time to time, friendship and cooperation were the mainstream of bilateral relations. ",
+        "bbox": [
+            134,
+            462,
+            843,
+            513
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Due to profound changes in the international situation and in the domestic circumstances in the two countries, China–Japan relations entered a long period of turbulence after the mid 1990s. During this period, differences and frictions increased and intensified. After 2004 in particular, disputes between China and Japan broke out on a host of issues, including history, Taiwan, territorial and maritime rights and interests, energy, the growth of Japanese military power, the US–Japan military alliance, Chinese military development, the entry into Japanese waters of a Chinese submarine and Japan’s pursuit of permanent membership of the UN Security Council. Strategic misgivings 1 became more apparent. With the complete interruption of high-level exchanges at the end of 2005, 2 China–Japan relations reached their nadir since the establishment of diplomatic ties. 3 ",
+        "bbox": [
+            134,
+            521,
+            843,
+            732
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There are many factors behind the sustained deterioration in bilateral relations. The most serious frictions occur on the questions of history, Taiwan and territorial and maritime rights and interests. When diplomatic relations were established, however, these problems had existed for a fairly long time and had not prevented the two sides from forging diplomatic ties nor had they obstructed growth of bilateral relations. Why, then, did they stand out in the late 1990s? ",
+        "bbox": [
+            134,
+            740,
+            843,
+            846
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from \u0000112.118.185.216 on Sat, 18 Jul 2020 10:58:01 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            329,
+            925,
+            664,
+            957
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            879,
+            881,
+            899,
+            890
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the author’s opinion, the reason lies in profound changes in domestic and international circumstances, including: the end of the Cold War and the disintegration of the Soviet Union and changes in US policy towards China; the rising comprehensive national strength of China and long-term recession and stagnation of the Japanese economy; the withdrawal of old-generation leaders from centre stage in both countries and Japan’s entry into a period of national transformation; 4 China and Japan becoming the two big powers in East Asia 5 and rising nationalism in both countries; the expansion of pro-independence forces in Taiwan and the rise of the Taiwan question; and the impact of the modern media. ",
+        "bbox": [
+            156,
+            113,
+            867,
+            288
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The most significant factors are the end of the Cold War and the need to recalibrate the relationship not only in the absence of a common threat (the Soviet Union) but in circumstances in which, for the first time in history, China and Japan are major powers. Neither country was adequately prepared for these major changes and their deep influences, and both lacked effective ways to resolve their differences in this new situation. As a result, the friendly atmosphere between the two countries deteriorated, frictions increased and strategic misgivings deepened. The bilateral relationship developed from one dominated by friendly cooperation with occasional friction or competition in the early 1990s, to the coexistence of cooperation and competition and then to a situation in the new century in which friction and competition exceeded cooperation—as represented by the comprehensive deterioration of bilateral political and security relations. ",
+        "bbox": [
+            156,
+            296,
+            865,
+            525
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The deterioration of China–Japan relations not only harmed the strategic interests of the two countries, it had an adverse effect on the stability and development of East Asia, thereby causing serious concern in other countries, including the United States. ",
+        "bbox": [
+            158,
+            532,
+            865,
+            601
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "II ",
+        "text_level": 1,
+        "bbox": [
+            156,
+            614,
+            174,
+            631
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "With joint efforts by both countries, a long-expected turn in China–Japan relations was marked by the ice-breaking journey of Japanese Prime Minister Shinzo Abe in October 2006 and the return visit by Chinese Premier Wen Jiabao in April 2007. ",
+        "bbox": [
+            158,
+            639,
+            865,
+            707
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "After accepting the Chinese invitation, Prime Minister Abe visited China on 8 and 9 October 2006. The two sides reached important common understandings, such as: working together to overcome political barriers and comprehensively promote bilateral relations, resuming exchanges and dialogue between leaders, correctly appraising each other’s path to development, accelerating consultation concerning the East China Sea in pursuit of joint development, and constructing a mutually beneficial relationship based on common strategic interests (China–Japan Joint Press Communiqué, 8 October 2006). The visit, dubbed an ‘ice-breaking journey’, served to break the political stalemate between the two countries, thus opening the door to further improvement and development of bilateral relations. ",
+        "bbox": [
+            158,
+            715,
+            867,
+            855
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from \u0000112.118.185.216 on Sat, 18 Jul 2020 10:58:01 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            329,
+            923,
+            664,
+            958
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "Rising China: Power and Reassurance ",
+        "bbox": [
+            158,
+            86,
+            405,
+            98
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            100,
+            881,
+            120,
+            890
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            136,
+            113,
+            843,
+            164
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Premier Wen paid a reciprocal visit to Japan in April 2007, the first visit by a Chinese premier in seven years. The two leaders agreed on ways to properly handle their countries’ differences and on the basic meaning of measures to be taken for strategic, mutually beneficial relations. 6 Premier Wen’s speech in the Japanese Diet was widely welcomed. The visit also marked the thirty-fifth anniversary celebration of the normalisation of relations and the China–Japan Culture and Sports Exchange Year. The successful visit by Premier Wen consolidated the improvements in bilateral relations begun in October 2006. ",
+        "bbox": [
+            134,
+            172,
+            843,
+            314
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The major turn in Sino–Japanese relations was manifest in three areas. ",
+        "bbox": [
+            136,
+            320,
+            761,
+            336
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "First, the two sides agreed to remove political barriers to the development of bilateral relations, thereby breaking the political stalemate that had formed because of former Japanese Prime Minister Junichiro Koizumi’s visits to the contentious Yasukuni war shrine for six consecutive years. Japan decided to adopt a policy of ambiguity on the question of the Yasukuni Shrine 7 and China dropped its insistence on Japanese leaders’ public commitment to not pay tribute at the shrine. In the joint press communiqué issued on 8 October 2006, the countries vowed to ‘properly handle issues that affect development of bilateral relations and enable strong movement of both political and economic wheels’. It was a decision made after careful thought by leaders of both countries. Given that differences over history are hard to resolve fundamentally in a short time, this serves to prevent these outstanding issues from damaging bilateral relations. Some people in both countries found the agreement rather fragile and predicted an early reversal of the situation. The sceptics have been proven wrong. In 2007, neither Abe himself nor the majority of his cabinet members visited the Yasukuni Shrine. The pragmatic and forward-looking attitude of China towards the question of history also greatly decreased the influence of wrong opinions in Japan. 8 ",
+        "bbox": [
+            132,
+            343,
+            843,
+            660
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Second, the two sides agreed to resume and strengthen high-level exchanges. Remarkable progress has since been made in this regard. In today’s international relations, in particular between major countries, high-level exchange is a basic condition for the development of normal state-to-state relations. On this basis, mutual trust between leaders can play a uniquely positive role in facilitating the improvement and development of relations between their countries. For some time, however, the steady worsening of China–Japan relations seriously obstructed high-level contact, which became the weakest link in bilateral ties. Starting with Prime Minister Abe’s visit to China in 2006, high-level exchanges resumed rapidly. Leaders of the two countries met not only at international gatherings, they soon engaged in reciprocal direct visits. The resumption and strengthening of high-level contact are substantive parts of the major turn in the relationship and will play a substantial role in consolidating improvement and preventing reversal. ",
+        "bbox": [
+            134,
+            669,
+            843,
+            862
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from \u0000112.118.185.216 on Sat, 18 Jul 2020 10:58:01 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            329,
+            923,
+            664,
+            958
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "China–Japan relations at a new juncture ",
+        "bbox": [
+            578,
+            88,
+            841,
+            98
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            879,
+            881,
+            899,
+            890
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            158,
+            113,
+            865,
+            165
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Third, the two sides reached common understanding on establishing a strategic, mutually beneficial relationship, which reset the baseline of bilateral relations on common interests. In 1998, China and Japan made it very clear in their joint statement that the two countries would commit themselves to establishing a friendly and cooperative partnership for peace and development towards the twenty-first century. Unfortunately, under the circumstances at the time, such a vision did not become the reality of a common understanding between the two governments and peoples and efforts made to that end were soon overwhelmed by increasingly acute differences and confrontation. The idea of jointly establishing a strategic, mutually beneficial relationship represented a redefinition of China–Japan relations and marked a major change in mind-set. It indicates the determination of both countries to abandon the old idea of ‘no two rival tigers on the same mountain’ and to start to work together for mutual benefit. A strategic relationship of mutual benefit goes beyond differences and puts expanded common interests in a primary position. It also goes beyond bilateral cooperation and extends the basis of China–Japan relations to broader areas of regional and global cooperation. ",
+        "bbox": [
+            156,
+            172,
+            865,
+            470
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "With overall relations changing for the better, China–Japan exchanges and cooperation are warming, growing and strengthening in many fields. The two sides have strengthened cooperation on resolving the North Korean nuclear issue and maintaining stability on the Korean Peninsula. Negotiations on the East China Sea have gained pace. A joint research program on history, guided by both governments, has been formally launched. Momentum has been created for the resumption and development of military relations. The two sides have also agreed, in addition to a strategic dialogue, to establish high-level economic and energy policy dialogue mechanisms. There has also been an upsurge in non-governmental exchanges. ",
+        "bbox": [
+            156,
+            478,
+            867,
+            653
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This major turning point in China–Japan relations was calculated and deliberate rather than accidental. ",
+        "bbox": [
+            158,
+            661,
+            865,
+            693
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "First, continued worsening of relations had seriously damaged the strategic interests of both countries. In the five years in which various disputes had surfaced, public sentiment had become increasingly confrontational and mutual strategic suspicions had escalated. With the outbreak of large-scale anti-Japan demonstrations in some Chinese cities in 2005, people began to worry that the situation of ‘cold politics and a warm economy’ 9 between China and Japan could move towards ‘cold politics and a cold economy’. Meanwhile, the danger of an accidental military clash in the East China Sea was increasing. All of the above-mentioned risks, if realised, had the potential to bring unthinkable damage to Sino–Japanese relations. The worsening relationship constituted a huge barrier to China’s peaceful rise and Japan’s pursuit of the status of a normal state. Breaking the political stalemate, effectively controlling differences and guiding bilateral relations towards stability and improvement gradually became the desire of both countries. ",
+        "bbox": [
+            158,
+            701,
+            867,
+            860
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from \u0000112.118.185.216 on Sat, 18 Jul 2020 10:58:01 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            329,
+            923,
+            664,
+            958
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "Rising China: Power and Reassurance ",
+        "bbox": [
+            158,
+            86,
+            405,
+            98
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "36 ",
+        "bbox": [
+            100,
+            881,
+            120,
+            890
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            134,
+            113,
+            843,
+            200
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the worsening of China–Japan relations had caused much concern in the international community. It not only slowed efforts to establish an East Asian economic community, it led to a serious imbalance in the China–US–Japan triangle. 10 No country in East Asia wishes to be forced to make a choice between China and Japan; and the United States’ policy desire of expanding security cooperation with China while strengthening the alliance with Japan has been seriously challenged. Moreover, although the US Government has long been reluctant to comment on wrong historical views in Japan, the growing salience of the Yasukuni Shrine problem and consequent rising criticism from the US Congress and strategic studies circles put the Bush Administration in an embarrassing position. The international community, including the United States, wished to see the stability of China–Japan relations restored as soon as possible. ",
+        "bbox": [
+            132,
+            208,
+            843,
+            418
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Additionally, ever since 2005, the two governments—and China in particular—had been attempting to break the political stalemate and improve bilateral relations. A meeting between President Hu Jintao and Prime Minister Koizumi in Indonesia in April 2005, 11  which saw the start of strategic dialogue at the vice-ministerial level and the resumption of consultations over the East China Sea the next month, raised hope for an improvement in bilateral relations. Even after the two sides’ efforts were again stalled by Koizumi’s visit to the Yasukuni Shrine, 12 contacts continued in 2006, with exchanges between the two ruling parties, a foreign ministers’ meeting, strategic dialogue 13 and consultation on the East China Sea. During that process, with changes in Japanese public opinion 14 on the question of the Yasukuni Shrine, China began to release positive signals 15 and subtle changes began to appear in the attitude of some important politicians in Japan. 16 Finally, the two sides seized the opportunity provided by a change in Japanese leadership and agreed, after arduous negotiation, to develop and improve friendly and cooperative relations—the result of which was the long-awaited turn in bilateral relations. ",
+        "bbox": [
+            132,
+            426,
+            843,
+            711
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "III ",
+        "text_level": 1,
+        "bbox": [
+            134,
+            724,
+            158,
+            741
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Marked by Prime Minister Yasuo Fukuda’s and President Hu’s trips, China–Japan relations have again come to a new historical juncture and are facing important opportunities. ",
+        "bbox": [
+            136,
+            748,
+            843,
+            800
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In September 2007, Prime Minister Abe resigned unexpectedly and was succeeded by Fukuda against the backdrop of a Liberal Democratic Party (LDP) electoral defeat in the House of Councilors. On taking office, Fukuda stressed that relations with China constituted one of the most important sets of external relationships for Japan and he expressed determination to press ahead with the strategic relationship of mutual benefit. He soon made it clear that he would not visit the Yasukuni Shrine and indicated that Japan’s Asian diplomacy should resonate alongside the growth of its alliance with the United States, while giving up the diplomacy of values pursued by Abe’s Cabinet. The Fukuda Government has continued the general policy of developing and improving relations with China and has pursued a more positive policy towards China, which has won high praise and a positive response from Chinese leaders. ",
+        "bbox": [
+            134,
+            807,
+            843,
+            858
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from \u0000112.118.185.216 on Sat, 18 Jul 2020 10:58:01 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            329,
+            923,
+            664,
+            958
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "China–Japan relations at a new juncture ",
+        "bbox": [
+            578,
+            86,
+            841,
+            98
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "37 ",
+        "bbox": [
+            879,
+            881,
+            899,
+            890
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            158,
+            113,
+            867,
+            271
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From 27 to 30 December 2007, despite a very busy schedule at home, Prime Minister Fukuda broke with convention and visited China just before the New Year, fulfilling his promise to ‘visit China as soon as possible’. In a series of meetings, leaders expressed the political will to strengthen the strategic relationship of mutual benefit and jointly open good-neighbourly, friendly and mutually beneficial cooperation between China and Japan. 17 They discussed and reached a number of new common understandings on maintaining high-level exchanges, properly handling major and sensitive issues between the two countries, developing cooperation in priority areas such as energy, environmental protection and finance, expanding personnel exchanges, exploring joint development of the East China Sea and strengthening defence exchanges and political and security dialogue (Xinhuanet, Jinan, 30 December 2007). After the meetings, the two countries published a joint press communiqué on promoting cooperation in the areas of the environment and energy. Prime Minister Fukuda’s speech at Peking University was well received by the university faculty and students. Similarly, his visit to Qufu, Shandong, the hometown of Confucius, was significant in highlighting the common historical source of Chinese and Japanese cultures. ",
+        "bbox": [
+            156,
+            278,
+            865,
+            594
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Prime Minister Fukuda’s visit to China was a complete success and was considered a trip that heralded the arrival of spring. Compared with the previous, first round of reciprocal visits between Chinese and Japanese leaders, this particular trip was characterised by a warm and friendly atmosphere, which gave the two sides greater expectations for the future. ",
+        "bbox": [
+            156,
+            602,
+            865,
+            689
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "After meticulous preparations, President Hu paid a state visit to Japan from 6–10 May 2008. The ultimate purpose was to ‘enhance mutual trust, strengthen friendship, deepen cooperation, and plan for the future so as to push ahead with [a] strategic and mutually beneficial relationship between China and Japan in an all-round way’. 18 During the five-day visit, President Hu engaged in some 50 events. He met with Emperor Akihito, held talks with Prime Minister Fukuda, met various Japanese leaders and old friends, gave a speech at the Waseda University and had extensive contact with the Japanese people. ",
+        "bbox": [
+            158,
+            697,
+            867,
+            838
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from \u0000112.118.185.216 on Sat, 18 Jul 2020 10:58:01 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            329,
+            923,
+            664,
+            958
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "Rising China: Power and Reassurance ",
+        "bbox": [
+            158,
+            86,
+            405,
+            98
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "38 ",
+        "bbox": [
+            100,
+            881,
+            120,
+            890
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The visit produced three important outcomes. The first was the signing of a joint statement between China and Japan on fully promoting a strategic relationship of mutual benefit. This statement built on three political documents between China and Japan 19 that enshrined the latest developments in bilateral relations and provided principles to guide the long-term growth and development of the relationship. The second was the publishing of a joint press communiqué between the Chinese and Japanese Governments on strengthening exchanges and which identified 70 items of cooperation. Third, the sight of the top Chinese leader interacting in a friendly and pragmatic way with a cross-section of Japanese people was well received by the Japanese public and was very positive for improving the two sides’ perceptions of each other. ",
+        "bbox": [
+            134,
+            113,
+            843,
+            307
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The hugely successful visit by President Hu was dubbed a trip in the ‘warm spring’. 20 After ice breaking, ice melting and heralding spring, China–Japan relations have finally moved into a new spring. ",
+        "bbox": [
+            134,
+            314,
+            843,
+            367
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Since September 2007, remarkable progress has been made in developing the strategic relationship of mutual benefit. The various dialogue mechanisms have all been resumed and developed. Various people’s exchanges, particularly among youths, have been given a huge push. 21 The two sides continue to strengthen regional security and economic cooperation. Even the military-to-military relationship has achieved significant momentum. 22 After the earthquake in Wenchuan, Sichuan Province, Japan extended assistance without delay and disaster relief cooperation is still proceeding on an unprecedented scale. The two countries have reached principled consensus on joint development of oil and gas fields in the East China Sea, marking an important step towards joint development there (see reports on Xinhuanet, Beijing, 18 June 2008). Cooperation between the two countries in areas of non-traditional security, such as finance, energy, the environment and climate change, has also been comprehensively strengthened. ",
+        "bbox": [
+            132,
+            374,
+            843,
+            621
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "IV ",
+        "text_level": 1,
+        "bbox": [
+            134,
+            633,
+            162,
+            651
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Looking into the future, the general trend for the long-term development of China–Japan relations has been set. The path ahead will sometimes be tortuous but, on the whole, the outlook appears relatively bright. This judgment is based on the following considerations. ",
+        "bbox": [
+            134,
+            657,
+            843,
+            727
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "First, after years of intense friction, China–Japan relations have moved out of the long period in which both countries failed to adapt to post-Cold War circumstances 23 and into a new stage of development. Both sides have drawn on the lessons of the past decade or more and reached an important conclusion that long-term peace, friendship and cooperation are the only choices for them. A logical extension of this is reflected in the joint declarations that China and Japan are ‘cooperation partners rather than [a] threat to each other’, 24 that they ‘support each other’s peaceful development’ and that they will ‘work together for the creation of a world of lasting peace and common prosperity’. 25 Strengthened bilateral, regional and global cooperation between China and Japan will forcefully contain their differences and link their interests more closely. ",
+        "bbox": [
+            134,
+            733,
+            843,
+            858
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from \u0000112.118.185.216 on Sat, 18 Jul 2020 10:58:01 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            329,
+            923,
+            664,
+            958
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "China–Japan relations at a new juncture ",
+        "bbox": [
+            578,
+            86,
+            841,
+            98
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            879,
+            881,
+            899,
+            890
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            158,
+            113,
+            865,
+            183
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Second, the three major differences between China and Japan have been brought under relatively good control and frictions are decreasing. Although their differences on the question of history are unlikely to disappear soon, they are far less likely to become dominant factors again in bilateral relations since China is determined to adopt a pragmatic and forward-looking attitude and the domestic and external environments of Japan have changed. The two countries still differ on the question of Taiwan; however, since Japan will not easily change its one-China principle and the policy of not supporting Taiwanese independence, and with the clear relaxation of the situation across the Taiwan Strait since the spring of 2008, the likelihood of serious friction between China and Japan over this issue has been greatly reduced. On the question of territorial and maritime disputes in the East China Sea, China and Japan have reached agreement to ‘make the East China Sea a sea of peace, stability and cooperation’ and have made initial progress on the steps towards joint development. Although there is still a gap between the desire for joint development and real accomplishments, the shadow of a military conflict has disappeared. ",
+        "bbox": [
+            156,
+            189,
+            865,
+            473
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Third, apart from highly mutually complementary economic cooperation and trade, non-traditional security issues including finance, energy, the environment, climate change, infectious diseases and terrorism are rapidly expanding areas of cooperation. The two sides clearly have more common interests than differences in the non-traditional security arena. In the future, strengthened cooperation in these areas will become fuel for the two sides to consolidate and develop their relations. ",
+        "bbox": [
+            156,
+            479,
+            865,
+            601
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fourth, the developments and improvements in the past two years have laid an important foundation for major progress in China–Japan relations. Apart from the abovementioned achievements, sound momentum has been achieved for the resumption and promotion of the various dialogue mechanisms that are conducive to strengthening bilateral, regional and global cooperation between China and Japan. Furthermore, the pragmatic measures taken by both sides to improve their relations and the positive progress made have won extensive support from the two peoples and the world community. ",
+        "bbox": [
+            156,
+            609,
+            867,
+            748
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Additionally, the expected stable growth in China–US relations and the rise of ‘neo-conservatism’ and ‘neo-realism’ 26 in Japanese political thinking will also benefit sound development of China–Japan relations in the future. ",
+        "bbox": [
+            158,
+            755,
+            867,
+            808
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "As President Hu pointed out, China–Japan relations now have a solid foundation for growth to a higher level and stand at a new starting point. Against the backdrop of deepening economic globalisation and regional integration, China–Japan relations are all the more strategic and important globally. The two sides must work together and waste no opportunity to push their relations to a new high. 27 ",
+        "bbox": [
+            156,
+            815,
+            863,
+            850
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from \u0000112.118.185.216 on Sat, 18 Jul 2020 10:58:01 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            329,
+            923,
+            664,
+            958
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "Rising China: Power and Reassurance ",
+        "bbox": [
+            158,
+            86,
+            405,
+            98
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "40 ",
+        "bbox": [
+            100,
+            881,
+            120,
+            890
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            134,
+            113,
+            843,
+            183
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We must, however, be sober-minded and acknowledge that there are still multiple difficulties and uncertainties in China–Japan relations and it will not be all smooth sailing. The two sides should be fully prepared for this. ",
+        "bbox": [
+            136,
+            191,
+            843,
+            243
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "First, although the three major points of sensitivity and friction have been fairly well controlled, they will continue to exist for a long time. On these questions, there is still a large gap between the two sides in terms of perception, policy, desired solutions and expectations. The possibility of any of the above issues regaining prominence cannot be excluded although the likelihood of all three intensifying at the same time is not high. Moreover, differences about the Japan–US military alliance, modernisation of the Chinese military force, Japan’s pursuit of permanent membership of the UN Security Council 28 and China’s full market economy status will remain difficult to manage. If handled carelessly, these issues could also have major negative impacts on the future of bilateral relations. ",
+        "bbox": [
+            134,
+            250,
+            843,
+            442
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Second, the seriously confrontational popular sentiments that formed during the period of deteriorating relations will take time to change. With bilateral relations warming up, the sentiments of the two peoples towards each other are undergoing positive changes. On the whole, however, these changes lag behind the improvement and development of state-to-state relations and have constituted restraint on bilateral relations. Examples include the radical reaction of Japanese public opinion to the poisoned-dumpling incident, 29 the playing up by some Japanese media of the Tibetan incident and incidents during the Olympic torch relay 30 and the negative reactions of some Chinese citizens to the initial shipment of earthquake relief materials by Japanese military aircraft and to the agreement on principles guiding joint development of oil and gas fields in the East China Sea. This reflects the fragility that still exists in bilateral relations and indicates that some important differences will still take time to resolve. ",
+        "bbox": [
+            132,
+            450,
+            843,
+            679
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, considering the above two points plus the two countries’ different social systems and ideology, the deeper strategic misgivings between the two countries will not simply disappear because of the new definition of bilateral relations in formal documents. Such strategic misgivings can be expected to persist and to stand out from time to time among the general public, the strategic research community and government departments in both countries, exerting negative influences on the development of bilateral relations in all fields. It can, however, be said with certainty that if the strategic relationship of mutual benefit continues to progress, mutual political trust will also grow while strategic misgivings will decrease. ",
+        "bbox": [
+            134,
+            687,
+            843,
+            863
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from \u0000112.118.185.216 on Sat, 18 Jul 2020 10:58:01 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            329,
+            923,
+            664,
+            958
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "China–Japan relations at a new juncture ",
+        "bbox": [
+            578,
+            88,
+            841,
+            98
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            879,
+            881,
+            897,
+            890
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Finally, the unstable Japanese political situation is still a fairly big uncertainty. On 1 September 2008, Prime Minister Fukuda, who was in favour of actively developing relations with China, followed the example of his predecessor, Abe, and resigned, 31 leading to chaos in the Japanese political situation once again. On 24 September, Taro Aso, who had long been considered a hawk, was elected as the new Prime Minister of Japan. On taking office, Aso was confronted with the various challenges that had defeated his predecessor and had to focus on economic problems and domestic affairs. The anticipated election is unlikely to resolve the underlying sources of instability in Japan’s political situation. 32 If the Japanese political situation remains unstable, it could delay the process of China and Japan strengthening their cooperation and resolving differences, or even introduce new variables in Japan’s foreign policy and policy towards China. This is, frankly, quite worrisome. ",
+        "bbox": [
+            156,
+            113,
+            865,
+            343
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To sum up, it might appear that the prospects for relative stability in China–Japan relations in the future are quite bright. This does not, however, mean that the relationship will be tranquil. Future China–Japan relations will be rather like China–US relations since the end of 2001. In other words, dialogue and cooperation will accumulate and strengthen; differences will continue to exist or even rise one after another but remain controllable; misunderstandings will gradually decrease and political trust will gradually increase. If China–Japan relations can develop as such, the platform for their cooperation will become broader, mutual sentiments between the two peoples will turn again towards respect and friendship and the most difficult issues between the two countries could gradually be resolved. In the end, the two big countries will be able to find a path to strategic mutual benefit and become friendly partners in cooperation with major influence in a multipolar world. ",
+        "bbox": [
+            156,
+            351,
+            867,
+            578
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Such a prospect will benefit China and Japan, East Asia and the Asia-Pacific region and be conducive to world peace, stability and prosperity. ",
+        "bbox": [
+            156,
+            585,
+            865,
+            620
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Reference ",
+        "text_level": 1,
+        "bbox": [
+            156,
+            632,
+            283,
+            651
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Xinsheng, Wang et al. 2008, ‘Changes in Japanese political thoughts and China–Japan relations in recent years’, Research on History of China–Japan Relations, vol. 2. ",
+        "bbox": [
+            158,
+            656,
+            807,
+            707
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ENDNOTES ",
+        "text_level": 1,
+        "bbox": [
+            156,
+            725,
+            301,
+            743
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1 China worries about Japan ‘reviving militarism’ or ‘pursuing a path to military power’. Japan, on the other hand, worries about the ‘China threat’. ",
+        "bbox": [
+            154,
+            747,
+            865,
+            771
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "$^ 2 \\operatorname { I n } 2 0 0 2$ , after Prime Minister Koizumi visited the Yasukuni Shrine again, in disregard of strong Chinese opposition, national leaders of the two countries stopped visiting each other but maintained meetings on international occasions. After Koizumi’s fifth visit to the shrine in October 2005, even bilateral meetings on international occasions were interrupted. ",
+        "bbox": [
+            158,
+            774,
+            865,
+            824
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3 China–Japan relations experienced a down turn in 1995–96. At the time, however, frictions did not appear all at once, nor did bilateral disputes intensify to such an extent. ",
+        "bbox": [
+            146,
+            827,
+            859,
+            854
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from \u0000112.118.185.216 on Sat, 18 Jul 2020 10:58:01 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            329,
+            923,
+            664,
+            958
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            100,
+            881,
+            120,
+            890
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "Rising China: Power and Reassurance ",
+        "bbox": [
+            158,
+            86,
+            405,
+            98
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4 The transformation was made manifest as follows: the old system of conservative and progressive forces, each holding one-half of the power, disintegrated, with conservatism becoming dominant in politics and society and new state-ism on the rise; major adjustments were made to domestic and foreign policies in pursuit of shaking off the shadow of a defeated state and acquiring the status of a political or even military power commensurate with an economic power as a ‘normal state’. ",
+        "bbox": [
+            134,
+            113,
+            843,
+            176
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5 In this situation, neither side wishes to see the rise of the other’s influence in East Asia and both worry about competition from the other. Japan is particularly worried about China’s rise. In reality, the rejuvenation of China cannot be stopped and it is also natural for Japan to develop from an economic power to a political power, although its development potential cannot be compared with that of China given its geographic, population and resource restrictions. ",
+        "bbox": [
+            134,
+            177,
+            843,
+            241
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6 The basic meaning of a strategic relationship of mutual trust between China and Japan is that China and Japan will jointly make constructive contributions to peace, stability and development in Asia and the world through cooperation at bilateral, regional and international levels and, in that process, both will obtain benefits and expand their common interests and promote their bilateral relations to a new high. See China–Japan Joint Press Communiqué, 9 April 2007. ",
+        "bbox": [
+            132,
+            244,
+            843,
+            307
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "7 That is, refraining from explicit statements about whether the shrine will be visited—a sharp contrast with Koizumi’s public statement of intention to visit every year. ",
+        "bbox": [
+            132,
+            308,
+            841,
+            335
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "8 In Japan, some people have long claimed that China will always play the history card with Japan and that even when the Yasukuni Shrine problem is resolved China will take on other historical issues to dwarf Japan. ",
+        "bbox": [
+            132,
+            338,
+            841,
+            375
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "9 Since 2001, even with continued tension in the political and security fields, economic relations between China and Japan have maintained fairly good growth; this has been called ‘cold politics and a warm economy’. ",
+        "bbox": [
+            136,
+            377,
+            845,
+            417
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "10 Post-World War II history suggests that a stable and relatively balanced development of China–US–Japan relations is the real cornerstone of peace and stability in East Asia. ",
+        "bbox": [
+            136,
+            418,
+            765,
+            443
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "11 During the meeting, President Hu put forward a five-point proposal for developing and improving China–Japan relations. Koizumi expressed the view that the Japanese side stood ready to follow the spirit contained in the five-point proposal and actively push forward friendly relations between Japan and China. See Xinhuanet, Jakarta report, 23 April 2005. ",
+        "bbox": [
+            134,
+            445,
+            841,
+            495
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "12 On 17 October 2005, one year and nine months after his previous visit, Koizumi visited the Yasukuni Shrine for the fifth time. This was the last day of the third round of China–Japan strategic dialogue. ",
+        "bbox": [
+            136,
+            498,
+            845,
+            525
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "13 The three rounds of strategic dialogue that took place from February to September 2006 played an important role in the two sides’ efforts to finally break the political stalemate. ",
+        "bbox": [
+            134,
+            526,
+            837,
+            552
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "14 In the summer of 2006, Nikkei Business Daily reported a record made by late IHA Chief Minister Tomita Asahiko of remarks by Emperor Showa revealing the latter’s strong dissatisfaction in his late years with the Yasukuni Shrine housing level-A war criminals. At the same time, opinion polls in Japan showed that more than 50 per cent of respondents opposed or were not in favour of Japanese leaders paying tribute at the Yasukuni Shrine. ",
+        "bbox": [
+            134,
+            554,
+            843,
+            617
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "15 In February 2006, while meeting seven friendly organisations from Japan, President Hu made it clear that as ‘long as Japanese leaders clearly make a decision not to visit again the Yasukuni Shrine hosting Class A War Criminals, I would like to have dialogue and meeting[s] with Japanese leaders on improving and developing China–Japan relations’. In August, he made a similar statement to the new Japanese Ambassador, Yuji Miyamoto, on the occasion of the presentation of the latter’s credentials. ",
+        "bbox": [
+            134,
+            620,
+            843,
+            683
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "16 It was rather eye-catching that, in the summer of 2006, then Chief Cabinet Minister Abe, who was regarded as most likely to succeed as Japanese Prime Minister, moved away from full and open support for paying tribute at the Yasukuni Shrine and adopted an attitude of neither confirming nor denying media reports about his visit to the shrine in the previous spring. ",
+        "bbox": [
+            134,
+            685,
+            841,
+            736
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "17 The Prime Minister explicitly hoped that 2008 would be ‘recorded in history as a year of rapid development of Japan–China relations’ and ‘the first year of [a] leap forward in Japan–China relations’. ",
+        "bbox": [
+            132,
+            737,
+            845,
+            764
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "18 Speech by Hu Jintao during a joint interview by resident Japanese media in Beijing (Xinhuanet, Beijing, 4 May 2008). ",
+        "bbox": [
+            132,
+            766,
+            813,
+            791
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "19 Referring to the 1972 Joint Statement, 1978 Treaty of Peace and Friendship and the 1998 Joint Declaration. ",
+        "bbox": [
+            134,
+            794,
+            805,
+            819
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "20 Before the visit, with the incidents of poisoned dumplings, Tibet and lack of concrete progress in the consultations concerning joint development of the East China Sea, some Japanese media worried about a possibly unsuccessful visit by Hu. ",
+        "bbox": [
+            134,
+            820,
+            827,
+            859
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from \u0000112.118.185.216 on Sat, 18 Jul 2020 10:58:01 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            329,
+            923,
+            664,
+            958
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "China–Japan relations at a new juncture ",
+        "bbox": [
+            578,
+            88,
+            841,
+            98
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            879,
+            881,
+            899,
+            890
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            158,
+            113,
+            746,
+            127
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "22 Another symbolic event, besides the first visit by the Chinese Minister of Defence to Japan in August 2007 after nine years, was the first exchange of naval ships, with the Chinese Navy visiting Japan in November 2007 and Japanese ships visiting China in June 2008. ",
+        "bbox": [
+            156,
+            129,
+            863,
+            168
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "23 With the end of the Cold War, China’s relations with the United States and Japan entered into periods of turbulence. China–US relations moved out of such a situation after 12 years (from 1989 to 2001) and began to achieve relatively stable development. The period of turbulent China–Japan relations also lasted 12 years—from 1994 to 2006. ",
+        "bbox": [
+            154,
+            169,
+            865,
+            219
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "24 In the joint statement between China and Japan on comprehensively promoting strategic relations of mutual benefit, China’s support for Japan’s peaceful development was expressed in the following way: ‘In the past 60 years since the end of the $2 ^ { \\mathrm { { \\bar { n } d } } }$ World War, Japan has pursued a path of…peace…and made [a] contribution to world peace and stability by peaceful means, [of] which the Chinese side has a positive appraisal.’ Such a statement represents China’s full confirmation of the path Japan has followed since the end of World War II and its expectation for the future of Japan. ",
+        "bbox": [
+            156,
+            221,
+            863,
+            298
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "25 Joint Statement Between China and Japan on Comprehensively Promoting Strategic Relations of Mutual Benefit, Xinhua News Agency, Tokyo, 7 May 2008. ",
+        "bbox": [
+            156,
+            300,
+            847,
+            327
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "26 The former is represented by Ichiro Ozawa, the head of the Democratic Party; the latter is represented by Fukuda Yasuo (Xinsheng et al. 2008). ",
+        "bbox": [
+            154,
+            328,
+            863,
+            355
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "27 Yang Jiechi on President Hu Jintao’s Visit to Japan (Xinhuanet, Beijing, 10 May 2008). ",
+        "bbox": [
+            160,
+            356,
+            771,
+            370
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "28 The two sides have agreed to strengthen dialogue and communication on UN reform and strive for increased consensus. The Chinese side also expressed the view that it attached importance to Japan’s status and role in the United Nations and wished to see Japan playing an even greater constructive role in international affairs. ",
+        "bbox": [
+            158,
+            372,
+            865,
+            422
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "29 In January 2008, some Japanese consumers were poisoned after eating dumplings imported from China. Preliminary investigations suggested that the case was isolated poisoning rather than one of food safety caused by pesticide residue. After the incident, the two governments and police departments undertook very good cooperation. The investigation is still under way. ",
+        "bbox": [
+            156,
+            425,
+            867,
+            475
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "30 On 4 August 2008, Daily Yomiuri reported that, according to an opinion poll it conducted jointly with a Chinese journal, although the image of Japan among Chinese had largely improved, the Japanese perception of China had worsened again because of the above-mentioned incident. ",
+        "bbox": [
+            154,
+            477,
+            867,
+            516
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "31 It is reported that Fukuda resigned under pressure over various touchy issues. Besides the many negative legacies from the Koizumi era and the difficulties brought about by oil and food price rises and the financial crisis, one fundamental reason for Fukuda’s resignation was the ‘twisted Diet’—that is, the House of Representatives and the House of Councilors were controlled by the ruling party and the opposition respectively, leading to the inability of the ruling party to push for implementation of administrative proposals due to obstacles in the Diet. ",
+        "bbox": [
+            156,
+            518,
+            865,
+            593
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "32 Furthermore, if confronted with the risk of losing its ruling position, will the LDP support Koizumi or politicians of the same type to return to the political arena? This possibility cannot be excluded. ",
+        "bbox": [
+            148,
+            594,
+            863,
+            621
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from \u0000112.118.185.216 on Sat, 18 Jul 2020 10:58:01 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            329,
+            923,
+            666,
+            958
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "discarded",
+        "text": "44 ",
+        "bbox": [
+            100,
+            881,
+            120,
+            890
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "discarded",
+        "text": "Rising China: Power and Reassurance ",
+        "bbox": [
+            156,
+            86,
+            405,
+            98
+        ],
+        "page_idx": 12
+    }
+]

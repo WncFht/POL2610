@@ -1,0 +1,1190 @@
+[
+    {
+        "type": "text",
+        "text": "About Subscribe Archive Search Course Readers 3/11 Article Index ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            110,
+            599,
+            124
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Announcing APJ’s Annual Fund-raising Campaign ",
+        "text_level": 1,
+        "bbox": [
+            353,
+            136,
+            644,
+            149
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Our goal: to raise $\\$ 12,000$ to publish the Journal and to carry out improvements in the design and functioning of our website. At a time when the international order is imploding with new conflicts erupting across the Asia-Pacific our work takes on new importance. We rely on readers, authors and supporters. The Asia-Pacific Journal is a 501 (C) (3) non-profit organization recognized by the Internal Revenue Service. Contributions are tax deductible. Success depends not only on the many $\\$ 25$ and $\\$ 50$ contributions, but also on people able to provide $\\$ 100$ to $\\$ 1000$ contributions. By Paypal or credit card at our home page under Subscribe. ",
+        "bbox": [
+            58,
+            155,
+            937,
+            222
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Territorial Conflicts in the East China Sea – From Missed Opportunities to Negotiation Stalemate ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            229,
+            609,
+            267
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reinhard Drifte ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            273,
+            164,
+            285
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Territorial Conflicts in the East China Sea – From Missed Opportunities to Negotiation Stalemate (1) Reinhard Drifte ",
+        "bbox": [
+            60,
+            291,
+            717,
+            317
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            325,
+            112,
+            337
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper analyses the political, legal, military and economic issues involved in the territorial and maritime border issues in the East China Sea (ECS) between mainly Japan and China but also with special reference to the Korean interests in the northern part of the Sea. The issues revolve around the dispute over the sovereignty of the Senkaku Islands/Diaoyudao, as well as the delimitation of the Japan-China and the China-Korea maritime borders. It concludes that in the 1970s and 1980s some opportunities to achieve joint exploitation of the hydrocarbon resources in the ECS were missed, and Japan later sent misleading signals to China about the commitment to its economic interests in the Sea. A critical evaluation of the 18 June 2008 Japan-China agreement foresees many obstacles to implement it, which also does not augur well for a speedy delimitation of the China-Korea maritime border. ",
+        "bbox": [
+            62,
+            344,
+            941,
+            424
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            431,
+            136,
+            444
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Japanese and Chinese governments agreed in 2006 to turn the East China Sea from a “Sea of Confrontation” to a “Sea of Peace, Cooperation and Friendship”. On 18 June 2008 the two governments achieved an agreement, following lengthy negotiations, on joint approaches to the exploitation of hydrocarbons in the East China Sea through the conclusion of a bilateral treaty (2). As of now no round of negotiation has yet begun which gives an indication of the magnitude of problems. ",
+        "bbox": [
+            62,
+            451,
+            898,
+            504
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9e63b48ccc6b11c78a3b33c19718a1e5c8b5a1b813f019984e965d19c3ac405.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            340,
+            511,
+            658,
+            718
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "East China Sea map ",
+        "text_level": 1,
+        "bbox": [
+            442,
+            725,
+            557,
+            737
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In fact, China has not achieved the delimitation of its maritime border in the East China Sea (ECS) with either of its neighbours, Japan or the Republic of Korea (ROK). In the case of Japan and China, the difficulties lie in different concepts for defining the Exclusive Economic Zone under the United Nations Convention of the Law of the Sea (UNCLOS) which both countries signed in 1996. The delimitation is also contingent on a solution to the disputed sovereignty over the Senkaku Islands/Diaoyudao in the south of the ECS which is currently under de facto Japanese control. Another complication is the need to involve the ROK, which has claims to the north of the ECS, in a solution. China-ROK delimitation negotiations are stalemated because of a dispute over how to draw the EEZ border due to the existence of a submerged rock (Ieodo/Suyan) which is under de facto ROK control but which China also claims for its proposed EEZ border. As a result the way China approaches the ECS disputes with Japan may well determine how it deals with Korea on the delimitation of their overlapping EEZ. ",
+        "bbox": [
+            62,
+            744,
+            932,
+            851
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper will look at the political, legal, military and economic issues involved in these territorial and maritime border issues. It concludes that in the end all three maritime neighbours will have to compromise in order to turn the ECS into a “Sea of Peace, Cooperation and Friendship”. Otherwise the disputes may get out of hand and pose the risk of military clashes or at least a continuous poisoning of relations. ",
+        "bbox": [
+            62,
+            858,
+            934,
+            898
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Legal Aspects ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            906,
+            168,
+            917
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The disputed Senkaku Islands/Diaoyudao (approximately 7 square kilometres) consist of five uninhabited islets and three barren rocks located approximately 120 nautical miles south-west of Okinawa. They are situated at the edge of the ECS’s continental shelf, fronting the Okinawa Trough to the south. ",
+        "bbox": [
+            62,
+            926,
+            925,
+            964
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "The Asia-Pacific Journal Japan Focus Analysis of the forces shaping the Asia-Pacific and the world ",
+        "bbox": [
+            47,
+            33,
+            949,
+            104
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "May 25, 2009 PDF Volume 7 | Issue 22 | Number 3 ",
+        "bbox": [
+            707,
+            228,
+            936,
+            252
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Japan claims that it incorporated the islands as terra nullius (vacant territory) in January 1895, having discovered them ten years before. The authorities of imperial China, republican China, and, until 1970, the People’s Republic of China (PRC) did not dispute Japan’s ownership. In January 1895, the Sino-Japanese War turned in Japan’s favour, but the acquisition of the Senkaku Islands cannot be linked in a legal sense to Japan’s acquisition of Taiwan under the Peace Treaty of Shimonoseki, which was concluded in April of 1895. However, the acquisition of the Senkaku Islands occurred after ten years of hesitation by the Japanese government in view of possible negative Chinese reactions; the decision was not conveyed to other countries at the time, and was only made public in 1952 (Urano 2005: 123ff.; Su 2005: 54; Okuhara 1971: 98; Zhou 1991: 233). It is interesting to note that in the case of Dokto the ROK also links the origin of the dispute to Japan\\`s imperial aggression. ",
+        "bbox": [
+            60,
+            34,
+            930,
+            128
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "From 1945 to 1972 the islands were administered by the US as part of their occupation of Okinawa, and they were returned to Japan along with Okinawa. However, although the US confirms that the islands are part of the territory covered by the Japan-US Security Treaty, no US administration has ever made a statement concerning the legal title of the islands, only referring to Japan as effectively administering them (Valencia 2007: 155). ",
+        "bbox": [
+            62,
+            134,
+            936,
+            173
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "China first claimed the islands in May 1970, after Japan and Taiwan had started talks on jointly exploring the energy resources around the Senkakus and the US had agreed to return the islands, together with Okinawa, to Japan (People’s Daily, 18/05/70, 4, 29/12/70). Only on 30 December 1971 did the Chinese Foreign Ministry publish an official statement claiming the islands (Urano et al. 2001: 35-6). This was therefore after the Committee for Coordination of Joint Prospecting for Mineral Resources in Asian Offshore Areas (CCOP), under the auspices of the UN Economic Commission for Asia and the Far East (ECAFE), had conducted a geophysical survey in 1968. The committee had said in a May 1969 report that the continental shelf between Taiwan and Japan might be extremely rich in oil reserves (Gao/Wu 2005: 32). Since 1970, the PRC has asserted territorial rights to the islands, basing these on historical and legal arguments such as prior discovery and use (as navigational aids and later as a source of medicinal herbs), the cession of the islands as part of Taiwan in the 1895 Shimonoseki Peace Treaty, and the cession of any Japanese claims to Chinese territory at the end of World War II (Dai 2006: 142-143). Japan refutes these arguments by referring to its uninterrupted administration of the islands since their incorporation into Japan in 1895, the incorporation of the islands before the Shimonoseki Peace Treaty, the absence of any Chinese claims between 1895 and 1970, and the incorporation of the islands into the Nansei Shotō group of islands, which had nothing to do with Taiwan and thus nothing to do with the 1951 San Francisco Peace Treaty. Without going into further detail, suffice it to say that the majority of international law scholars seem to give greater validity to the Japanese than to the Chinese arguments. ",
+        "bbox": [
+            60,
+            180,
+            939,
+            341
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Initially, both countries tried to play down the island dispute — notably in 1972 and 1978 — while still making clear legal claims. In 1972, the Chinese were very keen on achieving normalisation of diplomatic relations, and in 1978 both sides were eager to conclude the Peace and Friendship Treaty. Since both agreements faced serious difficulties, the Chinese as well as Japanese leaders did not want the Senkaku Islands to stand in their way as yet another problem. ",
+        "bbox": [
+            60,
+            348,
+            932,
+            401
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since 1978 the dispute over the Senkaku Islands has led to a series of incidents involving nationalists and the armed forces from both sides, as well as diplomatic protests. As recently as June 2008 a Japanese Coast Guard boat rammed a Taiwanese sport fishing boat which had entered the territorial waters around one of the Senkaku Islands causing it to sink. ",
+        "bbox": [
+            62,
+            409,
+            932,
+            448
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a079ba87161f5e0cbf27da89634ac9f563676968385e0e109a98095891eff86.jpg",
+        "image_caption": [
+            "Japanese Coast Guard and Taiwanese boat, June 16, 2008 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            340,
+            455,
+            659,
+            600
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Beijing and Taipei protested, and both reiterated their territorial claim to the islands (FMPRC 2008a). Early in 2009 a group of nationalists from mainland China, Hong Kong and Taiwan announced that they would send a boat to the islands to reinforce China\\`s claim in May 2009 (the planned trip was abandoned after pressure from the governments in Taibei and Beijing). For the Japanese government, with its de facto control over the islands, there is officially no territorial dispute to discuss. As in the case of Russia with the Northern Kuriles (at least in the case of the two biggest disputed islands) or the ROK with Dokto, the de facto owner of disputed territory refutes as a matter of statecraft the existence of a territorial problem. But it is not only incidents like those above, but also the existence of unknown quantities of hydrocarbon resources around the islands and the impossibility of delimiting the maritime border in the southern part of the ECS without agreement on the status of the islands that will keep the issue on the agenda. ",
+        "bbox": [
+            60,
+            626,
+            934,
+            720
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The dispute about the modus for delimiting the maritime border revolves around the fact that Japan demands application of the equidistance approach whereas China insists on application of the principle of the natural prolongation of the continental shelf. Based on the latter approach, which allows claims up to 350 nautical miles (n.m.) from the coast, China claims an area which extends from its coast up to the Okinawa Trough (approximately 2,000 metres deep), which is within the $3 5 0 \\mathrm { n . m }$ . limit. Japan argues that the Exclusive Economic Zone (EEZ) of both sides overlap because the width of the ECS is less than $4 0 0 \\mathrm { n . m }$ . and, therefore, that the median (or equidistant) line drawn through the overlapping area should be the maritime border. However, as long as a border is not agreed upon by both sides, Japan claims potential authority (senzaiteki kengen) over an area stretching up to $2 0 0 \\mathrm { n . m }$ . from its coast. For China, the disputed area is between Japan’s proposed median line and the Okinawa Trough; for Japan it is the overlapping area of the $2 0 0 \\mathrm { n . m }$ . EEZ. The Japanese discount the natural shelf prolongation approach as being superseded by more recent international litigations. ",
+        "bbox": [
+            60,
+            727,
+            934,
+            834
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The delimitation issue is made more complex by the claims of the ROK, which borders the ECS in the north. Whereas the ROK has also not yet agreed with China on the delimitation of its maritime border, and even has a dispute underway over a submerged feature (‘Ieodo’ in Korean; ‘Suyan’ in Chinese) on the continental shelf, it has a provisional agreement with Japan. However, in 1974, when both countries drafted the Agreement between Japan and the Republic of Korea Concerning the Establishment of Boundary in the Northern Part of the Continental Shelf Adjacent to the Two Countries and the Agreement between Japan and the Republic of Korea Concerning the Joint Development of the Southern Part of the Continental Shelf Adjacent to the Two Countries (valid until 2028), China objected vigorously, yet without referring to any particular territorial claim of its own. As a result, Japan deferred ratification of the agreements until June 1978, when it ratified the agreement without regard for China’s continued opposition (Gao/Wu 2005: 33). Japan and South Korea conducted seven explorations on three sites between 1980 and 1986, but, not finding any economically viable fields, they abandoned the search (KH, 2/8/02). ",
+        "bbox": [
+            60,
+            840,
+            939,
+            960
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1378ca5212a02b909bd80e211835f29bf17a07755c6b9be86598ba0c57e22233.jpg",
+        "image_caption": [
+            "East China Sea showing continental shelf "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            333,
+            32,
+            666,
+            177
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Most of the Japan-Korea joint development zone is on the Japanese side of what Japan claims to be the median line (Park 2006: 21), a situation which Japan wants to avoid in its negotiations with China. Moreover, some sections of the maritime area in which Japan did survey work in 2004 are also part of the 1978 Japan-South Korea joint development area; and some of the area being developed now by China in the north of the ECS (that is, the Longqing field, Asunaro in Japanese) is considered by South Korea to be adjacent to that joint development area (Park 2006: 104-105). It is clear from these circumstance that an agreement on exploration between Japan and China in the northern end of the ECS will have to involve South Korea and will ultimately depend on an agreed maritime border between the latter and China. As we will see later, this circumstance led to the exclusion of the Longqing gas field from the June 2008 agreement. ",
+        "bbox": [
+            60,
+            203,
+            936,
+            296
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ieodo lies $8 2 \\mathrm { n m }$ southwest of Jejudo and $1 4 7 \\mathrm { n m }$ northeast of China at a depth of 50 meters. The highest point of the rock is $4 . 6 \\mathrm { m }$ below sea level and the Korean government has erected a weather station tower on top of it. China claims that the rock is within its $2 0 0 \\mathrm { n m }$ EEZ. So far the two governments could only agree that it is a submerged rock, not an island, and therefore cannot itself have an EEZ. The last and 13th round of ROK-China ECS border negotiations took place in July 2008, without an agreement. ",
+        "bbox": [
+            62,
+            303,
+            934,
+            355
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Economic Stakes in the East China Sea ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            363,
+            303,
+            375
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The East China Sea is of great economic interest to all three countries because of its proven or suspected hydrocarbon resources, its fishery resources and its sea-floor deposits of metals. The various estimates of proven and potential hydrocarbon resources vary considerably. Although these reserves are not particularly high by international standards, they are important in view of the crucial role of hydrocarbon imports in both Japan and China and the desire of both countries to reduce their high dependence on energy from the Middle East. Currently, the most important hydrocarbon resource in the ECS is gas. Although gas accounts for only about 3 per cent of China’s total energy consumption, its consumption is rising quickly (planned to rise to $5 . 3 \\%$ in 2010), driven by a policy of reducing the high level of environmentally damaging coal consumption. In 2007, despite its own growing gas production, China started to import gas in the form of LNG. ",
+        "bbox": [
+            62,
+            382,
+            932,
+            476
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There are purely economic and logistical reasons which, in practice, make the oil and gas reserves in the ECS more useful for China than for Japan. In the case of gas, which seems to be most abundant in the contested area, it is important to note that Japan imports gas only in the form of LNG. Therefore, a large land-based gasification plant would have to be built. This would require laying a pipeline, which would be uneconomical because it would have to lead to Japan’s major consumer centres, over $2 { , } 0 0 0 \\mathrm { k m }$ from the gas fields. Furthermore, such a pipeline would have to cross deep waters, including the Okinawa Trough (Gotō 2005: 38; Dai 2006: 166). In the case of oil, opinions vary because extracted oil could more easily be loaded onto tankers, although using the existing Chinese pipeline structure to the Chinese mainland would be cheaper. Obviously, these economic and logistical circumstances have no impact on legal outcomes and do not provide grounds for demanding that Japan should abandon its territorial claims to facilitate a solution. As we will see from the June 2008 agreement, there are no practical obstacles to Japan taking part in the exploitation of the oil and gas fields, or sharing the profits as part of a bilateral agreement. ",
+        "bbox": [
+            62,
+            483,
+            932,
+            604
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Missed Opportunities — Wrong Signals ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            611,
+            287,
+            624
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Soon after the 1969 report, Japan started, with its ECS neighbours, to explore possibilities for joint development of the sea’s hydrocarbon resources, leading initially to the above-mentioned Japan-Korea agreement. There were also proposals for Japan and China to jointly develop energy reserves in the ECS. In 1984, Deng Xiaoping proposed solving the territorial problems of the Spratly Islands, in the South China Sea, and the Diaoyudao/Senkaku Islands by jointly developing the disputed areas before discussing the question of sovereignty (Yu 1994: 107; Urano et al. 2001: 49). There have been various other reports containing Chinese joint development proposals for the continental shelf and / or the Senkaku Islands area, but in each case Japan first demanded a settlement of the maritime border or recognition of its title to the Senkakus. ",
+        "bbox": [
+            62,
+            631,
+            936,
+            709
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There is no room here for a detailed account of the Japanese –Chinese negotiations on the ECS disputes (see for this Drifte 2008). It is, however, important to highlight that both sides were initially willing as mentioned above to shelve the Senkaku dispute, which was convenient for both sides at the time in the 1970s. This did not mean, however, that China was prepared to renounce its claim to the islands. Instead it has continued since then to raise the issue in various ways, either through public diplomacy, diplomatic channels or encouraging or at least tolerating Chinese nationalists to try to enter the waters around the islands. Moreover, China began in 1974 exploration activities in the ECS to search for oil and gas while Japan refrained from any exploration activities (with the exception of the exploration under the 1974 Japan-ROK treaty) until 2004. China moved ever closer to the median line which Japan proposed after both countries had ratified UNCLOS in 1996, and at times even went over to the Japanese side of it. But not only did the two miss opportunities to deal with the territorial and boundary disputes while oil and gas interest were not yet very important and while Japan had a technological edge over China in deep-sea oil exploration, but by refraining from any exploration itself, Japan sent misleading messages to the Chinese side. The most misleading Japanese action was co-financing of Chinese activities in disputed areas of the EEZ in the 1990s: ",
+        "bbox": [
+            60,
+            718,
+            936,
+            851
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In November 1998, China had begun full operation of its first oil and natural gas field in the Pinghu field, about $7 0 \\mathrm { k m }$ from the median line, on the Chinese side. In 1997/98 Japan co-financed – through its contribution to the Asian Development Bank (ADB), as well as directly through its ExportImport Bank (renamed Japan Bank of International Cooperation in 1999) – the two oil and gas pipelines from the Pinghu field to the Chinese mainland. The initial disbursement by the ADB was in February 1997, and the final one was as recent as November 2001 (ADB 2004). This support of Chinese oil and gas extraction activities in the contested area has received heavy criticism in Japan in recent years. Today, the Japanese government publicly insists that the Pinghu field is within the contested ECS area, as long as no agreement on the demarcation has been reached, because it lies within $2 0 0 \\mathrm { n . m }$ . from the Japanese mainland (YS, 28/4/05, 9/11/06). The Pinghu pipelines have now also come under suspicion because China has connected them with those of the Chunxiao field. Seen from a Chinese perspective, however, the long-term Japanese tolerance and even financial support must have been interpreted as at least implicit acquiescence regarding China’s rights in the area, as long as China’s activities did not fall within any area on the Japanese side of the median line. ",
+        "bbox": [
+            60,
+            858,
+            937,
+            965
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            34,
+            930,
+            59
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "With China\\`s recent exploration and production activities, the Japanese government began in 2003 to ask the Chinese to hand over data on the Chunxiao field, but Beijing refused since it considers the area part of its EEZ. In order to enhance its leverage, the Japanese government decided in 2004 to collect its own geological information. From July to October 2004, a private company commissioned by the Energy Agency of METI conducted a geological survey on the Japanese side of the median line, in order to investigate whether China was tapping into gas reserves which straddle the median line. The survey area was a $2 1 0 \\mathrm { k m }$ north-south strip, with a width of $3 0 \\mathrm { k m }$ , the lower end facing the Chunxiao and Tianwaitian gas fields on the Chinese side (Map in Kaijō Han Repto 2006: 38). ",
+        "bbox": [
+            60,
+            67,
+            934,
+            147
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "China reacted immediately after the announcement of the survey and warned the Japanese to act with caution in what it considered to be the Chinese EEZ (FMPRC 2004). It was even reported that a Chinese surveillance vessel, and later two warships, tried to chase away the survey ship (AS, 13/10/04; YS, 13/4/05). The interim report of the survey, in February 2005, concluded that it was highly likely that the Chunxiao and Duanqiao geological structures were linked with those on the Japanese side of the median line; this was confirmed as definite in the final report in April 2005 (YS, 2/4/05). The Chinese disputed any geophysical link between the two sides, maintaining that the geological faults near the two gas fields prevent such a link (YS, 21/2/05). ",
+        "bbox": [
+            62,
+            153,
+            929,
+            221
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Other developments also prompted Japan to become more insistent on reaching some kind of agreement with China. The Japanese authorities observed a growing presence of Chinese military forces in the area of the territorial disputes, and around Japan in general. There were also increasing reports of intelligence-gathering naval ships around other areas of Japan. Tensions further increased in 2005 when Chinese and Japanese military forces confronted each other near the oil and gas platforms along the median line to observe, deter, and impress the other side. In January, Chinese destroyers were reportedly seen criss-crossing the Chunxiao area, and Japanese P3C reconnaissance aircraft went to observe them (YS, 12/4/05). When the Japanese protested against China’s deployment of naval ships, including destroyers near the Chunxiao fields, in September 2005 (at the time of the 3rd maritime border consultation round), China argued that these were normal exercises in its waters; it asked Japan to cease flights by Japanese aircraft near the same fields, as they disturbed the gas exploration project. Later it was reported that during that deployment a ship gun pointed at an aircraft of the Maritime Self Defence Force (MSDF). Also in September, the Chinese Foreign Ministry spokesman Qin Gang announced that a Chinese reserve vessel squadron had been established to ‘handle emergencies during peacetime, and be able to fight during wars’. The establishment of the squadron followed China’s creation of two naval groups in the Bohai Sea and the Yellow Sea (JT, 30/9/05). Japan reacted with military preparations on its side and considered the Chinese military presence to be part of what it calls China’s non-transparent military build-up. ",
+        "bbox": [
+            60,
+            227,
+            934,
+            388
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The legal claims of both Japan and China concerning the Senkaku Islands had allowed only for the ‘shelving’ of the issue, which was followed by the Japanese government claiming that there was no territorial issue to discuss. The only achievement in coming to a compromise in the ECS, apart from the Prior Notification Agreement of 2001 intended to stop the incursion of Chinese research vessels into Japan’s claimed EEZ, was the 1997 Fisheries Agreement (Drifte 2008b: 18-21). As a result of both countries having ratified UNCLOS in 1996, the bilateral 1975 Fisheries Agreement had to be replaced. Negotiations to this end started in April 1996 and ended successfully in November 1997, to become effective in June 2000. The agreement circumvented the territorial disputes by establishing ‘joint fishing areas’ in lieu of EEZ boundaries (Drifte 2008b: 24-25). ",
+        "bbox": [
+            62,
+            394,
+            930,
+            474
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The fishery negotiations were superseded by the ‘Consultations on the Law of the Sea and the Delimitation of the EEZ’ from August 1998 onwards until they become in 2004 the ‘Japan-China Consultations concerning the East China Sea and Other Matters’ (Higashi Shinakai to ni kansuru Nitchū Kyōgi, hereafter ECSOM). The Chinese name of the negotiations was ‘China-Japan Consultations regarding the East Sea’ (Zhong Ri guanyu Donghai wenti cuoshang). The negotiations experienced difficulties due to the rigid position of both sides and the deteriorating political climate between Japan and China, notably during the Koizumi era 2001-2006. However, on 18 June 2008 an agreement was concluded. The agreement is surprisingly short and consists of three parts. In Part 1 states that both countries have agreed to cooperate in the ECS in order to turn it into a ‘Sea of Peace, Cooperation and Friendship’. This cooperation – in the absence of an agreed-upon maritime border – is to be without prejudice to the legal position of either party. ",
+        "bbox": [
+            60,
+            482,
+            934,
+            575
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The second part, like the third part, is referred to as an understanding (ryokai in Japanese; liangjie in Chinese). In the former, the two sides agree to joint development (kyōdō kaihatsu, gongtong kaifa) in an area defined by seven measures of longitude and latitude as a first step. The agreement has a map attached which shows the area. The area is south of the Longqing field and, as far as this author is aware, has not been developed by China so far. Both sides declare their willingness to select sites for joint development in this area through consultations and to conclude a bilateral agreement to implement joint development. Of particular importance for Japan is that the two sides will also consult about other areas outside of the above area for joint development. ",
+        "bbox": [
+            62,
+            582,
+            922,
+            662
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The third part illustrates a fascinating attempt to bridge the gap between the two countries’ positions over the area of the Chunxiao field. The title of the Chinese version refers to the participation of Japanese legal persons in the development of the Chunxiao oil and gas field in accordance with Chinese laws. The Japanese version is merely titled ‘Understanding on the development of Shirakaba (Chinese name: Chunxiao) oil and gas field’ but then contains the same wording. The important point here is that China wanted to make clear its unchanged position on its title to the field by insisting on the omission of ‘joint’ and speaking of ‘welcoming’ Japanese companies to participate in the exploration and exploitation in accordance with Chinese laws regarding cooperation with foreign enterprises. ",
+        "bbox": [
+            62,
+            669,
+            930,
+            750
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The following points can be made about this three-part agreement: ",
+        "bbox": [
+            63,
+            757,
+            437,
+            770
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "• The agreement does not amount to any substantive progress concerning the delimitation of the maritime border in the ECS. However, politically speaking, it is a success that such an agreement could be concluded despite the continuing impasse over delimiting the border, and it highlights a continuous improvement of the bilateral relationship since 2005. At the same time, the Japanese side can claim that the agreement indicates implicit Chinese acknowledgment of the median line because the defined zone for joint development approximately straddles this line and differentiates between Chunxiao and the joint development zone. In exchange, the Japanese side had to accept a text version and Chinese unilateral statements which imply that Chunxiao is under Chinese sovereignty. Furthermore, the Japanese side could not get the Chinese to accept the inclusion of the Tianwaitian and Duanqiao fields, although that had been – together with the Longqing field – one of the Japanese demands. Instead, Japan had to satisfy itself with the statement in Part 2 that both sides will continue consultations on joint development in other parts of the ECS, which can be interpreted by the Chinese as being between the median line and the Okinawa Trough. However, the Chunxiao field has the more ‘iconic’ value for Japan. In the case of Longqing, both sides agreed to exclude it because of the Korean factor (YS, 21/6/08). ",
+        "bbox": [
+            60,
+            776,
+            941,
+            910
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "• The agreement is merely an agreement on principles, and the implementation of Part 2 and 3 will require further difficult negotiations and in Japan’s case a treaty which will have to be ratified by the Diet, potentially exposing the whole venture to the vagaries of party politics (for example, as a result of the Democratic Party’s majority in the Upper House). Domestic opposition in China against the agreement has also already been raised, and implementation ",
+        "bbox": [
+            58,
+            917,
+            937,
+            958
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "will depend on the strength of Hu Jintao’s regime and the overall Japanese-Chinese relationship (YS, 20/6/2008). The agreement on Chunxiao is hardly of any economic value to Japan since the field is fully developed and Japan’s share and proportional profits can only be symbolic. ",
+        "bbox": [
+            65,
+            34,
+            929,
+            60
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Unfortunately no negotiation round has yet begun to implement the agreement and it seems that the Chinese government had gone too far in compromising about notably the Chunxiao field and the exclusion of the Senkaku Islands. This shows that public and expert opinion have become increasingly important in Chinese foreign policy, particularly when economic interests or emotional issues are involved. Moreover, the Chinese side has continued to expand its hydrocarbon activities in the Tianwaitian field (part of the larger Chunxiao group of fields) and the Japanese government protested publicly to the Chinese side (JT 29 January 2009). Foreign Minister Yang Jiechi declared that the Tianwaitian field has nothing to do with the 18 June 2008 agreement (link). He hinted at Chinese reluctance to start negotiations by saying that for a treaty to be concluded there were still “delicate and complicated problems to be resolved” (link). The planned Japan visit by Prime Minister Aso to China from 27-29 March 2009 was apparently cancelled by the Chinese side because of the stalemate about the start of negotiations (link). It seems that the Chinese government is now waiting for the outcome of the Japanese parliamentary elections which have to take place between now and September, and that it does not want to confront domestic opposition to the June 2008 agreement while the Japanese political situation is so volatile. ",
+        "bbox": [
+            60,
+            66,
+            934,
+            200
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            208,
+            132,
+            219
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The methods used to address Japanese-Chinese territorial conflicts in the ECS are not only important for the further development of Japanese-Chinese relations but will also have repercussions for the solution of China’s other territorial conflicts (with Korea in the northern part of the ECS and notably with many Southeast Asian countries in the South China Sea) and provide important clues about China’s military power and how it may use this power. Moreover, given the strategic location of the ECS, the outcome of the disputes will also have an impact on how China addresses the Taiwan issue. ",
+        "bbox": [
+            62,
+            228,
+            932,
+            280
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Despite China’s relentless pursuit of its energy interests in the ECS, one cannot put the blame completely on China since we have seen that both sides have, at different times, gone ahead without achieving prior consent from the other side. The Chinese will remember that in 1974 Japan concluded an agreement with South Korea for the exploitation of carbon resources in the north of the ECS, although the Chinese government considered the agreement to violate its rights in the area. Despite these protests, the Japanese went ahead with exploration and abandoned it only when no commercially viable resources were found. Thereafter, however, the Japanese showed great restraint in surveying even the area on the eastern side of its proposed median line, even before the ratification of UNCLOS in 1996, which advises partners to a maritime border dispute not to do anything which would jeopardise or hamper a final agreement (UNCLOS Article 74 paragraph 3 and Article 83 paragraph 3). Secondly, the Japanese government blocked several semi-private Japanese and Chinese attempts, and official Chinese proposals attempting to find a compromise, by insisting on linking such proposals with the title to the Senkaku Islands. The Japanese government could have made better use of its most important leverage in the 1970s and 1980s, that is, its access to off-shore exploration, extraction, and transportation technologies. After the conclusion of the Peace and Friendship Treaty in 1978 and the beginning of a relatively stable and positive bilateral relationship during the 1980s, there was a golden opportunity for tackling remaining bilateral issues. But not only did the Japanese government overplay its territorial claim to the Senkaku Islands – while underplaying its technological advantage and the opportunity offered by a stable relationship at the time – it also reinforced the Chinese perception that it did not care much about whether China began explorations and was instead implicitly condoning them through its (at least public) silence and its co-financing of the Pinghu field development. The Japanese government did not allow any company to explore the disputed area until 2004, even on the Japanese side of the median line, but nor did it even try to get something in return from China for this restraint. The Japanese government seemed to be content as long as the Chinese were implicitly respecting the median line, even though there were reports in 1995 and afterwards that Chinese exploration rigs went beyond it. ",
+        "bbox": [
+            60,
+            287,
+            934,
+            516
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The sudden change in Japan’s official approach to the disputes gave rise to Chinese suspicions about Japan’s own hunger for energy and its will to impede China’s development (Drifte 2008b: 34). Of course, Japanese silence was due to a rather complex set of reasons. The June 2008 agreement can be considered an important milestone on the way towards resolving the territorial disputes, but much will depend on general developments in Japanese-Chinese relations. The long delay in even starting negotiations to implement the agreement does not augur well. The year 2008 has shown how vulnerable these relations are, whether one thinks of the Chinese ravioli poisoning (still unresolved!), the Japanese reaction to the Tibet crackdown, or the sinking of the Taiwanese sport fishing boat. Some authors argue that in view of the conclusion of the successful 1997 Fishery Agreement and the 2001 Prior Notification Agreement there is reasonable hope that the two sides will avoid military clashes and come to an agreement (Manicom 2008), but this seems rather complacent. The negotiations for implementing the June 2008 agreement will be very difficult in view of the rigid legal positions of both sides and predictable issues which will, time and again, directly challenge these positions. After oil and gas there is also the issue of the deep sea mining of nodules, containing raw materials, which China will need for its expanding manufacturing industry even more quickly and in greater quantity than Japan. In March 2008, the Japanese cabinet adopted a basic maritime development plan which states that immediate steps should be taken to research and develop oil, natural gas, methane hydrate, and sea-floor hydrothermal deposits in the nation’s EEZ (YS, 19/3/08). At the same time, the activities of the Chinese navy in the ECS can only increase as a result of the unresolved Taiwan conflict, China’s desire to access the Pacific Ocean, and Japanese-American military countermeasures. China\\`s and Japan’s economic stakes in the ECS are too different to allow them to rely on a purely economic-interest based motivation leading to a resolution. International law can give some guidance, but ultimately there has to be a political solution, particularly in view of the fact that both sides refuse international litigation. For a political solution there has to be a positive atmosphere and strong leadership, which will allow both sides to understand that a constructive relationship is an absolute necessity for the national interests of both countries and to act upon this understanding. However, Japanese leadership has rarely been strong and since 2006 there have been three prime ministers, with the current one, Prime Minister Aso, not being given much chance to last either. The Chinese leadership has increasingly to take into consideration public and expert opinion. ",
+        "bbox": [
+            60,
+            523,
+            937,
+            777
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The experience of the Japanese-Chinese ECS confrontation does not augur well for Korea and China to come soon to an agreement about their maritime border in the ECS although there is at least not the burden of a historical legacy. But China\\`s economic interests, its rising power (while the ROK has become economically very dependent on China and needs its help to address the North Korean issue) and its insistence on a now rather outdated principle of international law (extended continental shelf) makes an agreement rather difficult. At least it may be easier for strong leadership to find a compromise which would weigh access to fishing grounds higher than maximal extension of the EEZ. ",
+        "bbox": [
+            62,
+            784,
+            930,
+            851
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "Pacific Journal, Vol 22-3-09, June 1, 2009. ",
+        "bbox": [
+            67,
+            931,
+            904,
+            956
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "This paper was presented at the Conference on Dokto, Yeungnam University, Daegu, 13-14 May 2009. ",
+        "bbox": [
+            63,
+            877,
+            632,
+            890
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "University (France). He is the author of Japan's Foreign Policy for the Twenty First Century. ",
+        "bbox": [
+            63,
+            897,
+            898,
+            923
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Notes ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            54,
+            97,
+            65
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) This paper draws heavily on, and updates, the author\\`s previous \\` From \\`Sea of Confrontation\\` to \\`Sea of Peace, Cooperation and Friendship\\`? -  Japan facing China in the East China Sea\\`, Japan Aktuell 3, 2008, pp. 27-51. ",
+        "bbox": [
+            57,
+            73,
+            920,
+            99
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) For the Japanese-language version of the agreement of 18 June 2008 go here. For the Chinese-language version go here, and for its English version go here. There is no agreed-upon English version. ",
+        "bbox": [
+            65,
+            107,
+            915,
+            134
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Sources ",
+        "bbox": [
+            62,
+            160,
+            107,
+            172
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "AS=Asahi Shimbun ",
+        "bbox": [
+            62,
+            179,
+            176,
+            192
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "YS=Yomiuri Shimbun ",
+        "bbox": [
+            62,
+            199,
+            186,
+            211
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Anami, Yūsuke (2007), “Kaiyō wo meguru Nitchū kankei” (The Sea and Japanese-Chinese relations), in: Iechika, Ryōko et al. (eds.), Kiro ni tatsu Nitchūū kankei (Japanese-Chinese relations at a crossroad), Kyoto: Ky Shob, pp. 186-216 ",
+        "bbox": [
+            58,
+            219,
+            919,
+            247
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ADB see Asian Development Bank ",
+        "bbox": [
+            62,
+            253,
+            259,
+            265
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Asian Development Bank (2004), Project Completion Report on the Ping Hu Oil and Gas Development Project (Loan 1419-PRC) in the PRC. (accessed 7 July 2008) ",
+        "bbox": [
+            60,
+            272,
+            932,
+            299
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "China Institute, University of Alberta (2008a), “Japan-China gas deal won’t quench energy thirst: analysts”, in: Agence France Press, 18.6.2008. (accessed 7 July 2008) ",
+        "bbox": [
+            60,
+            305,
+            927,
+            331
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "– (2008b), “Chunxiao oilfield’s sovereign rights belong to China, says vice FM”, in: Xinhua News Agency, 19 June 2008. (accessed 9 July 2008) – (2008c), “Teikoku Oil, Nippon Oil eyes stakes in Japan-China Gas Projects”, in: Nikkei Report, 21 June 2008. (accessed 9 July 2008) ",
+        "bbox": [
+            60,
+            338,
+            863,
+            372
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "CI see China Institute, University of Alberta ",
+        "bbox": [
+            62,
+            379,
+            311,
+            391
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Dai, Tan (2006), “The Diaoyu/Senkaku dispute: ‘Bridging the cold divide’”, in: Santa Clara Journal of International Law, vol. V, Issue 1, pp. 134-168. (accessed 9 July 2008) ",
+        "bbox": [
+            63,
+            398,
+            897,
+            425
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Drifte, Reinhard (2008a), “The end of Japan’s ODA Loan Programme to China in 2008 and its repercussions”, in: Japan aktuell 1/2008, pp. 3-15 ",
+        "bbox": [
+            70,
+            431,
+            887,
+            445
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "– (2008b), “Japanese-Chinese territorial disputes in the East China Sea – between military confrontation and economic cooperation”, in: LSE Asia Research Centre, Working Paper no. 24, April 2008. (accessed 7 August 2008) ",
+        "bbox": [
+            65,
+            451,
+            932,
+            478
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "– (2003), Japan’s security relations with China since 1989: From balancing to bandwagoning?, London: Routledge ",
+        "bbox": [
+            60,
+            485,
+            698,
+            498
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FMPRC see Ministry of Foreign Affairs of the People’s Republic of China ",
+        "bbox": [
+            62,
+            505,
+            474,
+            518
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Gao, Zhiguo / Wu, Jilu (2005), “Key issues in the East China Sea: A status report and recommended approaches”, in: Harrison, Selig (ed.), Seabed 2008) ",
+        "bbox": [
+            60,
+            524,
+            937,
+            564
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Gotō, Yasuhiro (2005), “Ajia no enerugii kaihatsu to Nihon” (Energy development in Asia and Japan), in: Kokusai Mondai, No. 541, April 2005, pp. 33-43 ",
+        "bbox": [
+            62,
+            570,
+            919,
+            585
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Harrison, Selig (ed.) (2005), Seabed petroleum in Northeast Asia: Conflict or cooperation?, Washington D.C.: Woodrow Wilson International Center for Scholars. (accessed 7 August 2008) ",
+        "bbox": [
+            65,
+            590,
+            912,
+            618
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hiramatsu, Shigeo (2002), Chūgoku no senryakuteki kaiyō shinshutsu (China’s strategic naval advance), Tokyo: Keisō Shobō ",
+        "bbox": [
+            58,
+            624,
+            767,
+            638
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hsiung, James C. (2005), Sea power, law of the sea, and China-Japan East ChinanSea ‘Resources War ’, Forum on China and the Sea, Institute for Sustainable Development, Macao University of Science & Technology, 9-11 October 2005, Macao. (accessed 7 August 2008) ",
+        "bbox": [
+            58,
+            644,
+            937,
+            671
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Kaij Han Repto (2007) (CG Report 2007), Tokyo 2007 ",
+        "bbox": [
+            60,
+            677,
+            382,
+            690
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "– (2006) (JCG Report 2006), Tokyo 2006 ",
+        "bbox": [
+            62,
+            697,
+            282,
+            709
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LOS see United Nations Division for Ocean Affairs and the Law of the Sea Manicom, James (2008), “ Sino-Japanese cooperation in the East China Sea: Limitations and prospects, in: Contemporary Southeast Asia vol. 30 no. 3 2008 pp. 455-78 ",
+        "bbox": [
+            65,
+            717,
+            910,
+            744
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Ministry of Foreign Affairs of the People’s Republic of China (2008a), Foreign Ministry Spokesperson Jiang Yu’s Regular Press Conference on June 17, 2008. (accessed 7 July 2008) ",
+        "bbox": [
+            60,
+            750,
+            925,
+            777
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "– (2008b), Chinese Foreign Minister Yang Jiechi meets the Press on the East China Sea Issue 24 June 2008. (accessed 9 July 2008) ",
+        "bbox": [
+            62,
+            783,
+            779,
+            796
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "– (2004), Zhongfangjiu Rifang zaiDonghaijinxing haiyang ziyuan diaocha tichuyanzhengjiaoshe (China proposes to Japan principled negotiations regarding its resource research in the East China Sea), 8 July 2004. (accessed 7 July 2008 after the English version had been taken off) ",
+        "bbox": [
+            63,
+            803,
+            905,
+            829
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Ministry of Foreign Affairs of Japan (2006), “Japan-China Joint Press Statement 8 October $2 0 0 6 ^ { \\prime \\prime }$ , in: The Official Website of the Ministry of Foreign Affairs of Japan. (accessed 9 July 2008) ",
+        "bbox": [
+            57,
+            837,
+            932,
+            864
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "– (1996), “Press Conference by the Press Secretary 15 October 1996, Senkaku”, in: The Official Website of the Ministry of Foreign Affairs of Japan, Senkaku Islands. #2 (accessed 7 July 2008) ",
+        "bbox": [
+            63,
+            869,
+            927,
+            897
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Miyoshi, Masahiro (2006), “Nitchūkan no haitateki keizai suiiki to tairikudana no mondai” (The issues of the Exclusive Economic Zone and the Continental Shelf between Japan and China), in: Kuribayashi, Tadao / Akiyama, Masahiro (eds.), Umi no kokusai chitsujo to kaiyōseisaku (The international order of the Sea and Ocean politics), Tokyo: Tōshindō, pp. 257-281 ",
+        "bbox": [
+            60,
+            903,
+            939,
+            944
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MOFA see Ministry of Foreign Affairs of Japan ",
+        "bbox": [
+            62,
+            950,
+            326,
+            963
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Mōri, Kazuko (2006), Nitchūkankei. Sengo kara shinjidai e (Japan-China relations: From the war to the presence), Tokyo: Iwanami Shoten ",
+        "bbox": [
+            63,
+            33,
+            829,
+            47
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Nomura, Hataru (2005), “Senkaku shotō – Kaitei yuden” (The Senkaku Islands – seabed resources), in: Shokun, May 2005, pp. 64-72 ",
+        "bbox": [
+            65,
+            53,
+            821,
+            66
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Okuhara, Toshio (1971), “The territorial sovereignty over the Senkaku islands and problems on the surrounding continental shelf ”, in: Japan Annual of International Law, pp. 97-106 ",
+        "bbox": [
+            62,
+            73,
+            909,
+            99
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Park, Choon-Ho (2006), “Problems pertaining to the application of the Law of the Sea in the area surrounding the Korean peninsula”, in: Korean Observations on Foreign Relations, vol. 8, no. 1, August 2006, pp. 96-116 ",
+        "bbox": [
+            65,
+            107,
+            885,
+            134
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Su, Steven Wei (2005), “The territorial dispute over the Tiaoyu/Senkaku islands: An update”, in: Ocean Development & International Law, 36, pp. 45-61 ",
+        "bbox": [
+            63,
+            140,
+            912,
+            153
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "United Nations Division for Ocean Affairs and the Law of the Sea (2008), UnitedNations Convention ofthe Sea Meeting ofStates Parties, 24 June 2008. (accessed 9 July 2008) ",
+        "bbox": [
+            60,
+            159,
+            910,
+            186
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Urano, Tatsuo (2005), Senkaku shotō, Okinawa, Chūgoku (Zōhoban) (The Senkaku Islands, Okinawa, China (Supplement volume)), Tokyo: Sanwa Shoseki Urano, Tatsuo et al. (ed.) (2001), Diaoyutai qundao (Senkaku Shotto) wenti, Yanjiu ziliao huibian (The question of the Diaoyu islands (Senkaku Islands), Research materials compilation), Hong Kong: Lizhi Chubanshe ",
+        "bbox": [
+            60,
+            193,
+            925,
+            240
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Valencia, Mark J. (2007), “The East China Sea dispute: Context, claims, issues, and possible solutions”, in: Asian Perspective, vol. 31, no. 1, pp. 127-167 ",
+        "bbox": [
+            63,
+            246,
+            910,
+            260
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Valencia, Mark J. / Amae, Yoshihisa (2003), “Regime building in the East China Sea”, in: Ocean Development & International Law, vol. 34, pp. 189-208. (accessed 7 August 2008) ",
+        "bbox": [
+            65,
+            266,
+            909,
+            292
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Xi (200hi   e ay oeanasis1ril 0 http://news.xinhuanet.com/english/2007-04/12/content_5964748.htm (accessed 12 April 2007) ",
+        "bbox": [
+            62,
+            299,
+            740,
+            326
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Yarita, Susumu (2005), “Toward cooperation in the East China Sea”, in: Harrison, Selig (ed.), Seabed petroleum in Northeast Asia: Conflict or cooperation? Washington D.C.: Woodrow Wilson International Center for Scholars, pp. 23-29. (accessed 7 August 2008) ",
+        "bbox": [
+            57,
+            332,
+            930,
+            360
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Yu, Hui (1994), “Joint development of mineral resources-An Asian solution?”, in: Ko Swan Sik et al. (eds.), Asian Yearbook of International Law 1994, vol. 2, pp. 87-112 ",
+        "bbox": [
+            60,
+            366,
+            936,
+            392
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Zhou, Jian (1991), Les frontiers maritimes de la Chine, PhD Thesis (The maritime borders of China, PhD thesis), Paris: Université Paris X ",
+        "bbox": [
+            57,
+            398,
+            831,
+            412
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            466,
+            556,
+            531,
+            580
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "Created by DataMomentum ",
+        "bbox": [
+            62,
+            563,
+            222,
+            574
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            772,
+            539,
+            937,
+            595
+        ],
+        "page_idx": 6
+    }
+]

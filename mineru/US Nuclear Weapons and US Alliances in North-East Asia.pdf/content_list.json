@@ -1,0 +1,779 @@
+[
+    {
+        "type": "text",
+        "text": "Chapter Title: US Nuclear Weapons and US Alliances in North-East Asia Chapter Author(s): Michito Tsuruoka ",
+        "text_level": 1,
+        "bbox": [
+            55,
+            120,
+            745,
+            158
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Book Title: Alliances, Nuclear Weapons and Escalation Book Subtitle: Managing Deterrence in the 21st Century Book Editor(s): STEPHAN FRÜHLING, ANDREW O’NEIL Published by: ANU Press. (2021) Stable URL: https://www.jstor.org/stable/j.ctv25m8dp0.16 ",
+        "bbox": [
+            57,
+            185,
+            624,
+            285
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "JSTOR ",
+        "bbox": [
+            55,
+            810,
+            140,
+            897
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "This book is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/. ",
+        "bbox": [
+            222,
+            506,
+            875,
+            542
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "ANU Press ",
+        "bbox": [
+            58,
+            51,
+            160,
+            67
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from 64.64.123.23 on Sun, 18 Sep 2022 09:18:25 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            285,
+            971,
+            712,
+            992
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "C00 BYNC ND ",
+        "bbox": [
+            55,
+            503,
+            202,
+            545
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org. ",
+        "bbox": [
+            55,
+            312,
+            906,
+            367
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "ANU Press is collaborating with JsTOR to digitize, preserve and extend access to Alliances, Nuclear Weapons and Escalation ",
+        "bbox": [
+            179,
+            812,
+            859,
+            840
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "Your use of the JSTOR archive indicates your acceptance of the Terms $\\&$ Conditions of Use, available at https://about.jstor.org/terms ",
+        "bbox": [
+            55,
+            393,
+            812,
+            428
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "12 ",
+        "text_level": 1,
+        "bbox": [
+            454,
+            217,
+            524,
+            257
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "US Nuclear Weapons and US Alliances in North-East Asia ",
+        "text_level": 1,
+        "bbox": [
+            136,
+            280,
+            840,
+            352
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Michito Tsuruoka ",
+        "bbox": [
+            385,
+            369,
+            588,
+            389
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In North-East Asia, the United States maintains alliances with Japan and South Korea and extends nuclear deterrence to them. Yet it no longer maintains forward-deployed nuclear weapons in the region. The lack of any US nuclear presence is one of the most notable characteristics of the deterrence and defence posture of the US alliances in the region, and contrasts strongly with the fact that all the other regional players—namely, China, North Korea and Russia—possess nuclear weapons.1 ",
+        "bbox": [
+            129,
+            455,
+            847,
+            592
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Two more major factors need to be taken into account. First, China, North Korea and Russia are all modernising and expanding their nuclear arsenals in one way or another, raising questions as to whether the current deterrence and defence posture of the US–Japan and US–Korea alliances remains adequate. Second, the balance of military power in North-East Asia and the wider Western Pacific region between the US and its allies on the one hand, and China on the other, is rapidly changing in favour of the latter, which raises questions about the credibility and sustainability of the US commitment to the region. ",
+        "bbox": [
+            129,
+            607,
+            847,
+            785
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "1 Whereas China and Russia are nuclear weapon states recognised by the Treaty on the Non-Proliferation of Nuclear Weapons (NPT), North Korea is only a de facto nuclear state, and is not allowed to have nuclear weapons under the NPT. Yet the fact remains that North Korea possesses nuclear weapons. ",
+        "bbox": [
+            129,
+            861,
+            845,
+            920
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from 64.64.123.23 on Sun, 18 Sep 2022 09:18:25 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            196,
+            965,
+            801,
+            990
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "133 ",
+        "bbox": [
+            877,
+            932,
+            909,
+            944
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Against this background, it is no surprise that the level of interest in the region on issues related to extended deterrence by the US and the role of nuclear weapons is on the rise. This chapter examines how the US and its allies have sought to maintain the credibility of extended deterrence, particularly in the context of the US–Japan and US–South Korea alliances, looking at the history and the characteristics of their postures and approaches to consultation and cooperation in the nuclear domain. Possible prospects of post-INF Treaty challenges and US nuclear modernisation will also be explored at the end of the chapter. ",
+        "bbox": [
+            154,
+            117,
+            872,
+            292
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Myth of the Asia Model ",
+        "text_level": 1,
+        "bbox": [
+            154,
+            327,
+            623,
+            352
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It is commonplace to argue that, unlike the North Atlantic Treaty Organization (NATO) model of nuclear deterrence that in part relies on the forward deployment of US tactical nuclear weapons on allied territories, the Asian model lacks such a physical element. This is currently correct, although the degree to which NATO’s deterrence posture relies on its unique system of nuclear sharing beyond symbolism is debatable; the alliance’s security is ultimately guaranteed by US strategic weapons. The US, however, did maintain nuclear weapons in North-East Asia for a substantial period during the Cold War. A nuclear weapons deployment in South Korea began in 1958 and lasted until as late as 1991.2 The US also deployed a number of nuclear weapons in Okinawa until the island’s reversion to Japan in 1972. Indeed, Okinawa saw one of the earliest deployments of nuclear weapons outside the US mainland, in December 1954.3 Since Okinawa at that time was under US control, it was not considered a deployment to Japan. Yet the deterrence posture of the Japan–US alliance was underpinned by the presence of nuclear weapons in Okinawa as well as the deployment of non-nuclear components on mainland Japan, such as aircraft that were supposed to deliver nuclear warheads in wartime. That was the ‘Cold War East Asian model’.4 Without a reliable intercontinental ballistic missile capability, the role of forwarddeployed tactical and theatre nuclear weapons was more prominent in the 1950s and 1960s. ",
+        "bbox": [
+            154,
+            369,
+            872,
+            799
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "2 Hans Kristensen and Robert Norris, ‘A History of US Nuclear Weapons in South Korea’, Bulletin of the Atomic Scientists 73(6), 2017: 349–57, doi.org/10.1080/00963402.2017.1388656. 3 Robert Norris, William Arkin and William Burr, ‘Where They Were’, Bulletin of the Atomic Scientists 55(6), 1999, 30–31, doi.org/10.1080/00963402.1999.11460389. 4 Brad Roberts, The Case for US Nuclear Weapons in the 21st Century (Stanford: Stanford University Press, 2015), 207, doi.org/10.1515/9780804797153. ",
+        "bbox": [
+            154,
+            832,
+            872,
+            920
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from 64.64.123.23 on Sun, 18 Sep 2022 09:18:25 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            196,
+            965,
+            801,
+            990
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "134 ",
+        "bbox": [
+            90,
+            932,
+            124,
+            944
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "ALLIANCES, NUCLEAR WEAPONS AND ESCALATION ",
+        "bbox": [
+            154,
+            85,
+            542,
+            99
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Further, US surface vessels as well as submarines were believed to be routinely carrying nuclear weapons during the Cold War. Due to the US policy of neither confirming nor denying the location of its nuclear weapons, it was not clear which vessels were carrying what number of nuclear weapons at any given moment. However, that US vessels and submarines did carry nuclear weapons constituted an important element of allied deterrence posture in the region. These vessels visited allied ports including those in Japan on a regular basis. ",
+        "bbox": [
+            129,
+            116,
+            847,
+            274
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Unlike NATO, the US did not introduce a nuclear-sharing arrangement in Asia. Yet the alliance deterrence posture in the US alliances with Japan and South Korea used to be dependent, at least partly, on forward-deployed nuclear weapons. Therefore, the dichotomy between the NATO and Asian models is not as clear-cut as it first appears.5 ",
+        "bbox": [
+            129,
+            288,
+            845,
+            387
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Consultative Approach ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            422,
+            593,
+            449
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Nonetheless, one of the biggest differences between the European and East Asian models of extended deterrence was the degree of institutionalisation of nuclear consultation. While NATO has a highly institutionalised mechanism for nuclear consultation, called the Nuclear Planning Group (NPG), both US–Japan and US–Korea alliances had long lacked a similar mechanism. The Obama administration, together with Tokyo and Seoul, agreed to institute bilateral dialogue on nuclear issues as part of the 2010 Nuclear Posture Review (NPR). One of the aims of such dialogue was to discuss the retirement of the Tomahawk Land Attack Missile – Nuclear (TLAM-N) and the issues of modernising dual-capable aircraft before decisions are made.6 Such efforts were pertinent in light of the fact that ‘some US allies in Asia’ were expressing concerns about the retirement of the TLAM-N.7 ",
+        "bbox": [
+            129,
+            464,
+            847,
+            722
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "5 Michito Tsuruoka, ‘The NATO vs. East Asian Models of Extended Nuclear Deterrence? Seeking a Synergy beyond Dichotomy’, The ASAN Forum, 30 June 2016. 6 Roberts, The Case for US Nuclear Weapons, 202. 7 William Perry et al., America’s Strategic Posture: The Final Report of the Congressional Commission on the Strategic Posture of the United States (Washington: United States Institute of Peace Press, 2009), 26. On Japan’s concerns, see also Nobuyasu Abe and Hirofumi Tosaki, ‘Understanding Japan’s Nuclear Dilemma: Deterrence before Disarmament’, in Disarming Doubt: The Future of Extended Nuclear Deterrence in East Asia, ed. Rory Medcalf and Fiona Cunningham (Woollahra: Lowy Institute for International Policy, 2012), 25–28. ",
+        "bbox": [
+            127,
+            788,
+            847,
+            920
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from 64.64.123.23 on Sun, 18 Sep 2022 09:18:25 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            196,
+            965,
+            801,
+            990
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "12. US NUCLEAR WEAPONS AND US ALLIANCES IN NORTH-EAST ASIA ",
+        "bbox": [
+            318,
+            85,
+            845,
+            99
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "135 ",
+        "bbox": [
+            877,
+            932,
+            909,
+            944
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "From an American perspective, it was largely a misunderstanding that the credibility of US extended nuclear deterrence was heavily dependent on the TLAM-N, which was believed to be more or less redundant.8 It was, therefore, in America’s own interest to ‘educate’ the allies, by sharing more information about the workings of US nuclear deterrence. One could argue that the logic that brought about the establishment of the NPG in NATO in the 1960s worked again vis-a-vis Japan and South Korea, in the sense that Americans ‘were convinced that they could change their allies’ positions by changing their minds, and this change could come through a nuclear education’.9 Crucially, the Japanese and Koreans were also eager to understand the thinking and mechanisms underpinning US nuclear deterrence strategy. ",
+        "bbox": [
+            154,
+            116,
+            872,
+            354
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It was thus natural that the nuclear dialogue that had started in the run-up to the 2010 NPR continued and became institutionalised as an Extended Deterrence Dialogue with Japan and Extended Deterrence Policy Committee with South Korea, the latter renamed the Extended Deterrence Strategy and Consultation Group. These dialogue sessions have included not just normal policy dialogues, but also tabletop exercises and visits to US bases where the country’s strategic assets are housed.10 While not much has been revealed to the public about the nature and result of those dialogues, judging from the fact that the dialogue frameworks have continued, it seems reasonable to assume that both the US and its allies have found them a useful, if still modest and largely invisible, pillar of the alliances. ",
+        "bbox": [
+            154,
+            368,
+            872,
+            604
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Towards a New Nuclear(-Related) Cooperation ",
+        "text_level": 1,
+        "bbox": [
+            154,
+            641,
+            727,
+            693
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "However, talks are just talks. One could argue that what gives credibility to the alliance deterrence posture are the physical elements. Also, it is undeniable that there is an element of ‘the grass is always greener on the other side’—meaning that some Asians, including Japanese and Koreans, regard the nuclear-sharing arrangement in NATO with a measure of envy (which is somewhat ironic given that an increasing number of Europeans regard NATO’s nuclear sharing as obsolete).11 Calls to introduce an Asian NPG are also popular in some quarters in Asia.12 In addition, there are calls for a (re)deployment of US tactical nuclear weapons on their soils in view of a NATO-like arrangement of nuclear sharing in South Korea and, to a lesser extent, Japan. At least for the foreseeable future, it is highly unlikely for such an arrangement to be established between the US and Japan or South Korea, since the US would not see it as having any strategic rationale or imperative. When calling for the deployment of US tactical nuclear weapons or nuclear sharing, the concrete objectives to be achieved through such measures need to be defined in a realistic way. Those arrangements cannot be a panacea for the threats and challenges from China or North Korea. Still, given the delicate and psychological nature of deterrence, simply saying that strategic weapons based in the US would do the entire job may not be always sufficient. Some ‘visibility’ may be needed in maintaining the credibility of deterrence.13 ",
+        "bbox": [
+            157,
+            710,
+            870,
+            770
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "8 Jeffrey Lewis, ‘Japan Loves TLAM/N’, Arms Control Wonk (blog), 8 May 2009, www.arms controlwonk.com/archive/202284/japan-tlamn/; Roberts, The Case for US Nuclear Weapons, 202. 9 Timothy Andrews Sayle, ‘A Nuclear Education: The Origins of NATO’s Nuclear Planning Group’, Journal of Strategic Studies 43(6–7), 2020, 954, doi.org/10.1080/01402390.2020.1818560. 10 Michito Tsuruoka, ‘Nuclear Proliferation, Deterrence and Strategic Stability in East Asia: The United States, China and Japan in a Changing Strategic Landscape’, in Routledge Handbook of Nuclear Proliferation and Policy, ed. Joseph Pilat and Nathan Busch (London: Routledge, 2015), 59–61. ",
+        "bbox": [
+            154,
+            817,
+            872,
+            920
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from 64.64.123.23 on Sun, 18 Sep 2022 09:18:25 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            196,
+            965,
+            801,
+            990
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "136 ",
+        "bbox": [
+            90,
+            932,
+            124,
+            944
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "ALLIANCES, NUCLEAR WEAPONS AND ESCALATION ",
+        "bbox": [
+            157,
+            85,
+            542,
+            99
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            129,
+            117,
+            847,
+            473
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Short of nuclear sharing, various other possibilities of allied involvement in US nuclear operations can be envisaged, some of which have already been taking place in the US–Japan and US–South Korea contexts. The  most visible of those in recent years is joint training involving US strategic bombers, including the B-1B, B-2 and B-52. US bombers have been flying in the region for decades, but recently they have been used as a tool of strategic messaging to North Korea, evidenced by the fact that the US has been flying such aircraft mainly following North Korea’s nuclear and ballistic missile tests. Japanese and South Korean fighters have escorted US bombers more frequently in recent years. Based on what has already been done, the countries involved could think of more substantial involvement in possible nuclear missions beyond escorting. ",
+        "bbox": [
+            129,
+            487,
+            845,
+            726
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The challenge of making joint training with US bombers more substantial is also related to the fact that the US seems to be using its strategic bombers more widely, meaning that the US now conducts joint training with an increasing number of countries, including non-allies. In the context of its new concept of Dynamic Force Employment, strategic bomber operations are more active across the globe, involving not just formal allies, but also partners like India and Ukraine. A B-1B bomber landed in India for the first time in February 2021, escorted by Indian Air Force Tejas fighters.14 Tokyo certainly does not have any objection to the US cooperating with those countries, but some cannot help wondering whether the meaning of joint training with US bombers is being diluted: is it no longer special? Extended ‘nuclear’ deterrence has long been thought of as the ‘premium content’ of US extended deterrence, not (explicitly) extended to all the allies.15 While the B-1B is currently not nuclear capable, strategic bomber fleets as a whole (operated by Strategic Command) represent the very core of US strategic deterrent capability, which is why bombers have been used to deliver strategic messages to US adversaries. ",
+        "bbox": [
+            129,
+            739,
+            845,
+            799
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "11 Michito Tsuruoka, ‘Why the NATO Nuclear Debate is Relevant to Asia and Vice Versa’, Policy Brief, German Marshall Fund of the United States, October 2010. 12 Chuck Hagel et al., Preventing Nuclear Proliferation and Reassuring America’s Allies, Task Force Report, Chicago Council on Global Affairs, February 2021. 13 Elaine Bunn, ‘The Future of US Extended Deterrence’, in Perspectives on Extended Deterrence, Recherches & Documents, No. 03/2010 (Paris: Fondation pour la Recherche Stratégique, 2010), 41. ",
+        "bbox": [
+            129,
+            832,
+            847,
+            920
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from 64.64.123.23 on Sun, 18 Sep 2022 09:18:25 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            196,
+            965,
+            801,
+            990
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "12. US NUCLEAR WEAPONS AND US ALLIANCES IN NORTH-EAST ASIA ",
+        "bbox": [
+            321,
+            85,
+            845,
+            99
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "137 ",
+        "bbox": [
+            877,
+            932,
+            909,
+            944
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            154,
+            116,
+            872,
+            393
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In addition to participation in bomber training/operations, allies’ other areas of involvement in US nuclear deterrence include ballistic missile defence (BMD) and anti-submarine warfare (ASW). Japan has invested heavily in BMD over the past two decades or so, and ASW is one of the strongest capabilities of its Maritime Self-Defense Force. Given that China’s Jin-class nuclear-powered ballistic missile submarines are now operational, constituting the country’s first credible sea-based nuclear deterrent, Japan–US cooperation in ASW has become even more important.16 ",
+        "bbox": [
+            154,
+            408,
+            872,
+            586
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A Return of Nuclear Weapons to the Region? ",
+        "text_level": 1,
+        "bbox": [
+            152,
+            621,
+            706,
+            674
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Trump administration’s 2018 NPR stated that the US would ‘in the longer term, pursue’ a modern Sea-Launched Cruise Missile – Nuclear (SLCM–N).17 This could have a significant impact on extended deterrence in North-East Asia. The 2018 NPR argued that SLCM as well as low-yield submarine-launched ballistic missiles (SLBM) would ‘enhance the flexibility and responsiveness of US nuclear forces’ and emphasised the fact that SLCM will ‘not require or rely on host nation support to provide deterrent effect’.18 Despite some Democrats in the US being fiercely opposed to the further development of SLCM–N,19 the Biden administration took an early decision to begin research and development of a nuclear-armed SLCM.20 ",
+        "bbox": [
+            157,
+            692,
+            872,
+            749
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "14 ‘B-1B Makes First US Bomber Visit to India Since 1945’, Air Force Magazine, 8 February 2021. 15 Andrew O’Neil, Asia, the US and Extended Nuclear Deterrence: Atomic Umbrellas in the Twenty-First Century (Abingdon: Routledge, 2013), 121. 16 On the US assessment of China’s ballistic submarine missile capability, see Department of Defense, Military and Security Developments Involving the People’s Republic of China 2020: Annual Report to Congress, September 2020, 45, 86, media.defense.gov/2020/Sep/01/2002488689/-1/- 1/1/2020-DOD-CHINA-MILITARY-POWER-REPORT-FINAL.PDF. 17 Department of Defense, Nuclear Posture Review, February 2018, 54, media.defense.gov/2018/ Feb/02/2001872886/-1/-1/1/2018-NUCLEAR-POSTURE-REVIEW-FINAL-REPORT.PDF. ",
+        "bbox": [
+            154,
+            788,
+            872,
+            918
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from 64.64.123.23 on Sun, 18 Sep 2022 09:18:25 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            196,
+            965,
+            801,
+            990
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "138 ",
+        "bbox": [
+            90,
+            932,
+            124,
+            944
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "ALLIANCES, NUCLEAR WEAPONS AND ESCALATION ",
+        "bbox": [
+            154,
+            85,
+            542,
+            99
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            129,
+            116,
+            847,
+            273
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The SLCM–N issue raises a number of fundamental and politically sensitive questions about the future of extended nuclear deterrence in East Asia. For example, it highlights the issue of whether forward-deployed (and less-destructive) nuclear weapons make the US commitment more credible in the eyes of allies. Given the fact that the 2010 NPR argued that the role of the TLAM-N could be substituted by dual-capable aircraft (DCA) and strategic bombers, the US will need to explain why a new SLCM–N is needed. If China’s increasing capability is cited as a reason, what specific aspect will need to be addressed by the SLCM–N?21 ",
+        "bbox": [
+            129,
+            288,
+            847,
+            466
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Unlike DCA, SLCM–Ns will ‘not require or rely on host nation support’; however, as US Navy Virginia-class and Los Angeles-class attack submarines often visit foreign bases, including Yokosuka and Sasebo, this will inevitably cause domestic political controversies in Japan if and when those submarines are nuclear-armed. During the Cold War, Japan tacitly allowed nuclear visiting and transiting through a series of secret agreements and understandings between the two governments. All such arrangements were revealed in 2010. Subsequently, the Japanese Government’s position has been that, as there are no US vessels carrying nuclear weapons on a regular basis (with the exception of ballistic missile submarines), there is no need to worry about nuclear visiting.22 The development and deployment of the SLCM–N will present a new challenge for Tokyo. ",
+        "bbox": [
+            129,
+            481,
+            847,
+            719
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "18 Ibid., 52–55. 19 ‘Lawmakers Aim to Prevent Sea-Based Nuclear Cruise Missile’, Defense News, 4 March 2021. 20 Kingston Reif, ‘Biden Continues Trump Nuclear Funding’, Arms Control Today 56(6), 2021. 21 For an authoritative assessment of the merits of SLCM-N, see ‘Strengthening Deterrence and Reducing Nuclear Risks, Part II: The Sea-Launched Cruise Missile–Nuclear (SLCM-N)’, Arms Control and International Security Papers (Department of State) 1(11), 23 July 2020. 22 Katsuya Okada, Gaikou wo hiraku: kaku gunshuku, mitsuyaku mondai no genba-de [Opening Diplomacy: From the Frontline of Nuclear Disarmament and Secret Agreements Problems] (Tokyo: Iwanami Shoten, 2014), 92–93. ",
+        "bbox": [
+            127,
+            788,
+            847,
+            920
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "12. US NUCLEAR WEAPONS AND US ALLIANCES IN NORTH-EAST ASIA ",
+        "bbox": [
+            318,
+            85,
+            845,
+            99
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from 64.64.123.23 on Sun, 18 Sep 2022 09:18:25 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            196,
+            965,
+            801,
+            990
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "139 ",
+        "bbox": [
+            877,
+            932,
+            909,
+            944
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Finally, the role of the SLCM–N will have to be put in the context of a broader debate on the ways in which the US could address the ‘strike gap’ with China in a post–INF Treaty strategic environment. The low-yield SLBM that the 2018 NPR decided to pursue and is already being deployed should also be considered in this context.23 It needs to be remembered that only conventional missiles are envisaged regarding a possible deployment of intermediate-range missiles in Asia (and Europe for that matter). Nevertheless, given that many missiles in China’s arsenal are dual-capable and that both conventional and nuclear missiles constitute the deterrence posture of the US and its allies, dealing with conventional and nuclear missiles as if they were from different planets will become untenable. Further, even for conventional missiles, both Japan and South Korea will struggle to build a domestic consensus on accepting the deployment of US ground-based missiles on their territories, which could become one of the most difficult challenges in their respective alliances with the US. ",
+        "bbox": [
+            154,
+            116,
+            872,
+            413
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Japan and South Korea face threats and challenges from both China and North Korea, and the reality is that the balance of military power is changing in Beijing’s favour, making extended deterrence, including nuclear deterrence, even more important. Both allies have strengthened and institutionalised their respective nuclear consultations with the US and increased their involvement, particularly in bomber operations, in the region. Nonetheless, it remains to be seen whether such measures will prove to be sufficient in view of China’s rapid build-up of its military, including its nuclear arsenal. A more fundamental rethinking of the allied deterrence posture in East Asia could turn out to be necessary. ",
+        "bbox": [
+            154,
+            464,
+            872,
+            662
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "23 Jacob Cohn, Timothy Walton, Adam Lemon and Toshi Yoshihara, Leveling the Playing Field: Reintroducing US Theater-Range Missiles in a Post-INF World (Washington: Center for Strategic and Budgetary Assessments, May 2019). ",
+        "bbox": [
+            154,
+            876,
+            872,
+            920
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "This content downloaded from 64.64.123.23 on Sun, 18 Sep 2022 09:18:25 UTC All use subject to https://about.jstor.org/terms ",
+        "bbox": [
+            196,
+            965,
+            801,
+            990
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "",
+        "bbox": [
+            90,
+            932,
+            124,
+            944
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "ALLIANCES, NUCLEAR WEAPONS AND ESCALATION ",
+        "bbox": [
+            157,
+            85,
+            542,
+            99
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "\\*\\*\\* ",
+        "bbox": [
+            494,
+            431,
+            528,
+            441
+        ],
+        "page_idx": 8
+    }
+]
