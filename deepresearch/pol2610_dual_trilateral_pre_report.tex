@@ -1,0 +1,370 @@
+\documentclass[a4paper]{article}
+
+\usepackage[fontset=fandol]{ctex}
+\usepackage{amsmath, amssymb}
+\usepackage{graphicx}
+\usepackage[margin=2.2cm]{geometry}
+\usepackage[most]{tcolorbox}
+\usepackage{etoolbox}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{xurl}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{float}
+\usepackage{enumitem}
+\usepackage{tikz}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue!50!black,
+    urlcolor=blue!60!black,
+    citecolor=blue!50!black
+}
+
+\newtcolorbox{findingbox}[1]{
+    enhanced,
+    colback=green!5!white,
+    colframe=green!45!black,
+    colbacktitle=green!45!black,
+    coltitle=white,
+    fonttitle=\bfseries,
+    title=#1,
+    sharp corners
+}
+
+\newtcolorbox{evidencebox}[1]{
+    enhanced,
+    colback=blue!4!white,
+    colframe=blue!65!black,
+    colbacktitle=blue!65!black,
+    coltitle=white,
+    fonttitle=\bfseries,
+    title=#1,
+    sharp corners
+}
+
+\newtcolorbox{riskbox}[1]{
+    enhanced,
+    colback=red!4!white,
+    colframe=red!70!black,
+    colbacktitle=red!70!black,
+    coltitle=white,
+    fonttitle=\bfseries,
+    title=#1,
+    sharp corners
+}
+
+\newtcolorbox{methodbox}[1]{
+    enhanced,
+    colback=yellow!9!white,
+    colframe=yellow!60!black,
+    colbacktitle=yellow!60!black,
+    coltitle=black,
+    fonttitle=\bfseries,
+    title=#1,
+    sharp corners
+}
+
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\setlist[itemize]{leftmargin=1.6em}
+\setlist[enumerate]{leftmargin=1.8em}
+
+\newcommand{\reporttitle}{东北亚正在形成“双三边”结构吗？}
+\newcommand{\reportsubtitle}{中日韩合作与美日韩威慑制度化并行意味着什么：POL2610 Topic 9/10 pre 研究简报}
+\newcommand{\reportauthors}{Codex}
+\newcommand{\reportdate}{2026-03-26}
+\newcommand{\researchquestion}{在东北亚，是否正在形成一个以“中日韩合作”与“美日韩威慑制度化”并行为特征的“双三边”结构？如果是，这对中国区域外交、日韩战略选择与地区秩序意味着什么？}
+\newcommand{\reportscope}{阅读本仓库 syllabus、全部本地 PDF 及其 MinerU 解析结果，并补充 2023--2025 年官方文件与政策分析；目标是直接服务于一个 20 分钟英文 pre，但本报告先以中文完成题目构思与论证设计。}
+\newcommand{\reportaudience}{POL2610 课堂 pre 的准备者}
+\newcommand{\sourcewindow}{本地课程材料 + 截至 2026-03-26 可获得的公开网页资料；最新制度性节点主要集中于 2023-08-18 至 2025-03-22。}
+
+\begin{document}
+
+\begin{titlepage}
+\centering
+{\Large 深度研究报告\par}
+\vspace{1.0cm}
+{\huge\bfseries \reporttitle\par}
+\vspace{0.5cm}
+{\Large \reportsubtitle\par}
+\vspace{0.9cm}
+{\large \reportauthors\par}
+\vspace{0.2cm}
+{\large \reportdate\par}
+\vspace{1.0cm}
+
+\begin{tcolorbox}[width=0.94\textwidth, colback=black!2!white, colframe=black!60, sharp corners]
+\textbf{核心问题}：\researchquestion\par
+\textbf{研究范围}：\reportscope\par
+\textbf{目标读者}：\reportaudience\par
+\textbf{证据窗口}：\sourcewindow\par
+\end{tcolorbox}
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+\section{执行摘要}
+
+\begin{findingbox}{一句话判断}
+如果把“双三边”当作一个分析性概念而不是官方术语，那么答案是：\textbf{是，东北亚正在形成一个不对称、分工化、并且仍不稳定的“双三边”结构。}
+\end{findingbox}
+
+更准确地说，今天的东北亚并不是在形成两个对称的制度集团，而是在形成两套\textbf{并行但功能不同}的三边机制：
+
+\begin{enumerate}
+\item \textbf{中日韩}正在恢复并巩固一条以\textbf{低政治、功能合作、沟通管理}为主的三边轨道。
+\item \textbf{美日韩}则在 2023 年 8 月 18 日 Camp David 之后，沿着\textbf{威慑、咨询、演习、情报与扩展威慑}方向不断制度化。
+\end{enumerate}
+
+因此，这个题目最值得讲的，不是“东北亚分裂了”这种过于粗糙的结论，而是以下更精确的命题：
+
+\begin{findingbox}{推荐主论点}
+\textbf{东北亚的区域秩序正在被“议题分层”重组：安全越来越通过美日韩的威慑性 minilateralism 来组织，而经济、社会与外交沟通仍需要中日韩这一功能性平台。}
+\end{findingbox}
+
+这意味着三件事。第一，\textbf{中国并没有被彻底排除在地区制度空间之外}，但它越来越难影响东北亚的硬安全结构。第二，\textbf{日本和韩国并没有在中美之间做单向选边}，而是在安全上更深地靠向美国，同时在外交与经济上保留同中国的制度性接口。第三，\textbf{地区并未进入一个稳定的新秩序}，而是进入了“安全更硬、合作更窄、沟通仍必要”的分层状态。%
+\footnote{核心官方节点包括 2023 年 8 月 18 日的《The Spirit of Camp David》《Camp David Principles》《Commitment to Consult》；2024 年 5 月 27 日中日韩第九次领导人会议联合宣言；2024 年 7 月 28 日美日韩防长联合新闻声明和美日延伸威慑部长级联合声明；2024 年 12 月 26 日美日延伸威慑指针；2025 年 1 月 10 日第四次美韩 NCG 联合声明；2025 年 3 月 22 日第十一届中日韩外长会。完整 source ledger 见 \path{/Users/fanghaotian/Desktop/JI/POL2610/deepresearch/source-ledger-dual-trilateral.md}。}
+
+\section{研究问题与方法}
+
+\begin{methodbox}{概念说明}
+“双三边”不是中日韩或美日韩官方正式使用的标签，而是本报告为了课堂 pre 方便而使用的分析性概念。它的意思不是“两个完全对等的制度集团”，而是“在同一地区中并行存在两条稳定化的三边机制，并分别承担不同政治功能”。
+\end{methodbox}
+
+这个题目之所以适合 POL2610 Topic 9/10，有三个原因。第一，syllabus 明确要求讨论中国与东北亚的区域冲突、邻国关系与区域 standing；第二，本地 PDF 正好集中在朝鲜半岛、中日关系、东海争端、扩展威慑与区域秩序这几条线；第三，这个题目既能讲中国，也能讲东北亚，而且天然具有时间线、制度比较和现实针对性。%
+\footnote{本地最关键的课程材料包括 Robert G. Sutter 的 \textit{Relations with Japan and Korea}、Hao Yufan 的 \textit{China and the Korean Peninsula: A Chinese View}、Michito Tsuruoka 的 \textit{US Nuclear Weapons and US Alliances in North-East Asia}、Evelyn Goh 的 \textit{The Asia Pacific's “Age of Uncertainty”}、Zhang Tuosheng 的 \textit{China--Japan relations at a new juncture}、Reinhard Drifte 的东海争端研究以及 Jihwan Hwang 和 Sung-han Kim 关于功能主义与朝鲜半岛制度化合作的论文。}
+
+\begin{evidencebox}{材料处理方式}
+\begin{itemize}
+\item 本地部分：阅读了 syllabus 与仓库中全部 PDF 的 MinerU 解析文本，而不是只抽题目中最相关的两三篇。
+\item 外部部分：优先用官方文件锁定制度节点，再用智库文章解释这些节点的战略含义。
+\item 时间截止：本报告写作时点是 2026 年 3 月 26 日；就这一题而言，最新实质性制度性材料主要集中在 2025 年 3 月以前。
+\end{itemize}
+\end{evidencebox}
+
+\section{为什么这个题成立：从时间线看“双三边”的形成}
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[x=1.7cm, y=1cm]
+\draw[->, thick] (0,0) -- (7.1,0);
+\draw[thick] (0,0.1) -- (0,-0.1);
+\node[align=center, font=\small] at (0,-0.85) {2023-08\\Camp David};
+\draw[thick] (1.6,0.1) -- (1.6,-0.1);
+\node[align=center, font=\small] at (1.6,-0.85) {2024-05\\中日韩峰会};
+\draw[thick] (3.1,0.1) -- (3.1,-0.1);
+\node[align=center, font=\small] at (3.1,-0.85) {2024-07\\美日韩防长\\+ 美日延伸威慑};
+\draw[thick] (4.6,0.1) -- (4.6,-0.1);
+\node[align=center, font=\small] at (4.6,-0.85) {2024-12\\美日延伸\\威慑指针};
+\draw[thick] (5.6,0.1) -- (5.6,-0.1);
+\node[align=center, font=\small] at (5.6,-0.85) {2025-01\\第4次\\NCG};
+\draw[thick] (6.7,0.1) -- (6.7,-0.1);
+\node[align=center, font=\small] at (6.7,-0.85) {2025-03\\中日韩\\外长会};
+\end{tikzpicture}
+\caption{“双三边”结构的关键制度节点}
+\end{figure}
+
+这条时间线里最关键的转折点是 2023 年 8 月 18 日的 Camp David。那一天，美日韩共同发布《The Spirit of Camp David》《Camp David Principles》《Commitment to Consult》，把以往更偏临时性、事件驱动的三边合作，推进到\textbf{规则化、年度化、机制化}的新阶段。三国承诺定期领导人峰会、定期部长级会议、年度联合军演、加强导弹预警数据共享，并在危机情况下进行快速磋商。%
+\footnote{\url{https://japan.kantei.go.jp/content/000133677.pdf}; \url{https://www.mofa.go.jp/mofaj/files/100541768.pdf}; \url{https://japan.kantei.go.jp/content/000133678.pdf}.}
+
+随后，2024 年 5 月 27 日在首尔举行的中日韩第九次领导人会议，又把停滞多年的中日韩合作重新拉回轨道。联合宣言把合作重点放在六个领域：\textbf{人文交流、可持续发展与气候变化、经贸、公共卫生与老龄化、科技与数字化转型、灾害救援与安全}。这不是安全共同体的设计，而是典型的\textbf{功能主义修复}。%
+\footnote{\url{https://www.fmprc.gov.cn/eng/zy/gb/202406/t20240601_11368783.html}.}
+
+到 2024 年 7 月 28 日，美日韩又举行了三边防长会，同日美日举行延伸威慑部长级会议；2024 年 12 月 26 日，美日正式发布延伸威慑指针；2025 年 1 月 10 日，美韩第四次核磋商小组会议确认继续推进信息共享、联合规划和常规--核一体化。到了 2025 年 3 月 22 日，中日韩外长会再次确认三边轨道仍然在运转，并准备下一次峰会。%
+\footnote{\url{https://www.defense.gov/News/Releases/Release/Article/3852146/japan-united-states-republic-of-korea-trilateral-ministerial-joint-press-statem/}; \url{https://www.mofa.go.jp/files/100704442.pdf}; \url{https://www.defense.gov/News/Releases/Release/Article/4016928/government-of-the-united-states-of-america-government-of-japan-guidelines-for-e/}; \url{https://www.defense.gov/News/Releases/Release/Article/4026575/joint-press-statement-on-the-fourth-nuclear-consultative-group-meeting/}; \url{https://www.mofa.go.jp/press/release/pressite_000001_01107.html}.}
+
+\begin{findingbox}{时间线真正说明的不是“轮流开会”}
+真正重要的是：\textbf{两套三边机制都开始稳定化，但它们稳定化的方向不同。}中日韩稳定化的是“接触与合作”，美日韩稳定化的是“威慑与应对”。
+\end{findingbox}
+
+\section{第一条线：中日韩为什么回来了，但又为什么回得有限}
+
+\subsection{它回来的原因：三国都需要一个与中国打交道的低成本平台}
+
+如果只看地缘竞争，中日韩合作似乎不该在 2024 年恢复。但正因为竞争在上升，这个机制才更有用。对中国而言，中日韩是防止日本和韩国完全被美方安全轨道吸走的外交接口；对日本和韩国而言，中日韩则是一个在不削弱美日、美韩同盟的前提下，同中国继续打交道、管理经济联系、维持沟通的低成本平台。Stimson Center 的解读就指出，三方对这一机制的期待并不一致，但都认为它在当下有实际价值。%
+\footnote{\url{https://www.stimson.org/2024/takeaways-from-the-china-japan-south-korea-trilateral-summit/}.}
+
+\subsection{它的议题选择很能说明问题：功能合作被保留，硬安全被回避}
+
+联合宣言的六大合作领域几乎都属于\textbf{低政治或中等政治}范畴。这里并没有出现真正意义上的共同威慑、共同安全义务或地区军事协调。相反，中日韩更像一个把高风险议题压低、把可合作议题做窄做实的框架。%
+\footnote{\url{https://www.fmprc.gov.cn/eng/zy/gb/202406/t20240601_11368783.html}.}
+
+这和本地课程材料高度吻合。Jihwan Hwang 与 Sung-han Kim 对功能主义的重新解释表明，即使高政治议题难以突破，\textbf{制度化合作本身}仍然具有政治意义，因为它会保留沟通渠道、塑造议题网络，并为未来更深层合作积累条件。Evelyn Goh 的“经济--安全 nexus”框架则提醒我们，在一个互赖与竞争并存的地区，合作并不需要安全互信充分存在才会出现。%
+\footnote{本地课程材料：\path{/Users/fanghaotian/Desktop/JI/POL2610/mineru/Revisiting the Functionalist Approach to Korean Unification.pdf/full.md}；\path{/Users/fanghaotian/Desktop/JI/POL2610/mineru/THE ASIA PACIFIC’S “AGE OF UNCERTAINTY” GREAT POWER COMPETITION.pdf/full.md}.}
+
+\subsection{它的局限也很明显：中日韩不是安全秩序替代品}
+
+中日韩恢复 summit 并不意味着三国已经走向战略一致。Zhang Tuosheng 和 Sutter 的材料都强调，中日之间的深层战略猜疑并没有消失；朝鲜半岛问题、东海、历史记忆、同盟政治依然是结构性分歧源。Drifte 对东海争端的分析则提醒我们，即便双方能在功能层面创造“合作海”，真正推动落实仍需要更强的政治意愿和稳定的双边氛围。%
+\footnote{对应的本地课程材料包括 Zhang Tuosheng, \textit{China--Japan relations at a new juncture}; Robert G. Sutter, \textit{Relations with Japan and Korea}; Reinhard Drifte, \textit{Territorial Conflicts in the East China Sea -- From Missed Opportunities to Negotiation Stalemate}. 完整路径见 source ledger。}
+
+\section{第二条线：美日韩为什么明显更像“制度化威慑”}
+
+\subsection{Camp David 的关键，不是象征，而是把“临时协作”改成“例行机制”}
+
+\textit{The Spirit of Camp David} 最重要的地方，不是口号，而是把很多原本可能因某次朝鲜试射、某位领导人换届而中断的安排，变成\textbf{预先承诺的程序}。其中最典型的包括：年度领导人会晤、年度外长会、年度防长会、年度多域演习、导弹预警数据共享，以及在区域威胁与危机面前更快的三边协商。%
+\footnote{\url{https://japan.kantei.go.jp/content/000133677.pdf}.}
+
+\subsection{制度化随后继续加码，而不是停在 2023 年}
+
+如果 Camp David 只是一次峰会，那么“双三边”结构未必成立。真正让它成立的是后续层层叠加的机制：2024 年 7 月 28 日三边防长联合新闻声明确认三边防务合作继续推进；同日的美日延伸威慑部长级会议把东京与华盛顿之间的核与战略磋商提升到更高层级；2024 年 12 月 26 日的美日延伸威慑指针则把这些安排进一步文件化。美韩方向上，第四次 NCG 明确继续推进信息共享、联合规划和常规--核一体化。%
+\footnote{\url{https://www.defense.gov/News/Releases/Release/Article/3852146/japan-united-states-republic-of-korea-trilateral-ministerial-joint-press-statem/}; \url{https://www.mofa.go.jp/files/100704442.pdf}; \url{https://www.defense.gov/News/Releases/Release/Article/4016928/government-of-the-united-states-of-america-government-of-japan-guidelines-for-e/}; \url{https://www.defense.gov/News/Releases/Release/Article/4026575/joint-press-statement-on-the-fourth-nuclear-consultative-group-meeting/}.}
+
+这和 Michito Tsuruoka 对东北亚延伸威慑的章节形成清楚呼应：东亚版本的威慑体系未必像北约那样依赖前沿部署，但它确实越来越依赖\textbf{咨询机制、可见性、联合规划和制度化教育}。%
+\footnote{本地课程材料：\path{/Users/fanghaotian/Desktop/JI/POL2610/mineru/US Nuclear Weapons and US Alliances in North-East Asia.pdf/full.md}.}
+
+\subsection{为什么这条线比中日韩更“硬”}
+
+因为它的中心任务不是合作，而是\textbf{威慑}。对美日韩来说，朝鲜核导能力、对台海与印太安全的担忧、中国军力扩张与海空活动，要求的是更快、更可预测、更具协同性的应对机制。也正因为如此，Camp David 之后的制度化主要发生在\textbf{安全与战略协调层面}，而不是在泛经济一体化层面。
+
+\begin{evidencebox}{一个重要对照}
+中日韩的制度化重点是“继续见面、继续合作、继续沟通”；美日韩的制度化重点是“继续威慑、继续协商、继续联动”。
+\end{evidencebox}
+
+\section{并行意味着什么：五个最值得讲的含义}
+
+\subsection{第一，这不是“两个对称集团”，而是一个分层化地区秩序}
+
+中日韩和美日韩虽然都是 trilateral，但不是同一种制度物。前者更像\textbf{functional trilateralism}，后者更像\textbf{deterrence minilateralism}。它们并行存在，说明东北亚不是在走向单一秩序，而是在走向\textbf{安全和合作按议题分轨运行}的秩序。
+
+\subsection{第二，日本和韩国的真实策略不是简单选边，而是安全靠美、沟通留中}
+
+这点是课堂上最容易讲清楚、也最容易拿分的。日本和韩国并没有因为加入美日韩就退出中日韩；相反，它们恰恰是想把两套机制都保住。East Asia Forum 在 2024 年就用了一个很有启发性的说法：\textbf{美日韩是主要的地缘政治框架，中日韩则可以作为一个补充性的次级轴线。}%
+\footnote{\url{https://eastasiaforum.org/2024/07/02/breathing-life-into-northeast-asia-alliances/}.}
+
+\subsection{第三，中国并没有失去全部制度空间，但失去了对硬安全议程的主导权}
+
+中国能推动中日韩恢复，说明它仍有相当大的外交与经济吸引力，也仍能在东北亚发挥议程设置作用。但中国对朝鲜问题的“稳定优先”、对 Camp David 的强烈批评、以及对同盟制度化的反感，也说明北京越来越难阻止日韩在安全上向美国靠拢。%
+\footnote{中国对 Camp David 的官方批评见 2023 年 8 月 21 日外交部例行记者会：\url{https://www.fmprc.gov.cn/nanhai/eng/fyrbt_1/202308/t20230821_11129753.htm}.}
+
+\subsection{第四，这种并行结构有稳定效应，也有安全困境效应}
+
+稳定的一面在于，中日韩至少保留了一条正式沟通、经贸和社会合作渠道，防止东北亚彻底变成零接触环境。危险的一面在于，美日韩的威慑制度化会被中国视为针对性增强，而中国越反对、日韩越会觉得需要美国的安全保险。这正是 Sutter 和 Goh 两类材料合起来揭示的逻辑：\textbf{互赖并不会自动消除安全困境，反而会与其长期并存。}
+
+\subsection{第五，“双三边”结构仍然是形成中，而非已经定型}
+
+中日韩能否持续推进，取决于三国国内政治、东海摩擦、朝鲜半岛局势和中美竞争温度。美日韩虽然制度化更深，但它仍然不是一个三边共同防御条约，其韧性仍取决于华盛顿、东京、首尔三方政府愿不愿继续投资政治资源。Stimson 和 Chatham House 都强调，机制化本身就是为了应对这种国内政治不确定性。%
+\footnote{\url{https://www.stimson.org/2024/u-s-japan-rok-defense-trilateral-establishing-a-safeguard-for-the-future/}; \url{https://www.chathamhouse.org/2025/12/securing-future-us-japan-south-korea-cooperation/introduction}.}
+
+\section{课堂 pre 最值得采用的讲法}
+
+\subsection{推荐英文 thesis}
+
+如果你要做 20 分钟英文 pre，我最推荐的中心句是：
+
+\begin{quote}
+\textbf{An uneven dual-trilateral structure is emerging in Northeast Asia: China-Japan-ROK cooperation has revived as a functional diplomatic channel, while U.S.-Japan-ROK cooperation is being institutionalized as a deterrence framework. Their coexistence reveals not reconciliation, but a bifurcated regional order in which cooperation remains possible in low politics while security is increasingly organized through competing alignments.}
+\end{quote}
+
+\subsection{推荐的 20 分钟结构}
+
+\begin{longtable}{p{2.0cm}p{4.4cm}p{7.2cm}}
+\toprule
+\textbf{时间} & \textbf{这一段讲什么} & \textbf{你要完成的任务} \\
+\midrule
+\endhead
+2 分钟 & 开场与问题意识 & 用一张时间线图提出问题：为什么 2023 年后东北亚同时出现中日韩恢复合作和美日韩加速威慑制度化？ \\
+3 分钟 & 概念界定 & 解释“双三边”是分析概念，不是官方术语；强调这不是两个对称集团。 \\
+4 分钟 & 中日韩这条线 & 讲 2024 年 5 月 27 日峰会和 2025 年 3 月 22 日外长会；说明它是功能主义、低政治、修复性合作。 \\
+4 分钟 & 美日韩这条线 & 讲 Camp David、Commitment to Consult、年度演习、延伸威慑、NCG 与指针；说明它是威慑制度化。 \\
+5 分钟 & 你的分析 & 讲“议题分层”“安全靠美、沟通留中”“中国仍有外交空间但难主导硬安全”；这是整场 pre 的拿分段。 \\
+2 分钟 & 结论与问题 & 总结“双三边”不是稳定终局，而是一个形成中的分层秩序；抛出开放问题：它会带来更强稳定还是更深分裂？ \\
+\bottomrule
+\end{longtable}
+
+\subsection{最值得强调的三点}
+
+\begin{enumerate}
+\item \textbf{不要把题目讲成事件流水账。} 真正的主线应该是“为何并行”“为何功能不同”“意味着什么”。
+\item \textbf{不要把中日韩夸成安全共同体。} 现有证据更支持“功能平台”而不是“战略共同体”。
+\item \textbf{不要把日韩讲成单向选边。} 这个题最精彩的地方，恰恰是日韩在两套机制中同时下注。
+\end{enumerate}
+
+\subsection{建议的 slide 设计}
+
+\begin{enumerate}
+\item 标题页：研究问题 + 你的一句话答案
+\item 一张时间线：2023-08-18 到 2025-03-22
+\item 一张比较表：中日韩 vs 美日韩
+\item 一页讲中日韩的合作议题与局限
+\item 一页讲美日韩的制度化节点
+\item 一页讲中国视角
+\item 一页讲日韩视角
+\item 一页讲地区秩序含义
+\item 结论页：what is well supported / what remains uncertain
+\end{enumerate}
+
+\section{文献怎么配：先读什么，后补什么}
+
+\subsection{必须先读的本地材料}
+
+\begin{enumerate}
+\item Sutter：帮你把中国对日本、韩国、朝鲜半岛放在同一框架里。
+\item Tsuruoka：帮你讲清楚为什么美日、美韩的威慑合作会越来越咨询化、制度化。
+\item Goh：帮你把“互赖与竞争并存”说成一个更像国际关系分析而不是新闻评论的论点。
+\item Zhang Tuosheng 与 Drifte：帮你讲清楚为什么中日关系总是“需要合作”但又“难以战略和解”。
+\end{enumerate}
+
+\subsection{必须掌握的外部官方文本}
+
+\begin{enumerate}
+\item 2023-08-18：\textit{The Spirit of Camp David}
+\item 2023-08-18：\textit{Camp David Principles}
+\item 2023-08-18：\textit{Commitment to Consult}
+\item 2024-05-27：中日韩第九次领导人会议联合宣言
+\item 2024-07-28：美日韩防长联合新闻声明 + 美日延伸威慑部长级联合声明
+\item 2024-12-26：美日延伸威慑指针
+\item 2025-01-10：第四次美韩 NCG 联合声明
+\item 2025-03-22：第十一届中日韩外长会
+\end{enumerate}
+
+\subsection{适合补充观点的二级分析}
+
+\begin{enumerate}
+\item Stimson 关于 2024 年中日韩峰会的短评
+\item Stimson 关于美日韩三边防务机制的短评
+\item East Asia Forum 关于东北亚联盟复活与“secondary axis”的文章
+\item Chatham House 对 post-Camp-David 制度化的总括
+\end{enumerate}
+
+\section{这道题最终最该怎么答}
+
+\begin{findingbox}{最适合课堂表达的结论}
+东北亚\textbf{正在形成}“双三边”结构，但这不是两个等量齐观的制度集团，而是一个\textbf{分层化、功能分工化且仍在变动中的地区秩序}：中日韩合作负责维持接触、功能合作与外交缓冲，美日韩合作负责强化威慑、危机应对与安全协调。
+\end{findingbox}
+
+这也正是这道题的价值所在。它能把你们这门课 Topic 9/10 的几乎所有核心问题都连起来：\textbf{中国为什么重视东北亚、为什么在朝鲜半岛强调稳定、为什么中日关系总在合作与竞争之间摆动、以及为什么区域秩序正在被安全与经济两套不同逻辑同时塑造。}
+
+\section{结论与后续问题}
+
+\subsection{较为稳固的判断}
+
+\begin{itemize}
+\item 以 2023 年 8 月 18 日为起点，美日韩安全合作的制度化明显增强。
+\item 以 2024 年 5 月 27 日和 2025 年 3 月 22 日为节点，中日韩合作确实恢复并继续运转。
+\item 两套机制的功能不同，因此能够并行而不是互相替代。
+\end{itemize}
+
+\subsection{较可能但仍需谨慎的判断}
+
+\begin{itemize}
+\item 日本和韩国会继续尝试在安全与经济之间做制度性分工，而不是完全切换到单一阵营逻辑。
+\item 中国会继续投入中日韩机制，以避免东北亚硬化为单一的美方主导安全架构。
+\end{itemize}
+
+\subsection{仍然未知的问题}
+
+\begin{itemize}
+\item 如果朝鲜半岛危机显著升级，中日韩机制还能否维持功能性合作？
+\item 如果中美竞争继续升级，日韩还能否长期维持“安全靠美、沟通留中”的双轨策略？
+\item “双三边”是一个过渡阶段，还是东北亚未来若干年的常态结构？
+\end{itemize}
+
+\begin{riskbox}{给这次 pre 的最后建议}
+如果你时间有限，不要试图把所有国家的所有政策都讲全。最有效的做法是：\textbf{用时间线证明结构正在形成，用比较表证明两套机制功能不同，用三条含义证明这个结构为什么重要。}
+\end{riskbox}
+
+\end{document}
