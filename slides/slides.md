@@ -18,14 +18,14 @@ mdc: true
     <div>
       <div class="eyebrow">POL2610 · Topic 9/10 · Northeast Asia</div>
       <h1>中日韩“双三边”结构</h1>
-      <p class="lead">东北亚区域秩序的议题分层</p>
+      <p class="lead">不对称双三边与东北亚秩序的议题分层</p>
     </div>
     <div class="chip-row">
       <span class="chip cjk">中日韩合作</span>
       <span class="chip usjk">美日韩威慑</span>
       <span class="chip neutral">功能合作 vs 安全制度化</span>
     </div>
-    <p class="kicker">同一地区，不是单一路线，而是两套三边机制在不同议题层级上并行推进。</p>
+    <p class="kicker">同一地区，不是单一路线，也不是两个对称集团，而是两套三边机制在不同议题层级上并行推进。</p>
   </div>
   <div class="cover-visual">
     <div class="map-card">
@@ -104,12 +104,12 @@ mdc: true
   </div>
   <div class="panel">
     <div class="section-tag">Working Definition</div>
-    <div class="statement display-serif">“双三边”不是官方术语，而是我用来描述两套三边机制并行稳定化的分析框架。</div>
-    <div class="pull-list" style="margin-top: 1rem;">
-      <div class="pull-item cjk">中日韩：功能合作、沟通、人文与民生</div>
-      <div class="pull-item usjk">美日韩：威慑、咨询、数据共享与安全协调</div>
-      <div class="pull-item">核心不在“都存在”，而在“它们处理不同层级的问题”</div>
-    </div>
+      <div class="statement display-serif">“双三边”不是官方术语，而是我用来描述两套三边机制并行稳定化的分析框架。</div>
+      <div class="pull-list" style="margin-top: 1rem;">
+        <div class="pull-item cjk">中日韩：功能合作、沟通管理、低政治合作</div>
+        <div class="pull-item usjk">美日韩：威慑、咨询、数据共享与安全协调</div>
+        <div class="pull-item">重点不是“两边都在”，而是“它们不是两个对称集团，而是在处理不同层级的问题”</div>
+      </div>
   </div>
 </div>
 
@@ -119,8 +119,8 @@ mdc: true
 
 <div class="split-grid">
   <div class="quote-card">
-    <div class="statement display-serif">东北亚正在出现的，不是两个完全对称的集团，而是一套按议题分层运作的区域秩序。</div>
-    <div class="caption">安全越来越通过美日韩的制度化威慑处理；经济、社会与外交沟通仍需要中日韩功能平台。</div>
+    <div class="statement display-serif">东北亚正在形成的，不是两个完全对称的集团，而是一套不对称、分工化、仍未定型的分层秩序。</div>
+    <div class="caption">安全越来越通过美日韩的 deterrence minilateralism 处理；经济、社会与外交沟通仍需要中日韩 functional trilateralism 平台。</div>
   </div>
   <div class="panel">
     <img class="visual-asset" src="/assets/layered-order.svg" alt="Layered order diagram" />
@@ -128,8 +128,8 @@ mdc: true
 </div>
 
 <div class="chip-row" style="margin-top: 0.75rem;">
-  <span class="chip usjk">高政治：安全、军政协调、核咨询</span>
-  <span class="chip cjk">低政治：经贸、卫生、科技、人文</span>
+  <span class="chip usjk">deterrence minilateralism</span>
+  <span class="chip cjk">functional trilateralism</span>
   <span class="chip neutral">同一区域，不同制度层级</span>
 </div>
 
@@ -141,7 +141,12 @@ mdc: true
   <img class="visual-asset" src="/assets/tracks-overview.svg" alt="Double trilateral timeline" />
 </div>
 
-<div class="source-strip" style="margin-top: 0.65rem;">White House, 2023-08-18; MOFA Japan, 2024-05-27 & 2025-03-22; U.S. DoD, 2024-07 & 2025-01.</div>
+<div class="fact-grid" style="margin-top: 0.85rem;">
+  <div class="fact-line"><strong>Security track</strong> 2024.12 美日延伸威慑指针与 2025.01 第四次 NCG 说明：Camp David 不是终点，而是后续文件化与咨询机制的起点。</div>
+  <div class="fact-line"><strong>CJK track</strong> 2025.03.22 中日韩外长会说明：功能合作轨道在 2024 首尔峰会之后并没有中断。</div>
+</div>
+
+<div class="source-strip" style="margin-top: 0.65rem;">Kantei / MOFA Japan, 2023-08-18; FMPRC, 2024-06-01; MOFA Japan, 2025-03-22; U.S. DoD, 2024-07-28, 2024-12-26, 2025-01-10.</div>
 
 <!--
 讲法：不要停留在一个节点，而是强调 2023.08 之后两条轨道都在被持续加固。
@@ -167,25 +172,25 @@ mdc: true
   <div class="side-copy">
     <div class="panel soft-cjk">
       <div class="section-tag">Seoul, 2024-05-27</div>
-      <div class="statement display-serif" style="font-size: 1.3rem;">首脑层级恢复，本身就是政治信号。</div>
+      <div class="statement display-serif" style="font-size: 1.3rem;">首脑层级恢复，本身就是政治信号；2025.03 外长会延续，则说明它正在被重新 regularize。</div>
     </div>
     <div class="metric-card">
       <strong>但</strong>
       <span>恢复的是三边合作平台，不是三边安全共同体。</span>
     </div>
     <div class="legend-row">
-      <span class="legend-pill">恢复 summit</span>
-      <span class="legend-pill">恢复外长会</span>
-      <span class="legend-pill">恢复部长级沟通</span>
+      <span class="legend-pill">2024.05 恢复 summit</span>
+      <span class="legend-pill">2025.03 外长会延续</span>
+      <span class="legend-pill">继续准备下一次峰会</span>
     </div>
   </div>
 </div>
 
-<div class="source-strip" style="margin-top: 0.6rem;">Photo: Wikimedia Commons; summit substance: Joint Declaration for the 9th Trilateral Summit.</div>
+<div class="source-strip" style="margin-top: 0.6rem;">Photo: Wikimedia Commons; summit substance: Joint Declaration for the 9th Trilateral Summit; process update: MOFA Japan, 2025-03-22.</div>
 
 ---
 
-# 但它回来的内容，是功能性议题
+# 但它回来的方式，是 regularized but security-light
 
 <div class="split-grid">
   <div class="panel">
@@ -201,7 +206,7 @@ mdc: true
       <span>威慑、军事协调、集体安全、针对第三方的安全框架</span>
     </div>
     <div class="panel soft-cjk">
-      <div class="statement display-serif" style="font-size: 1.15rem;">中日韩回归的是“可合作的部分”，不是战略矛盾的解决。</div>
+      <div class="statement display-serif" style="font-size: 1.15rem;">中日韩回归的是“可合作的部分”，不是战略矛盾的解决，所以它更像 functional repair，而不是战略和解。</div>
     </div>
   </div>
 </div>
@@ -226,7 +231,7 @@ mdc: true
 </div>
 
 <div class="panel soft-cjk" style="margin-top: 0.9rem;">
-  <div class="statement display-serif" style="font-size: 1.2rem;">所以中日韩像一个“低成本、低政治、但仍然必要”的平台。</div>
+  <div class="statement display-serif" style="font-size: 1.2rem;">所以中日韩像一个“低成本、低政治、但仍然必要”的平台，也是典型的功能主义修复。</div>
 </div>
 
 ---
@@ -250,7 +255,7 @@ mdc: true
     </div>
     <div class="pull-list">
       <div class="pull-item usjk">年度化：首脑会、部长会、演训</div>
-      <div class="pull-item usjk">程序化：Commitment to Consult</div>
+      <div class="pull-item usjk">程序化：Commitment to Consult，把危机磋商写进程序</div>
       <div class="pull-item usjk">操作化：数据共享、联合演训、核咨询</div>
     </div>
   </div>
@@ -313,27 +318,27 @@ mdc: true
     </div>
     <div class="question-card">
       <strong>Deterrence</strong>
-      <span>EDSCG / NCG / 指南让延伸威慑更像程序，不只是口头保证</span>
+      <span>2024.12 指针与 2025.01 第四次 NCG 让延伸威慑更像程序，而不只是口头保证</span>
     </div>
   </div>
 </div>
 
 ---
 
-# 所以两条轨道根本不在同一层面
+# functional trilateralism vs deterrence minilateralism
 
 <div class="comparison-grid">
   <div class="comparison-col cjk">
-    <h3>中日韩：功能性三边主义</h3>
+    <h3>中日韩：functional trilateralism</h3>
     <ul>
-      <li>制度化程度：低到中等</li>
+      <li>制度化程度：低到中等，但正在 regularize</li>
       <li>议题：经贸、卫生、科技、人文</li>
       <li>目标：保留合作成果与外交沟通</li>
       <li>逻辑：把争议留在门外</li>
     </ul>
   </div>
   <div class="comparison-col usjk">
-    <h3>美日韩：威慑性小多边主义</h3>
+    <h3>美日韩：deterrence minilateralism</h3>
     <ul>
       <li>制度化程度：中高到高</li>
       <li>议题：演训、磋商、情报、核咨询</li>
@@ -344,12 +349,12 @@ mdc: true
 </div>
 
 <div class="panel" style="margin-top: 0.9rem;">
-  <div class="statement display-serif" style="font-size: 1.16rem;">它们不是在抢同一个制度位置，而是在处理不同类型的问题。</div>
+  <div class="statement display-serif" style="font-size: 1.16rem;">它们不是在抢同一个制度位置，而是在处理不同类型的问题，所以才会并行而不是互相替代。</div>
 </div>
 
 ---
 
-# 课程材料其实也在指向这个结构
+# 课程材料给了这套结构的解释工具
 
 <div class="lit-grid">
   <div class="lit-card">
@@ -482,7 +487,7 @@ mdc: true
 </div>
 
 <div class="panel" style="margin-top: 0.9rem;">
-  <div class="statement display-serif" style="font-size: 1.14rem;">换句话说，双三边不是逻辑矛盾，而是中等国家在联盟框架下同时管理“被抛下”和“被拖进去”两种风险的结果。</div>
+  <div class="statement display-serif" style="font-size: 1.14rem;">换句话说，双三边不是逻辑矛盾，而是中等国家在联盟框架下同时管理 abandonment 与 entrapment 两种风险的结果。</div>
 </div>
 
 ---
@@ -527,7 +532,7 @@ mdc: true
 </div>
 
 <div class="panel" style="margin-top: 0.9rem;">
-  <div class="statement display-serif" style="font-size: 1.16rem;">更贴切的理解不是“选边完成”，而是把安全与合作分别安放在不同制度容器里。</div>
+  <div class="statement display-serif" style="font-size: 1.16rem;">更贴切的理解不是“选边完成”，而是把安全靠美、沟通留中，分别安放在不同制度容器里。</div>
 </div>
 
 ---
@@ -580,19 +585,27 @@ mdc: true
 
 ---
 
-# 我的判断
+# 什么是证据已经支持的？什么还不确定？
 
-<div class="quote-card">
-  <div class="section-tag">Takeaway</div>
-  <div class="statement display-serif">东北亚正在形成的，不是单一阵营秩序，而是一个由威慑轨道与功能轨道共同构成的“分层双三边”结构。</div>
-  <div class="caption">它让地区秩序同时具有稳定器与分裂加速器的双重属性。</div>
-</div>
-
-<div class="fact-grid" style="margin-top: 0.9rem;">
-  <div class="fact-line"><strong>One</strong> 美日韩让安全合作更硬、更快、更程序化。</div>
-  <div class="fact-line"><strong>Two</strong> 中日韩让外交接触与低政治合作不至于归零。</div>
-  <div class="fact-line"><strong>Three</strong> 真正的问题不是能否并行，而是这种并行能持续多久。</div>
-  <div class="fact-line"><strong>Four</strong> “双三边”是理解当前东北亚的一个有解释力的中层概念。</div>
+<div class="comparison-grid">
+  <div class="comparison-col usjk">
+    <h3>比较稳的判断</h3>
+    <ul>
+      <li>Camp David 之后，美日韩安全合作明显更制度化。</li>
+      <li>2024 首尔峰会与 2025 外长会说明中日韩轨道确实恢复并持续运转。</li>
+      <li>两条三边机制的功能不同，所以可以并行存在。</li>
+      <li>“不对称双三边”比“两个对称集团”更符合证据。</li>
+    </ul>
+  </div>
+  <div class="comparison-col cjk">
+    <h3>仍然不确定的地方</h3>
+    <ul>
+      <li>一旦半岛危机升级，CJK 的功能合作能否撑住。</li>
+      <li>东京与首尔能否长期维持“安全靠美、沟通留中”的双轨平衡。</li>
+      <li>这是一段过渡期，还是东北亚未来几年的新常态。</li>
+      <li>制度化能否真正压住安全困境的外溢。</li>
+    </ul>
+  </div>
 </div>
 
 ---
@@ -617,11 +630,11 @@ mdc: true
   <div class="ref-card">
     <h3>官方文件</h3>
     <ul>
-      <li>White House, 2023-08-18: <em>The Spirit of Camp David</em>, <em>Camp David Principles</em>, <em>Commitment to Consult</em></li>
-      <li>MOFA Japan, 2024-05-27: <em>Joint Declaration for the 9th Summit</em></li>
+      <li>Kantei / MOFA Japan, 2023-08-18: <em>The Spirit of Camp David</em>, <em>Camp David Principles</em>, <em>Commitment to Consult</em></li>
+      <li>FMPRC, 2024-06-01: <em>Joint Declaration of the Ninth ROK-Japan-China Trilateral Summit</em></li>
       <li>MOFA Japan, 2025-03-22: The 11th Japan-China-ROK Trilateral Foreign Ministers’ Meeting</li>
-      <li>U.S. DoD, 2024-07 & 2025-01: extended deterrence, exercises, fourth NCG</li>
-      <li>Chinese MFA, 2023-08-18 spokesperson briefing on the U.S.-Japan-ROK summit</li>
+      <li>U.S. DoD, 2024-07-28, 2024-12-26, 2025-01-10: trilateral defense, extended deterrence, fourth NCG</li>
+      <li>FMPRC, 2023-08-21: spokesperson briefing on Camp David and “bloc confrontation” concerns</li>
     </ul>
   </div>
   <div class="ref-card">
@@ -631,9 +644,9 @@ mdc: true
       <li><em>China and the Korean Peninsula: A Chinese View</em></li>
       <li><em>China–Japan relations at a new juncture</em></li>
       <li>Tsuruoka on U.S. nuclear deterrence and alliances in Northeast Asia</li>
-      <li>East Asia Forum / Chatham House / SIPRI / IAEA complementary updates</li>
+      <li>Goh / Hwang & Kim / East Asia Forum / Stimson / Chatham House / KEI / JFIR / FRS</li>
     </ul>
   </div>
 </div>
 
-<div class="source-strip" style="margin-top: 0.7rem;">本 deck 依据本仓库演讲稿、`deepresearch/pol2610_topic9_10_pre_report.tex`、`mineru/` 解析文本与官方网页资料综合重构。</div>
+<div class="source-strip" style="margin-top: 0.7rem;">本 deck 依据 `deepresearch/pol2610_dual_trilateral_pre_report.tex`、`deepresearch/source-ledger-dual-trilateral.md`、`mineru/` 解析文本与官方网页资料综合重构。</div>
