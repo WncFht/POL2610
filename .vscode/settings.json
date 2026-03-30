@@ -1,0 +1,7 @@
+{
+  "slidev.include": [
+    "slides/slides.md"
+  ],
+  "slidev.port": 3030,
+  "slidev.dev-command": "pnpm exec slidev ${args}"
+}

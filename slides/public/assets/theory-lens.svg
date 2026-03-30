@@ -1,0 +1,35 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="900" rx="36" fill="#F6F1E8"/>
+  <text x="88" y="98" fill="#1B2430" font-size="48" font-family="Arial, Source Han Sans SC" font-weight="700">中等国家 + 联盟困境：为什么会出现“双轨选择”？</text>
+  <g font-family="Arial, Source Han Sans SC">
+    <rect x="92" y="176" width="350" height="504" rx="32" fill="#FFF7F2" stroke="#D99D8F" stroke-width="4"/>
+    <text x="130" y="242" fill="#8E2D23" font-size="36" font-weight="700">中等国家逻辑</text>
+    <text x="130" y="304" fill="#1B2430" font-size="26">资源有限，但有显著经济、外交与制度能力</text>
+    <text x="130" y="368" fill="#1B2430" font-size="26">偏好 coalition building / minilateralism</text>
+    <text x="130" y="432" fill="#1B2430" font-size="26">争取空间，而不是直接主导秩序</text>
+    <text x="130" y="496" fill="#1B2430" font-size="26">倾向在大国竞争间做风险管理</text>
+    <rect x="132" y="560" width="208" height="54" rx="16" fill="#FCE7DB"/>
+    <text x="158" y="595" fill="#8E2D23" font-size="22" font-weight="700">日韩适用</text>
+
+    <rect x="526" y="176" width="350" height="504" rx="32" fill="#F7FAFD" stroke="#9CB5CC" stroke-width="4"/>
+    <text x="564" y="242" fill="#214C74" font-size="36" font-weight="700">联盟困境逻辑</text>
+    <text x="564" y="304" fill="#1B2430" font-size="26">害怕 abandonment：美国承诺不够稳</text>
+    <text x="564" y="368" fill="#1B2430" font-size="26">也怕 entrapment：被拖入更大冲突</text>
+    <text x="564" y="432" fill="#1B2430" font-size="26">解法往往是更强 consultation / institutionalization</text>
+    <text x="564" y="496" fill="#1B2430" font-size="26">但同时保留额外外交与功能平台</text>
+    <rect x="566" y="560" width="208" height="54" rx="16" fill="#EAF3FA"/>
+    <text x="592" y="595" fill="#214C74" font-size="22" font-weight="700">美日韩适用</text>
+
+    <rect x="960" y="176" width="350" height="504" rx="32" fill="white" stroke="#D4D9E1" stroke-width="4"/>
+    <text x="998" y="242" fill="#1B2430" font-size="36" font-weight="700">双三边结果</text>
+    <text x="998" y="312" fill="#B03A2E" font-size="28" font-weight="700">对美</text>
+    <text x="998" y="352" fill="#1B2430" font-size="24">强化制度化威慑，压低 abandonment 风险</text>
+    <text x="998" y="428" fill="#1F4E79" font-size="28" font-weight="700">对中</text>
+    <text x="998" y="468" fill="#1B2430" font-size="24">保留 CJK 平台，避免战略空间被锁死</text>
+    <text x="998" y="544" fill="#5D6472" font-size="24">结果不是选一边，而是把不同功能放进不同机制</text>
+    <rect x="998" y="596" width="214" height="54" rx="16" fill="#F1F4F8"/>
+    <text x="1026" y="631" fill="#1B2430" font-size="22" font-weight="700">双轨对冲</text>
+  </g>
+  <path d="M442 428H520" stroke="#8E2D23" stroke-width="12" stroke-linecap="round"/>
+  <path d="M876 428H954" stroke="#214C74" stroke-width="12" stroke-linecap="round"/>
+</svg>

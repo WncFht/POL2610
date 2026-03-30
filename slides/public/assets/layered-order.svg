@@ -1,0 +1,19 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="32" fill="#F7F2EA"/>
+  <text x="82" y="88" fill="#1B2430" font-size="42" font-family="Arial, Source Han Sans SC" font-weight="700">东北亚秩序更像“分层”而非“分裂”</text>
+  <text x="82" y="126" fill="#5D6472" font-size="24" font-family="Arial, Source Han Sans SC">上层处理威慑与同盟，下层保留功能合作与外交接触</text>
+  <rect x="82" y="178" width="1036" height="182" rx="34" fill="#DCE8F3"/>
+  <rect x="82" y="392" width="1036" height="220" rx="34" fill="#F3D8C8"/>
+  <text x="120" y="246" fill="#214C74" font-size="34" font-family="Arial, Source Han Sans SC" font-weight="700">安全威慑层</text>
+  <text x="120" y="288" fill="#214C74" font-size="24" font-family="Arial, Source Han Sans SC">美日韩：CtC、导弹预警共享、Freedom Edge、EDSCG / NCG、延伸威慑</text>
+  <text x="120" y="332" fill="#214C74" font-size="24" font-family="Arial, Source Han Sans SC">关键词：高政治、军政协调、危机磋商、核咨询</text>
+  <text x="120" y="462" fill="#8E2D23" font-size="34" font-family="Arial, Source Han Sans SC" font-weight="700">功能合作层</text>
+  <text x="120" y="506" fill="#8E2D23" font-size="24" font-family="Arial, Source Han Sans SC">中日韩：峰会恢复、外长会、人文交流、经贸、科技、卫生、灾害与民生合作</text>
+  <text x="120" y="550" fill="#8E2D23" font-size="24" font-family="Arial, Source Han Sans SC">关键词：低政治、可见成效、沟通保留、去安全化议题</text>
+  <g font-family="Arial, Source Han Sans SC" font-size="22" font-weight="700">
+    <rect x="833" y="228" width="232" height="72" rx="20" fill="#F9FCFF" stroke="#9CB5CC"/>
+    <text x="870" y="273" fill="#214C74">更强，也更敏感</text>
+    <rect x="833" y="462" width="232" height="72" rx="20" fill="#FFF8F4" stroke="#D99D8F"/>
+    <text x="862" y="507" fill="#8E2D23">更弱，但仍必要</text>
+  </g>
+</svg>

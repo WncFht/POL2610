@@ -1,0 +1,39 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" rx="32" fill="#F6F1E8"/>
+  <rect x="55" y="64" width="1170" height="592" rx="28" fill="white" stroke="#DFD5C6"/>
+  <rect x="112" y="146" width="1054" height="160" rx="28" fill="#F7DDD0"/>
+  <rect x="112" y="384" width="1054" height="160" rx="28" fill="#DCE8F3"/>
+  <text x="132" y="122" fill="#8E2D23" font-size="34" font-family="Arial, Source Han Sans SC" font-weight="700">中日韩合作轨道</text>
+  <text x="132" y="360" fill="#214C74" font-size="34" font-family="Arial, Source Han Sans SC" font-weight="700">美日韩威慑轨道</text>
+  <line x1="194" y1="226" x2="1095" y2="226" stroke="#B03A2E" stroke-width="12" stroke-linecap="round"/>
+  <line x1="194" y1="464" x2="1095" y2="464" stroke="#1F4E79" stroke-width="12" stroke-linecap="round"/>
+  <g font-family="Arial, Source Han Sans SC" font-size="26" fill="#1B2430">
+    <text x="176" y="625">2023.08</text>
+    <text x="383" y="625">2024.05</text>
+    <text x="595" y="625">2024.07</text>
+    <text x="802" y="625">2025.01</text>
+    <text x="1008" y="625">2025.03</text>
+  </g>
+  <g font-family="Arial, Source Han Sans SC" font-size="24" font-weight="700">
+    <circle cx="214" cy="464" r="20" fill="#1F4E79"/>
+    <circle cx="421" cy="226" r="20" fill="#B03A2E"/>
+    <circle cx="634" cy="464" r="20" fill="#1F4E79"/>
+    <circle cx="840" cy="464" r="20" fill="#1F4E79"/>
+    <circle cx="1047" cy="226" r="20" fill="#B03A2E"/>
+    <rect x="158" y="117" width="280" height="82" rx="22" fill="#FFF8F4" stroke="#D99D8F"/>
+    <text x="180" y="150" fill="#8E2D23">2024.05 首尔峰会重启</text>
+    <text x="180" y="181" fill="#8E2D23" font-size="20">功能合作与民生议题回归</text>
+    <rect x="793" y="117" width="270" height="82" rx="22" fill="#FFF8F4" stroke="#D99D8F"/>
+    <text x="816" y="150" fill="#8E2D23">2025.03 外长会延续</text>
+    <text x="816" y="181" fill="#8E2D23" font-size="20">合作继续但避开高政治</text>
+    <rect x="79" y="500" width="290" height="88" rx="22" fill="#F7FAFD" stroke="#9CB5CC"/>
+    <text x="102" y="534" fill="#214C74">2023.08 Camp David</text>
+    <text x="102" y="565" fill="#214C74" font-size="20">三份文件奠定制度化框架</text>
+    <rect x="491" y="500" width="287" height="88" rx="22" fill="#F7FAFD" stroke="#9CB5CC"/>
+    <text x="516" y="534" fill="#214C74">2024.07 Freedom Edge</text>
+    <text x="516" y="565" fill="#214C74" font-size="20">演训与延伸威慑同步推进</text>
+    <rect x="785" y="500" width="270" height="88" rx="22" fill="#F7FAFD" stroke="#9CB5CC"/>
+    <text x="809" y="534" fill="#214C74">2025.01 第四次 NCG</text>
+    <text x="809" y="565" fill="#214C74" font-size="20">核咨询与规划继续深化</text>
+  </g>
+</svg>

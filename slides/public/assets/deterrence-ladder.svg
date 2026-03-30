@@ -1,0 +1,26 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="32" fill="#EEF4FA"/>
+  <text x="85" y="86" fill="#1F4E79" font-size="42" font-family="Arial, Source Han Sans SC" font-weight="700">制度化威慑的“五级台阶”</text>
+  <text x="86" y="126" fill="#51657B" font-size="24" font-family="Arial, Source Han Sans SC">从一次峰会，走向可重复的咨询、共享与演训体系</text>
+  <g font-family="Arial, Source Han Sans SC" font-weight="700">
+    <rect x="92" y="528" width="250" height="112" rx="28" fill="#D4E5F4"/>
+    <text x="124" y="572" fill="#214C74" font-size="28">1. 三份 Camp David 文件</text>
+    <text x="124" y="610" fill="#214C74" font-size="22">定义共同原则与 CtC</text>
+    <rect x="290" y="420" width="250" height="112" rx="28" fill="#C6DDF1"/>
+    <text x="323" y="464" fill="#214C74" font-size="28">2. 年度峰会 / 部长会</text>
+    <text x="323" y="502" fill="#214C74" font-size="22">把机制变成固定节奏</text>
+    <rect x="490" y="316" width="250" height="112" rx="28" fill="#B7D5EE"/>
+    <text x="522" y="360" fill="#214C74" font-size="28">3. 导弹预警数据共享</text>
+    <text x="522" y="398" fill="#214C74" font-size="22">把协调嵌入实时操作</text>
+    <rect x="690" y="210" width="250" height="112" rx="28" fill="#A2C8E8"/>
+    <text x="726" y="254" fill="#214C74" font-size="28">4. Freedom Edge 演习</text>
+    <text x="726" y="292" fill="#214C74" font-size="22">把合作扩展到多域联训</text>
+    <rect x="888" y="104" width="250" height="112" rx="28" fill="#84B5DD"/>
+    <text x="927" y="148" fill="#214C74" font-size="28">5. EDSCG / NCG / 指南</text>
+    <text x="927" y="186" fill="#214C74" font-size="22">把核咨询写入程序化规则</text>
+  </g>
+  <path d="M109 532L289 426" stroke="#214C74" stroke-width="12" stroke-linecap="round"/>
+  <path d="M309 424L489 320" stroke="#214C74" stroke-width="12" stroke-linecap="round"/>
+  <path d="M509 320L689 214" stroke="#214C74" stroke-width="12" stroke-linecap="round"/>
+  <path d="M709 214L889 108" stroke="#214C74" stroke-width="12" stroke-linecap="round"/>
+</svg>
