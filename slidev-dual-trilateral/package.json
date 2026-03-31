@@ -1,0 +1,16 @@
+{
+  "name": "pol2610-slidev-dual-trilateral",
+  "private": true,
+  "version": "0.0.0",
+  "packageManager": "pnpm@10.33.0",
+  "scripts": {
+    "dev": "slidev slides.md --port 3030 --remote",
+    "dev:local": "slidev slides.md --port 3030",
+    "build": "slidev build slides.md",
+    "export": "slidev export slides.md"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^52.6.0",
+    "@slidev/theme-default": "^0.25.0"
+  }
+}

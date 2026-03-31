@@ -1,0 +1,363 @@
+{
+  "selected_variant": "classroom_friendly",
+  "deck_title": "Why Japan and South Korea Want Both U.S. Security Insurance and a China Interface",
+  "page_plan_goal": "Translate the classroom-friendly outline into page-level implementation decisions with clarity-first layouts and minimal visual complexity.",
+  "density_review": {
+    "overall_decision": "keep_11_slides",
+    "reason": "The classroom-friendly outline is already paced for a 15-minute presentation. No slide requires splitting if timeline, comparison, and synthesis pages are rendered as structured visuals rather than dense bullet lists."
+  },
+  "slides": [
+    {
+      "id": "c01",
+      "title": "Why Do Japan and South Korea Want Both?",
+      "slide_type": "cover",
+      "visual_pattern": "thesis-cover-with-question-hook",
+      "layout_strategy": "built-in-cover",
+      "major_blocks": [
+        {
+          "kind": "title",
+          "content": "Main title in large type"
+        },
+        {
+          "kind": "subtitle",
+          "content": "Short framing line: U.S. security insurance and China interface"
+        },
+        {
+          "kind": "thesis-teaser",
+          "content": "One-sentence hook stating that the issue is alliance management, not simple side-choosing"
+        }
+      ],
+      "needs_chart": false,
+      "needs_svg": false,
+      "speaker_goal": "Hook the room immediately and define the talk as a strategic puzzle rather than a descriptive chronology.",
+      "density_check": {
+        "status": "keep",
+        "reason": "Cover slide remains sparse by design."
+      }
+    },
+    {
+      "id": "c02",
+      "title": "One Region, Two Tracks",
+      "slide_type": "timeline",
+      "visual_pattern": "dual-lane-milestone-timeline",
+      "layout_strategy": "layout-none-with-single-custom-svg",
+      "major_blocks": [
+        {
+          "kind": "title",
+          "content": "Timeline title and short orientation sentence"
+        },
+        {
+          "kind": "timeline-lane-top",
+          "content": "U.S.-Japan-ROK security lane with 2023-2025 milestones"
+        },
+        {
+          "kind": "timeline-lane-bottom",
+          "content": "China-facing/CJK lane with 2024-2025 milestones"
+        },
+        {
+          "kind": "legend",
+          "content": "Simple color code distinguishing reassurance track and interface track"
+        },
+        {
+          "kind": "bottom-takeaway",
+          "content": "One-line conclusion: the region moved into a dual-track structure"
+        }
+      ],
+      "needs_chart": false,
+      "needs_svg": true,
+      "speaker_goal": "Give the audience one clean empirical map before theory and cases begin.",
+      "density_check": {
+        "status": "keep",
+        "reason": "Potentially dense, but manageable if rendered as a two-lane SVG with short labels instead of bullets."
+      }
+    },
+    {
+      "id": "c03",
+      "title": "Key Idea: Alliance Management, Not Simple Side-Choosing",
+      "slide_type": "concept-explainer",
+      "visual_pattern": "alliance-dilemma-two-risk-diagram",
+      "layout_strategy": "built-in-two-cols-header-with-inline-svg-or-css-diagram",
+      "major_blocks": [
+        {
+          "kind": "title",
+          "content": "Theory title"
+        },
+        {
+          "kind": "concept-diagram",
+          "content": "Simple visual showing abandonment on one side and entrapment on the other"
+        },
+        {
+          "kind": "application-left",
+          "content": "Why stronger U.S. reassurance reduces abandonment"
+        },
+        {
+          "kind": "application-right",
+          "content": "Why a China interface reduces entrapment and instability"
+        }
+      ],
+      "needs_chart": false,
+      "needs_svg": true,
+      "speaker_goal": "Give the audience the minimum theory needed to understand every slide that follows.",
+      "density_check": {
+        "status": "keep",
+        "reason": "Conceptual slide stays readable if the theory is reduced to one diagram and two short applications."
+      }
+    },
+    {
+      "id": "c04",
+      "title": "Japan Case 1: Why Tokyo Wanted Harder U.S. Insurance",
+      "slide_type": "case-evidence",
+      "visual_pattern": "claim-plus-three-evidence-cards",
+      "layout_strategy": "layout-none-with-card-grid",
+      "major_blocks": [
+        {
+          "kind": "claim-banner",
+          "content": "Main claim: Japan sought more institutional and predictable U.S. commitments"
+        },
+        {
+          "kind": "evidence-card",
+          "content": "Camp David"
+        },
+        {
+          "kind": "evidence-card",
+          "content": "U.S.-Japan extended deterrence ministerial statement"
+        },
+        {
+          "kind": "evidence-card",
+          "content": "Guidelines for Extended Deterrence"
+        },
+        {
+          "kind": "theory-tag",
+          "content": "Small label tying the slide to abandonment reduction"
+        }
+      ],
+      "needs_chart": false,
+      "needs_svg": false,
+      "speaker_goal": "Show that Japan was trying to make U.S. reassurance more visible, formal, and durable.",
+      "density_check": {
+        "status": "keep",
+        "reason": "Three evidence cards are enough; adding more would overload the slide."
+      }
+    },
+    {
+      "id": "c05",
+      "title": "Japan Case 2: Why Tokyo Still Kept China Channels Open",
+      "slide_type": "case-evidence",
+      "visual_pattern": "two-interface-cards-plus-limited-scope-note",
+      "layout_strategy": "built-in-two-cols-header",
+      "major_blocks": [
+        {
+          "kind": "left-card",
+          "content": "Japan-China defense hotline as crisis-management interface"
+        },
+        {
+          "kind": "right-card",
+          "content": "High-level economic dialogue as controlled economic-governance interface"
+        },
+        {
+          "kind": "scope-note",
+          "content": "Bottom strip noting that the interface is narrow, not trust-based"
+        }
+      ],
+      "needs_chart": false,
+      "needs_svg": false,
+      "speaker_goal": "Prove that the Japan case is not pure containment and that interface preservation is part of the strategy.",
+      "density_check": {
+        "status": "keep",
+        "reason": "Only two evidence blocks plus one interpretive note; no split needed."
+      }
+    },
+    {
+      "id": "c06",
+      "title": "South Korea Case 1: Why Seoul Wanted Even More Reassurance",
+      "slide_type": "case-evidence",
+      "visual_pattern": "reassurance-ladder",
+      "layout_strategy": "layout-none-with-vertical-process-cards",
+      "major_blocks": [
+        {
+          "kind": "top-claim",
+          "content": "Main claim: South Korea pushed for even more visible reassurance than Japan"
+        },
+        {
+          "kind": "step-card",
+          "content": "Washington Declaration"
+        },
+        {
+          "kind": "step-card",
+          "content": "NCG institutionalization"
+        },
+        {
+          "kind": "step-card",
+          "content": "Strategic-asset visibility and planning"
+        },
+        {
+          "kind": "bottom-tag",
+          "content": "Interpretive tag: stronger nuclear anxiety produces stronger reassurance demands"
+        }
+      ],
+      "needs_chart": false,
+      "needs_svg": false,
+      "speaker_goal": "Make the audience see why the Korean case is a stronger reassurance case, not just another copy of Japan.",
+      "density_check": {
+        "status": "keep",
+        "reason": "Vertical sequencing makes the evidence feel cumulative without requiring a separate slide."
+      }
+    },
+    {
+      "id": "c07",
+      "title": "South Korea Case 2: Why Seoul Also Kept a China Interface",
+      "slide_type": "case-evidence",
+      "visual_pattern": "driver-card-plus-interface-card",
+      "layout_strategy": "built-in-two-cols-header-with-bottom-summary",
+      "major_blocks": [
+        {
+          "kind": "left-column",
+          "content": "Why China still matters: North Korea, regional stability, economic exposure"
+        },
+        {
+          "kind": "right-column",
+          "content": "Korea-China foreign ministers' meeting as evidence of preserved interface"
+        },
+        {
+          "kind": "bottom-summary",
+          "content": "One-line inference: Seoul wanted stronger insurance without erasing diplomatic room"
+        }
+      ],
+      "needs_chart": false,
+      "needs_svg": false,
+      "speaker_goal": "Show that South Korea's China interface is structurally thicker than Japan's, not just tactically convenient.",
+      "density_check": {
+        "status": "keep",
+        "reason": "The left side carries causes and the right side carries evidence; the balance is manageable."
+      }
+    },
+    {
+      "id": "c08",
+      "title": "Japan and South Korea: Same Dilemma, Different Balance",
+      "slide_type": "comparison",
+      "visual_pattern": "four-row-comparison-matrix",
+      "layout_strategy": "layout-none-with-custom-html-table-cards",
+      "major_blocks": [
+        {
+          "kind": "column-header",
+          "content": "Japan"
+        },
+        {
+          "kind": "column-header",
+          "content": "South Korea"
+        },
+        {
+          "kind": "row",
+          "content": "Security insurance logic"
+        },
+        {
+          "kind": "row",
+          "content": "China interface logic"
+        },
+        {
+          "kind": "row",
+          "content": "Main strategic driver"
+        },
+        {
+          "kind": "row",
+          "content": "Bottom-line characterization: balancing-heavy vs interface-heavy"
+        }
+      ],
+      "needs_chart": false,
+      "needs_svg": false,
+      "speaker_goal": "Give the audience one memorable side-by-side slide that locks in the two-case distinction.",
+      "density_check": {
+        "status": "keep",
+        "reason": "A four-row matrix is readable at 16:9; adding more categories would require a split."
+      }
+    },
+    {
+      "id": "c09",
+      "title": "What This Says About Northeast Asia",
+      "slide_type": "regional-synthesis",
+      "visual_pattern": "bifurcated-order-architecture",
+      "layout_strategy": "layout-none-with-single-custom-svg",
+      "major_blocks": [
+        {
+          "kind": "title",
+          "content": "Regional-order title"
+        },
+        {
+          "kind": "architecture-diagram",
+          "content": "Two-track order diagram showing hard-security lane and China-facing governance/interface lane"
+        },
+        {
+          "kind": "actor-labels",
+          "content": "Japan and South Korea positioned between the two tracks"
+        },
+        {
+          "kind": "bottom-thesis",
+          "content": "One-line order claim: bifurcated by function, not fully split by membership"
+        }
+      ],
+      "needs_chart": false,
+      "needs_svg": true,
+      "speaker_goal": "Scale the two country cases up into one clear regional-order interpretation.",
+      "density_check": {
+        "status": "keep",
+        "reason": "This would be too dense as bullets, but one explanatory SVG keeps it to a single slide."
+      }
+    },
+    {
+      "id": "c10",
+      "title": "Did the Pattern Stop in 2025?",
+      "slide_type": "validation",
+      "visual_pattern": "continuity-check-two-card",
+      "layout_strategy": "built-in-two-cols",
+      "major_blocks": [
+        {
+          "kind": "left-card",
+          "content": "U.S.-Japan-ROK track after 2025: continued deepening"
+        },
+        {
+          "kind": "right-card",
+          "content": "CJK track after 2025: slower but still functioning"
+        },
+        {
+          "kind": "footer-line",
+          "content": "Validation sentence explaining why the main 2023-2025 argument still stands"
+        }
+      ],
+      "needs_chart": false,
+      "needs_svg": false,
+      "speaker_goal": "Reassure the audience that the argument is not frozen in 2025 and that later evidence supports the pattern.",
+      "density_check": {
+        "status": "keep",
+        "reason": "A two-card validation format is enough because this is a checking slide, not a new analytical section."
+      }
+    },
+    {
+      "id": "c11",
+      "title": "Final Takeaway",
+      "slide_type": "conclusion",
+      "visual_pattern": "statement-with-three-part-recap",
+      "layout_strategy": "built-in-statement-or-end",
+      "major_blocks": [
+        {
+          "kind": "main-statement",
+          "content": "Japan and South Korea use two institutional tracks to manage two strategic risks"
+        },
+        {
+          "kind": "recap-line",
+          "content": "Track one: U.S. security insurance"
+        },
+        {
+          "kind": "recap-line",
+          "content": "Track two: China-facing interface"
+        }
+      ],
+      "needs_chart": false,
+      "needs_svg": false,
+      "speaker_goal": "Leave the class with the shortest defensible thesis they can remember after the presentation ends.",
+      "density_check": {
+        "status": "keep",
+        "reason": "Conclusion slide should stay sparse and memorable."
+      }
+    }
+  ]
+}

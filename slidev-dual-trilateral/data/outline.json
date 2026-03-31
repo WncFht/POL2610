@@ -1,0 +1,226 @@
+{
+  "deck_title": "Japan and South Korea Between U.S. Security Insurance and China Interface",
+  "audience": "POL2610 classroom audience",
+  "goal": "Build an English Slidev deck that explains Northeast Asia's dual-trilateral order through alliance management, with separate Japan and South Korea cases.",
+  "note": "Outline stage only. Two variants are included for confirmation. No slides.md has been written.",
+  "variants": [
+    {
+      "id": "academic_strong",
+      "label": "Academic-Argument-Heavy",
+      "deck_title": "Alliance Management in Northeast Asia: Japan and South Korea Between U.S. Security Insurance and China Interface",
+      "audience": "Instructor and classmates expecting a theory-led argument",
+      "goal": "Present a structured argument centered on alliance management, abandonment, entrapment, and differentiated Japan/ROK strategies within the 2023-2025 dual-trilateral formation process.",
+      "slides": [
+        {
+          "id": "a01",
+          "title": "Alliance Management in Northeast Asia",
+          "intent": "Open the deck with the central question and signal that Japan and South Korea will be treated as separate cases.",
+          "key_message": "The core puzzle is not whether Tokyo and Seoul chose sides, but how they managed two sets of risks at once.",
+          "evidence_refs": [],
+          "suggested_layout": "cover"
+        },
+        {
+          "id": "a02",
+          "title": "The Puzzle: Why Do Two Tracks Coexist?",
+          "intent": "Frame the empirical puzzle created by the simultaneous rise of U.S.-Japan-ROK security institutionalization and the revival of CJK cooperation.",
+          "key_message": "From 2023 to 2025, Northeast Asia did not move toward one bloc, but toward two parallel trilateral tracks with different functions.",
+          "evidence_refs": ["O1", "O3", "O15", "O17", "O18"],
+          "suggested_layout": "question-frame"
+        },
+        {
+          "id": "a03",
+          "title": "Theoretical Lens: Alliance Management",
+          "intent": "Define the main theoretical framework before entering the cases.",
+          "key_message": "Japan and South Korea respond to an alliance dilemma in which abandonment and entrapment must be managed simultaneously.",
+          "evidence_refs": ["A1", "A2", "A3", "A6", "L3"],
+          "suggested_layout": "theory-diagram"
+        },
+        {
+          "id": "a04",
+          "title": "Formation Timeline, 2023-2025",
+          "intent": "Establish the sequence through which the dual-trilateral structure took shape.",
+          "key_message": "The dual-track structure emerged through cumulative milestones: Camp David and Washington Declaration on one side, CJK summit and renewed bilateral interfaces on the other.",
+          "evidence_refs": ["O1", "O2", "O3", "O6", "O7", "O9", "O15", "O17", "O4"],
+          "suggested_layout": "timeline"
+        },
+        {
+          "id": "a05",
+          "title": "Japan Case I: Why Tokyo Wanted Stronger U.S. Insurance",
+          "intent": "Explain the strategic logic behind Japan's push for deeper alliance reassurance.",
+          "key_message": "Tokyo used trilateral and bilateral deterrence mechanisms to reduce abandonment risk under worsening regional security conditions.",
+          "evidence_refs": ["O1", "O6", "O7", "O8", "A1", "A6", "L3"],
+          "suggested_layout": "two-column-evidence"
+        },
+        {
+          "id": "a06",
+          "title": "Japan Case II: Why Tokyo Still Kept a China Interface",
+          "intent": "Show that stronger balancing did not eliminate the need for crisis management and economic governance channels with China.",
+          "key_message": "Japan paired stronger deterrence with limited but deliberate interfaces to China through defense and economic mechanisms.",
+          "evidence_refs": ["O16", "O17", "O3", "L5", "L6"],
+          "suggested_layout": "two-column-evidence"
+        },
+        {
+          "id": "a07",
+          "title": "Japan Case Synthesis: Balancing-Heavy Alliance Management",
+          "intent": "Condense the Japanese case into one analytical proposition.",
+          "key_message": "Japan's strategy is best read as balancing-heavy alliance management: deepen U.S. reassurance, keep China channels narrow but functional.",
+          "evidence_refs": ["A1", "A6", "O7", "O16", "O17"],
+          "suggested_layout": "synthesis-card"
+        },
+        {
+          "id": "a08",
+          "title": "ROK Case I: Why Seoul Wanted Even Stronger Reassurance",
+          "intent": "Explain why the South Korean case intensified alliance reassurance even more explicitly than Japan.",
+          "key_message": "Washington Declaration and the NCG made alliance reassurance more visible because Seoul faced sharper nuclear anxiety and credibility concerns.",
+          "evidence_refs": ["O15", "O9", "O1", "O6", "A2", "L3"],
+          "suggested_layout": "two-column-evidence"
+        },
+        {
+          "id": "a09",
+          "title": "ROK Case II: Why Seoul Still Needed a China Interface",
+          "intent": "Show how South Korea preserved channels to China despite a pro-alliance turn.",
+          "key_message": "Because of peninsula dynamics, China leverage over North Korea, and economic exposure, Seoul retained stronger interface incentives than Tokyo.",
+          "evidence_refs": ["O18", "O3", "O4", "A3", "A4", "L4"],
+          "suggested_layout": "two-column-evidence"
+        },
+        {
+          "id": "a10",
+          "title": "ROK Case Synthesis: Interface-Heavy Alliance Management",
+          "intent": "Condense the South Korean case into one analytical proposition.",
+          "key_message": "South Korea also deepened alliance reassurance, but it preserved a thicker China interface because its entrapment and exposure concerns are more immediate.",
+          "evidence_refs": ["A2", "A3", "A4", "O15", "O18"],
+          "suggested_layout": "synthesis-card"
+        },
+        {
+          "id": "a11",
+          "title": "Japan vs. South Korea: Same Logic, Different Weights",
+          "intent": "Directly compare the two cases under the same theoretical lens.",
+          "key_message": "Both states manage the same alliance dilemma, but Japan weights balancing more heavily while South Korea weights interface preservation more heavily.",
+          "evidence_refs": ["O7", "O15", "O16", "O17", "O18", "A1", "A2", "A4", "A6"],
+          "suggested_layout": "comparison-matrix"
+        },
+        {
+          "id": "a12",
+          "title": "What This Means for Northeast Asian Order",
+          "intent": "Scale the two cases up to a regional-order argument.",
+          "key_message": "The emerging order is bifurcated by function: deterrence is organized more through U.S.-Japan-ROK, while diplomacy, economic governance, and buffering still need China-facing interfaces.",
+          "evidence_refs": ["L2", "S2", "O10", "O11", "A5"],
+          "suggested_layout": "order-diagram"
+        },
+        {
+          "id": "a13",
+          "title": "Caveats: This Is Not Pure Hedging and Not a Stable End State",
+          "intent": "Prevent over-claiming and clarify the limits of the argument.",
+          "key_message": "The cases should not be reduced to classic hedging, and the dual-trilateral structure remains uneven, contingent, and politically reversible.",
+          "evidence_refs": ["A3", "A5", "I1", "O11", "O12"],
+          "suggested_layout": "caveat-list"
+        },
+        {
+          "id": "a14",
+          "title": "Conclusion: Two Cases, One Regional Logic",
+          "intent": "Close the argument and tie the cases back to the thesis.",
+          "key_message": "Japan and South Korea are not oscillating between camps; they are managing alliance risks through two parallel institutional tracks in a reordered Northeast Asia.",
+          "evidence_refs": ["A1", "A2", "O12", "I1"],
+          "suggested_layout": "end"
+        }
+      ]
+    },
+    {
+      "id": "classroom_friendly",
+      "label": "Classroom-Presentation-First",
+      "deck_title": "Why Japan and South Korea Want Both U.S. Security Insurance and a China Interface",
+      "audience": "Classroom audience that benefits from clear sequencing, lower theory density, and stronger narrative flow",
+      "goal": "Explain the 2023-2025 formation process in an accessible way while keeping alliance theory as the main interpretive frame and separating Japan and South Korea into two cases.",
+      "slides": [
+        {
+          "id": "c01",
+          "title": "Why Do Japan and South Korea Want Both?",
+          "intent": "Open with a direct hook that turns the topic into a concrete strategic puzzle.",
+          "key_message": "The real question is why two U.S. allies strengthened deterrence with Washington while still preserving channels to China.",
+          "evidence_refs": [],
+          "suggested_layout": "cover"
+        },
+        {
+          "id": "c02",
+          "title": "One Region, Two Tracks",
+          "intent": "Give the audience one visual map of the 2023-2025 process before analysis begins.",
+          "key_message": "From Camp David to the 2025 CJK and China-facing meetings, Northeast Asia moved into a dual-track structure rather than a single bloc order.",
+          "evidence_refs": ["O1", "O3", "O15", "O7", "O9", "O17", "O4"],
+          "suggested_layout": "timeline"
+        },
+        {
+          "id": "c03",
+          "title": "Key Idea: Alliance Management, Not Simple Side-Choosing",
+          "intent": "Introduce the theory in the lightest possible way while keeping it as the main framework.",
+          "key_message": "Japan and South Korea want stronger U.S. protection against abandonment, but they also want to avoid the costs of entrapment and total rupture with China.",
+          "evidence_refs": ["A1", "A2", "L3"],
+          "suggested_layout": "concept-explainer"
+        },
+        {
+          "id": "c04",
+          "title": "Japan Case 1: Why Tokyo Wanted Harder U.S. Insurance",
+          "intent": "Present Japan's security logic in a clean, classroom-friendly way.",
+          "key_message": "Tokyo strengthened trilateral and bilateral deterrence because it wanted U.S. commitments to be more institutional, visible, and predictable.",
+          "evidence_refs": ["O1", "O7", "O8", "A1", "A6"],
+          "suggested_layout": "evidence-grid"
+        },
+        {
+          "id": "c05",
+          "title": "Japan Case 2: Why Tokyo Still Kept China Channels Open",
+          "intent": "Show that the Japan case is not a story of pure containment.",
+          "key_message": "Even while balancing more strongly, Japan preserved limited China interfaces for crisis management and economic governance.",
+          "evidence_refs": ["O16", "O17", "O3", "L5"],
+          "suggested_layout": "evidence-grid"
+        },
+        {
+          "id": "c06",
+          "title": "South Korea Case 1: Why Seoul Wanted Even More Reassurance",
+          "intent": "Explain why the Korean case pushed reassurance further and more visibly.",
+          "key_message": "Because the nuclear problem is immediate on the peninsula, Seoul sought stronger and more visible reassurance than before through Washington Declaration and the NCG.",
+          "evidence_refs": ["O15", "O9", "O1", "A2"],
+          "suggested_layout": "evidence-grid"
+        },
+        {
+          "id": "c07",
+          "title": "South Korea Case 2: Why Seoul Also Kept a China Interface",
+          "intent": "Show why South Korea had stronger incentives than Japan to preserve China-facing channels.",
+          "key_message": "Seoul still needed high-level communication with China because of North Korea, economic exposure, and the risk of over-locking itself into one confrontation track.",
+          "evidence_refs": ["O18", "O3", "O4", "A3", "A4"],
+          "suggested_layout": "evidence-grid"
+        },
+        {
+          "id": "c08",
+          "title": "Japan and South Korea: Same Dilemma, Different Balance",
+          "intent": "Give the audience one memorable comparison slide.",
+          "key_message": "Japan is more balancing-heavy, while South Korea is more interface-heavy, but both are operating under the same alliance-management logic.",
+          "evidence_refs": ["O7", "O15", "O16", "O17", "O18"],
+          "suggested_layout": "comparison-table"
+        },
+        {
+          "id": "c09",
+          "title": "What This Says About Northeast Asia",
+          "intent": "Move from the two cases to the regional-order implication.",
+          "key_message": "Northeast Asia is being reorganized by function: hard security deepens through U.S.-Japan-ROK, while buffering and governance still require China-facing channels.",
+          "evidence_refs": ["L2", "S2", "A5", "O10"],
+          "suggested_layout": "synthesis-diagram"
+        },
+        {
+          "id": "c10",
+          "title": "Did the Pattern Stop in 2025?",
+          "intent": "Use post-2025 evidence as validation without derailing the main 2023-2025 narrative.",
+          "key_message": "No: later evidence suggests the U.S.-Japan-ROK side kept deepening while the CJK side remained slower but still alive.",
+          "evidence_refs": ["O11", "O12", "I1"],
+          "suggested_layout": "validation-slide"
+        },
+        {
+          "id": "c11",
+          "title": "Final Takeaway",
+          "intent": "End with the shortest defensible thesis for classroom delivery.",
+          "key_message": "Japan and South Korea are not choosing between America and China once and for all; they are using two different institutional tracks to manage two different strategic risks.",
+          "evidence_refs": ["A1", "A2", "O15", "O17", "O18"],
+          "suggested_layout": "end"
+        }
+      ]
+    }
+  ]
+}
