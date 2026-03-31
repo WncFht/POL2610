@@ -2,3 +2,4 @@
 *.log
 slides/node_modules/
 slides/dist/
+slides-backup/

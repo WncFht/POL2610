@@ -3,3 +3,4 @@ dist
 .slidev
 .slidev-dev.pid
 .slidev-dev.log
+slides-export.pdf
